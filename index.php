@@ -11,7 +11,7 @@
 	      <img class="img-fluid" src="img/sant-jordi-llibre-i-roses1-1748x984.jpg" alt="First slide">
 	    </div>
 	    <div class="carousel-item">
-	      <a href="llegenda.php"><img class="d-block w-100" src="img/SantJordi2014.jpg" alt="Second slide"></a>
+	      <a href="llegenda.php"><img class="d-block w-100" src="img/SantJordi2014.png" alt="Second slide"></a>
 	      <div class="carousel-caption d-none d-md-block">
 		    <h5>Llegenda de Sant Jordi</h5>
 		  </div> 
