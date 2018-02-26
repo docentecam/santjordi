@@ -1,5 +1,5 @@
 </div>
-	<div>
+	<div class="bg-dark">
 		<img src="img/ajuntament.png" class="img-fluid col-2">
 		<img src="img/Barcelona-Activa.png" class="img-fluid col-2">
 		<img src="img/generalitat.png" class="img-fluid col-2">
