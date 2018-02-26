@@ -1,9 +1,9 @@
 <?php include("inc/head.php");?>
 	<div class="row">
-		<div class="col-sm-12 col-lg-6">
+		<div class="col-sm-12 col-md-6 col-lg-6">
 			<img src="img/dragon_.gif">
 		</div>
-		<div class="col-sm-12 col-lg-6">
+		<div class="col-sm-12 col-md-6 col-lg-6">
 			<p>Conta la llegenda que Sant Jordi era un soldat romà nascut al Pròxim Orient i és el gran protagonista d'una gran gesta cavalleresca que se situa a Líbia. Tot i això, certa tradició catalana la creu esdevinguda a la població de Montblanc.
 
 			Diuen que assolava els voltants de la vila un drac ferotge i terrible, que posseïa les facultats de caminar, volar i nedar, i tenia l'alè pudent, fins al punt que des de molt lluny amb les seves alenades enverinava l'aire, i produïa la mort de tots els qui el respiraven. Era l'estrall dels ramats i de les persones i per tota aquella contrada regnava el terror més profund. Els habitants van pensar que si li donaven cada dia una persona que li serviria de presa, no faria l'estrall a tort i a dret. De fet, la llegenda diu, que el sistema els va sortir d'allò més bé, però el que era realment complicat, era de trobar una persona que cada dia es deixés menjar per aquell monstre. Tot el veïnat va decidir doncs, de fer cada dia un sorteig entre tots els habitants de la vila i que aquell que destinés la sort seria lliurat a la "simpàtica" fera.</p>
