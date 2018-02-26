@@ -1,7 +1,7 @@
 nav{
 	background-image: url("../img/green-dragon-skin.jpg")!important;
 }
-div.carousel-indicators > li {
+.carousel-indicators > li {
  	border-radius: 50%;
 	width: 12px;
 	height: 12px;
