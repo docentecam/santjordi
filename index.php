@@ -8,16 +8,16 @@
 	  </ol>
 	  <div class="carousel-inner">
 	    <div class="carousel-item active">
-	      <img class="d-block w-100 img-fluid" src="img/ruta-medieval-montblanc-sant-jordi.jpg" alt="First slide">
+	      <img class="d-block w-100" src="img/santjordi.jpg" alt="First slide">
 	    </div>
 	    <div class="carousel-item">
-	      <a href="llegenda.php"><img class="d-block w-100 img-fluid" src="img/santjordi.jpg" alt="Second slide"></a>
+	      <a href="llegenda.php"><img class="d-block w-100" src="img/santjordi.jpg" alt="Second slide"></a>
 	      <div class="carousel-caption d-none d-md-block">
 		    <h5>Llegenda de Sant Jordi</h5>
 		  </div> 
 	    </div>
 	    <div class="carousel-item">
-	     <a href="festivitat.php"><img class="d-block w-100 img-fluid" src="img/sant-jordi-llibre-i-roses1-1748x984.jpg" alt="Third slide"></a>
+	     <a href="festivitat.php"><img class="d-block w-100" src="img/santjordi.jpg" alt="Third slide"></a>
 	      <div class="carousel-caption d-none d-md-block">
 		    <h5>Festivitat de Sant Jordi</h5>
 		  </div>  
@@ -32,5 +32,4 @@
 	    <span class="sr-only">Next</span>
 	  </a>
 	</div>
-	
-<?php include("inc/footer.php");?>
+	<?php include("inc/footer.php");?>
