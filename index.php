@@ -1,7 +1,7 @@
 <?php include("inc/head.php");?>
 	
 	<div id="carouselSantJordi" class="carousel slide" data-ride="carousel">
-	  <ol class="carousel-indicators ">
+	  <ol class="carousel-indicators">
 	    <li data-target="#carouselSantJordi" data-slide-to="0" class="active"></li>
 	    <li data-target="#carouselSantJordi" data-slide-to="1"></li>
 	    <li data-target="#carouselSantJordi" data-slide-to="2"></li>

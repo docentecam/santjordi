@@ -1,7 +1,12 @@
 nav{
 	background-image: url("../img/green-dragon-skin.jpg")!important;
 }
-
+div.carousel-indicators > li {
+ 	border-radius: 50%;
+	width: 12px;
+	height: 12px;
+	background-color: #404040;
+}
 @media (max-width: 575px){
 
 }
