@@ -1,4 +1,7 @@
 <?php include("inc/head.php");?>
+	<div class="row">
+		<span class="col-12 hidden-xs-down txtTitles">Les Animacions</span>
+	</div>
 		<div class="row"> 
 		    <div class="col-sm-12 col-md-4 col-lg-3">
 		    	<img class=" col-12 img-fluid" src="img/42499_cute-puppies-dogs-wallpaper-hd-jpg_1280x960_h.jpg">
@@ -42,30 +45,34 @@
 		    </div>
 		</div>
 		<br>
-		<div class="row"></div>
-		  <div class="col-6">
-		  	<div class="embed-responsive embed-responsive-16by9">
-  				<iframe class="embed-responsive-item" src="video/videoplayback.mp4" allowfullscreen></iframe>
-			</div><br>
+		<div class="row">
+		  	<div class="col-6 videostudent1">
+			  	<div class="embed-responsive embed-responsive-16by9">
+	  				<iframe class="embed-responsive-item" src="video/videoplayback.mp4" allowfullscreen></iframe>
+				</div><br>
 
-		    <div class="col-lg-6 offset-lg-4">
-		    	<img src="img/hombrejpg.jpg">
-		    </div>
-		    <div class="col-6">
-			      <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+			    <div class="col-6">
+			    	<img class="img-fluid" src="img/hombrejpg.jpg"> 
+			    	<span> nom  de l`alumne</span>
+
+			    </div>
+			    <div class="col-6"> 
+					<span>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 			      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 			      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
 			      consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
 			      cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 			      proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</span>
-		    </div>
-
+		    	</div>
+			</div>
   		</div>
   		 	<div row>
 	  			<div class="col-6">
 			  		<div class="embed-responsive embed-responsive-16by9">
 	  					<iframe class="embed-responsive-item" src="video/videoplayback.mp4" allowfullscreen></iframe>
 					</div>
+				</div>
+			</div>
 	
 
 
