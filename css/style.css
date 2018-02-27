@@ -1,5 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=IM+Fell+Double+Pica');
 @import url('https://fonts.googleapis.com/css?family=Bangers');
-
 
 nav{
 	background-image: url("../img/green-dragon-skin.jpg")!important;
@@ -25,6 +25,59 @@ nav{
 {
 	font-size: 30px;
 }
+
+
+.imgSize{
+  padding: 10px;
+  position: relative;
+  width: 100%;
+  float: left;
+}
+
+.fill {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden
+}
+.fill img {
+    flex-shrink: 0;
+    min-width: 100%;
+    min-height: 100%;
+    object-fit: cover;
+}
+
+.txtLlegenda {
+	font-family:'IM Fell Double Pica';
+	font-size: 60px;
+}
+
+.firstcharacter {
+  float: left;
+  font-family: Georgia;
+  font-size: 80px;
+  line-height: 60px;
+  padding-top: 4px;
+  padding-right: 8px;
+  padding-left: 3px;
+}
+
+.txtBorders{
+	padding-right: 20px;
+	padding-left: 20px;
+}
+
+.txtBorders2{
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.row1{
+	padding-top: 10px;
+}
+
+
+@media (max-width: 575px){
 #textHangout
 {
 	font-size: 25px;
