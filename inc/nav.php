@@ -3,22 +3,29 @@
 		<div class="ml-lg-5">	
 	  		<a class="navbar-brand ml-lg-5 mr-lg-5" href="index.php">
 	  	 		<img src="img/iconbook.png"> 
-	  			<span class="navbar-brand mb-0 h1">Sant Jordi</span>
-	  		</a>
+	   		</a>
 	  	</div>
 	  		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 	    		<span class="navbar-toggler-icon"></span>
 	  		</button>
 				<div class="collapse navbar-collapse" id="navbarNav">
 				 	<ul class="navbar-nav">
-						<li class="nav-item ml-lg-5 mr-lg-5">
-							<a class="nav-link" href="cartells.php">Els Cartells</a>
+						<li class="nav-item dropdown">
+						    <a class="nav-link dropdown-toggle text-white active" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Sant Jordi</a>
+						    <div class="dropdown-menu">
+						      <a class="dropdown-item" href="llegenda.php">Llegenda</a>
+						      <div class="dropdown-divider"></div>
+						      <a class="dropdown-item" href="festivitat.php">Festivitat</a>
+						    </div>
 						</li>
 						<li class="nav-item ml-lg-5 mr-lg-5">
-				   			<a class="nav-link" href="animacions.php">Les Animacions</a>
+							<a class="nav-link text-white" href="cartells.php">Els Cartells</a>
+						</li>
+						<li class="nav-item ml-lg-5 mr-lg-5">
+				   			<a class="nav-link text-white" href="animacions.php">Les Animacions</a>
 				  		</li>
 				  		<li class="nav-item ml-lg-5 mr-lg-5">
-				   			<a class="nav-link" href="web.php">La Web</a>
+				   			<a class="nav-link text-white" href="web.php">La Web</a>
 				  		</li>
 				 	</ul>
 				</div>	
