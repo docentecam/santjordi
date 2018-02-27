@@ -17,7 +17,7 @@
 	<div class="card text-white bg-danger mb-3 col-6" >
  	 
   	<div class="card-body">
-    <h5 id="textMeeting" class="card-title">Al iniciar el projecte vam fer una reunió entre els components del grup per establir i pensar idees per al projecte, el més important del projecte és sobretot tindre cohesió de grup per arribar al nostre objectiu final sense ningun problema.</h5>
+    <h5 id="textMeeting" class="card-title"></h5>
 
     </div>
 	</div>
@@ -36,14 +36,33 @@
 		<img class="img-fluid" src="img/Capturaoscar.PNG">
 	</div>
 </div>
-
-<div class="row">
-	<div>
-		<img class="img-fluid" src="img/capturahangouts.jpg">
-		Després vam haver de fer una vídeo conferència amb l'aplicació Hangout per tal d'aclarir conceptes, fer canvis entre els tres projectes.
+<div class="row "><div class="row"></div>
+	<div class="col-3">
+		<img class="img-fluid " src="img/capturahangouts.jpg">
 
 	</div>
+<div id="textHangout" class="card border-danger mb-3 col-3" style="max-width: 31rem;">
+  
+  <div class="card-body text-danger">
+    <h5 class="card-title">Després vam fer una vídeo conferència amb l'aplicació Hangout per tal d'aclarir conceptes, fer canvis entre les tres especialitats.Un cop parlat vam arribar a la conclusió de aplicar els canvis establerts entre tots.</h5>
+    <p class="card-text"></p>
+  </div>
+</div>
+<div class="col-3">asdasdfsdf</div>
+	
+
+<div class="col-3">asdasdfasdf</div>
+
 </div>	
 
 
+
+
 <?php include("inc/footer.php");?>
+
+
+
+
+
+
+
