@@ -66,7 +66,7 @@
 		    	</div>
 			</div>
   		</div>
-  		 	<div row>
+  		 	<div class="row">
 	  			<div class="col-6">
 			  		<div class="embed-responsive embed-responsive-16by9">
 	  					<iframe class="embed-responsive-item" src="video/videoplayback.mp4" allowfullscreen></iframe>

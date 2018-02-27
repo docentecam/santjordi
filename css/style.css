@@ -1,5 +1,10 @@
-@import url('https://fonts.googleapis.com/css?family=IM+Fell+Double+Pica');
-@import url('https://fonts.googleapis.com/css?family=Bangers');
+@import url('https://fonts.googleapis.com/css?family=Pacifico');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+
+p{
+	font-family: 'Open Sans', sans-serif;
+}
 
 nav{
 	background-image: url("../img/green-dragon-skin.jpg")!important;
@@ -11,12 +16,6 @@ nav{
 	background-color: #404040;
 }
 
-#titleText
-{
-	font-family: 'Bangers', cursive;
-	font-size: 30px;
-	font-weight: bold;
-}
 #textMeeting
 {
 	font-size: 30px;
@@ -47,9 +46,9 @@ nav{
     object-fit: cover;
 }
 
-.txtLlegenda {
-	font-family:'IM Fell Double Pica';
-	font-size: 60px;
+.txtTitles {
+	font-family: 'Pacifico', cursive;
+	font-size: 50px;
 }
 
 .firstcharacter {
@@ -76,6 +75,13 @@ nav{
 	padding-top: 10px;
 }
 
+<<<<<<< HEAD
+=======
+.separation{
+	padding:10px;
+}
+
+>>>>>>> origin/master
 @media (max-width: 575px){
 #textHangout
 {
