@@ -2,7 +2,7 @@
 <div id="content">
 	<div class="row row-eq-height row1">
 	  	<div class="imgSize fill col-sm-12 col-md-6 col-lg-6 mt-1"><img src="img/dragon_.gif" class="img-fluid"></div>
-		<div class="col-12 col-md-6 col-lg-6 hidden-sm-down mt-4"><div class="txtTitles text-center">La llegenda de Sant Jordi</div>
+		<div class="col-12 col-md-6 col-lg-6 d-none d-sm-block mt-4"><div class="txtTitles text-center">La llegenda de Sant Jordi</div>
 			<div class="separation"></div>
 			<p class="text-justify txtBorders"><span class="firstcharacter">C</span>onta la llegenda que Sant Jordi era un soldat romà nascut al Pròxim Orient i és el gran protagonista d'una gran gesta cavalleresca que se situa a Líbia. Tot i això, certa tradició catalana la creu esdevinguda a la població de Montblanc.
 
