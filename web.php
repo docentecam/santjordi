@@ -17,7 +17,9 @@
 	<div class="card text-white bg-danger mb-3 col-6" >
  	 
   	<div class="card-body">
-    <h5 id="textMeeting" class="card-title"></h5>
+
+    <h5 id="textMeeting" class="card-title">A l'iniciar el projecte, els components del grup ens vam reunir per fer una pluja d'idees per al projecte i així poder encaminar el projecte. Per poder fer aquesta pluja d'idees i encaminar el projecte el més important és poder tindre cohesió entre els membres del grup per així arribar a l'objectiu final sense cap problema. Un cop establit les idees principals ens vam posar a fer el Moockingbot.</h5>
+
 
     </div>
 	</div>
@@ -27,7 +29,7 @@
 	<div class="card text-white bg-warning mb-3 col-6" >
 	  
 	  <div class="card-body">
-	    <h5 id="textMockingboot" class="card-title">Mitjançant l'aplicació moockingboot creem un wireframe amb l'estructura amb els seus diferents elements: Menú amb les seves opcions, logos amb peu de pàgina, i el seu contingut amb cada opció del menú.
+	    <h5 id="textMockingboot" class="card-title">Ja en el Moockingboot, utilitzem aquesta aplicació per crear un wireframe, que consisteix a fer una estructura visual de la pàgina web que farem amb els diferents elements que és compondrà la pàgina: un menú en la capçalera amb les seves opcions, un peu de pàgina amb els logos corporatius, i el contingut de cada una de les opcions del menú.
 	     </h5>
 				  
 	  </div>
