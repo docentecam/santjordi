@@ -7,6 +7,14 @@ nav{
 	height: 12px;
 	background-color: #404040;
 }
+#textMeeting
+{
+	font-size: 30px;
+}
+#textMockingboot
+{
+	font-size: 30px;
+}
 @media (max-width: 575px){
 
 }
