@@ -11,7 +11,7 @@
   </div>
 </div>
 <div  class="row">
-	<div class="  col-sm-12 col-md-12 col-lg-6 ">
+	<div id="meetingImage" class="col-sm-12 col-md-12 col-lg-6 ">
 		<img class="img-fluid rounded" src="img/reunionpaint.jpg">
 	</div>	
 	<div class="card text-dark  mb-3 col-sm-12 col-md-12 col-lg-6 " >
