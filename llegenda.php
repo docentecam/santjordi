@@ -10,7 +10,7 @@
 			<div class="text-center"><img src="img/divider-2154993_1280.png" class="col-sm-12 col-md-6 col-lg-6 img-fluid"></div>
 		</div>
    	</div>
-	<div class="row row-eq-height row1" >
+	<div class="row row-eq-height row1">
 		<div class="col-sm-12 col-md-6 col-lg-6">
 		<p class="text-justify txtBorders2">
 		Així es va fer durant molt de temps i el monstre se'n devia sentir satisfet, ja que deixava de fer els estralls i malvestats que havia fet abans. Però... vet aquí que un dia, la sort va voler que la filla del rei fos la destinada. La princesa era jove i bella. Hi hagué ciutadans que es van oferir per reemplaçar-la, però el rei fou sever i inexorable, i amb el cor ple de dol, va dir que tant era la seva filla com la de qualsevol dels seus súbdits i s'avingué que fos sacrificada. La donzella eixí de la ciutat i ella soleta s'encaminà cap al llac on residia la fera, mentre tot el veïnat, desconsolat i afligit, mirava des de la muralla com se n'anava al sacrifici.
