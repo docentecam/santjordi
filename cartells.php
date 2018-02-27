@@ -152,7 +152,7 @@
 				</div>
 			</div>
 		</div>
-
+  
 		<div class="row">
 			<div class="col-sm-12 col-md-6">
 				<!-- TODO:imatge gran personal -->
@@ -231,114 +231,92 @@
 			</div>
 		</div>
 		<!-- TODO:descripció de cada imatge de la segona fila -->
-		<div class="row">
+		<!-- <div class="row">
 			<div class="col-sm-12 col-md-6">
-				<!-- TODO:imatge gran personal -->
 				<h1>Imatge gran personal</h1>
 				<img src="perfilalumne400.jpg" class="img-fluid">
 			</div>
 			<div class="col-sm-12 col-md-6">
 				<div class="col-12">
-					<!-- TODO:imatge petit a sobre del text -->
 					<h2>Imatge petit sobre el text</h2>
 					<img src="perfilalumne85.jpg" class="img-fluid">
 				</div>
 				<div class="col-12">
-					<!-- TODO:text a sota de l'imatge -->
-					<!-- <pre> -->
-						Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-						tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-						quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-						consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-						cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-						proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-					<!-- </pre> -->
+					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+					consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+					cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+					proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 				</div>
 			</div>
 		</div>
 
 		<div class="row">
 			<div class="col-sm-12 col-md-6">
-				<!-- TODO:imatge gran personal -->
 				<h1>Imatge gran personal</h1>
 				<img src="perfilalumne400.jpg" class="img-fluid">
 			</div>
 			<div class="col-sm-12 col-md-6">
 				<div class="col-12">
-					<!-- TODO:imatge petit a sobre del text -->
 					<h2>Imatge petit sobre el text</h2>
 					<img src="perfilalumne85.jpg" class="img-fluid">
 				</div>
 				<div class="col-12">
-					<!-- TODO:text a sota de l'imatge -->
-					<!-- <pre> -->
 						Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 						tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 						quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
 						consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
 						cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 						proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-					<!-- </pre> -->
 				</div>
 			</div>
 		</div>
 
 		<div class="row">
 			<div class="col-sm-12 col-md-6">
-				<!-- TODO:imatge gran personal -->
 				<h1>Imatge gran personal</h1>
 				<img src="perfilalumne400.jpg" class="img-fluid">
 			</div>
 			<div class="col-sm-12 col-md-6">
 				<div class="col-12">
-					<!-- TODO:imatge petit a sobre del text -->
 					<h2>Imatge petit sobre el text</h2>
 					<img src="perfilalumne85.jpg" class="img-fluid">
 				</div>
 				<div class="col-12">
-					<!-- TODO:text a sota de l'imatge -->
-					<!-- <pre> -->
 						Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 						tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 						quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
 						consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
 						cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 						proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-					<!-- </pre> -->
 				</div>
 			</div>
 		</div>
 
 		<div class="row">
 			<div class="col-sm-12 col-md-6">
-				<!-- TODO:imatge gran personal -->
 				<h1>Imatge gran personal</h1>
 				<img src="perfilalumne400.jpg" class="img-fluid">
 			</div>
 			<div class="col-sm-12 col-md-6">
 				<div class="col-12">
-					<!-- TODO:imatge petit a sobre del text -->
 					<h2>Imatge petit sobre el text</h2>
 					<img src="perfilalumne85.jpg" class="img-fluid">
 				</div>
 				<div class="col-12">
-					<!-- TODO:text a sota de l'imatge -->
-					<!-- <pre> -->
-						Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-						tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-						quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-						consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-						cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-						proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-					<!-- </pre> -->
+					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+					consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+					cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+					proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 				</div>
 			</div>
-		</div>
+		</div> -->
 		Opció 2:<br>
 		<div class="row">
 			<div class="col-sm-12 col-md-6">
-				<!-- TODO:imatge gran personal -->
-				<!-- <h1>Imatge gran personal</h1> -->
 				<img src="perfilalumne400.jpg" class="img-fluid">
 			</div>
 			<div class="col-sm-12 col-md-6 col-lg-6">
