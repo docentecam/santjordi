@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=IM+Fell+Double+Pica');
+@import url('https://fonts.googleapis.com/css?family=Bangers');
 
 nav{
 	background-image: url("../img/green-dragon-skin.jpg")!important;
@@ -9,6 +10,13 @@ nav{
 	height: 12px;
 	background-color: #404040;
 }
+
+#titleText
+{
+	font-family: 'Bangers', cursive;
+	font-size: 30px;
+	font-weight: bold;
+}
 #textMeeting
 {
 	font-size: 30px;
@@ -17,6 +25,7 @@ nav{
 {
 	font-size: 30px;
 }
+
 
 .imgSize{
   padding: 10px;
@@ -69,10 +78,22 @@ nav{
 
 
 @media (max-width: 575px){
+#textHangout
+{
+	font-size: 25px;
+}
 
+@media (max-width: 575px){
+	#pictureMocking
+	{
+		background-color: red;
+	}
 }
 @media (min-width: 576px) and (max-width: 767px){
-
+	#pictureMocking
+	{
+		background-color: blue;
+	}
 }
 @media (min-width: 768px) and (max-width: 991px){
 
