@@ -10,7 +10,7 @@
 	  		</button>
 				<div class="collapse navbar-collapse" id="navbarNav">
 				 	<ul class="navbar-nav">
-						<li class="nav-item dropdown">
+						<li class="nav-item dropdown ml-lg-5 mr-lg-5">
 						    <a class="nav-link dropdown-toggle text-white active" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Sant Jordi</a>
 						    <div class="dropdown-menu">
 						      <a class="dropdown-item" href="llegenda.php">Llegenda</a>
