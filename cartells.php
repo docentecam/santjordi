@@ -93,10 +93,10 @@
 					</div>
 					<div class="col-lg-6">
 						<p>
-						Nom:<br>
-						A1:<br>
-						A2:<br>
-					</p>
+							Nom:<br>
+							A1:<br>
+							A2:<br>
+						</p>
 						Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 						tempor incididunt ut labore et dolore magna aliqua.
 					</div>
