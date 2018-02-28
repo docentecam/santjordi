@@ -8,16 +8,16 @@
 	  </ol>
 	  <div class="carousel-inner">
 	    <div id="carouselImg1" class="carousel-item active ">
-	      <img class="img-fluid" src="img/SantJordi2014.png" alt="First slide">
+	      <img class="img-fluid" src="img/carousel_ini_lg.png" alt="First slide">
 	    </div>
 	    <div id="carouselImg2" class="carousel-item">
-	      <a href="llegenda.php"><img class="img-fluid" src="img/SantJordi2014.png" alt="Second slide"></a>
+	      <a href="llegenda.php"><img class="img-fluid" src="img/carousel_lleg_lg.png" alt="Second slide"></a>
 	      <div class="carousel-caption d-none d-md-block">
 		    <h5>Llegenda de Sant Jordi</h5>
 		  </div> 
 	    </div>
 	    <div id="carouselImg3" class="carousel-item">
-	     <a href="festivitat.php"><img class="img-fluid" src="img/SantJordi2014.png" alt="Third slide"></a>
+	     <a href="festivitat.php"><img class="img-fluid" src="img/carousel_fes_lg.png" alt="Third slide"></a>
 	      <div class="carousel-caption d-none d-md-block">
 		    <h5>Festivitat de Sant Jordi</h5>
 		  </div>  
