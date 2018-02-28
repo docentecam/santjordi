@@ -96,6 +96,7 @@ nav{
 .separation{
 	padding:10px;
 }
+
 #titleColor{
 	background-color: #7FFFD4; 
 }
@@ -104,9 +105,18 @@ nav{
 
 
 @media (max-width: 575px){
-#pictureMocking{
-	border-radius: 30px; 
-}
+
+
+
+@media (max-width: 575px){
+	#pictureMocking
+	{
+		border-radius: 30px; 
+	}
+	#textHangout
+	{
+		font-size: 28px;
+	}
 }
 @media (min-width: 576px) and (max-width: 767px){
 	

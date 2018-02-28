@@ -1,26 +1,34 @@
 <?php include("inc/head.php");?>
 	<div class="row col-12 hidden-xs-down txtTitles text-center">
+		<div class="">
+			
+		</div>
 		Cartells
 	</div>
 		Opció 1:<br>
 		<div class="row">
-			<div class="col-lg-3 col-md-4 col-sm-12">
-				<img src="perfilalumne.jpg" class="img-fluid">
-				Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-				tempor incididunt ut labore et dolore magna aliqua.
+			<!-- TODO:pasar imatge por css -->
+			<div id="cartellsalumne1" class="col-sm-12 col-md-4 col-lg-3">
+				<div class="col-12">
+					<img class="img-fluid" src="img/santJordiLlibreRoses.png" >
+				</div>
+				<div class="col-12">
+					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+					tempor incididunt ut labore et dolore magna aliqua.
+				</div>
 			</div>
-			<div class="col-lg-3 col-md-4 col-sm-12">
-				<img src="perfilalumne.jpg" class="img-fluid">
+			<div class="col-sm-12 col-md-4 col-lg-3">
+				<img src="img/perfilalumne.jpg" class="img-fluid"><br>
 				Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 				tempor incididunt ut labore et dolore magna aliqua. 
 			</div>
-			<div class="col-lg-3 col-md-4 col-sm-12">
-				<img src="perfilalumne.jpg" class="img-fluid">
+			<div class="col-sm-12 col-md-4 col-lg-3">
+				<img src="img/perfilalumne.jpg" class="img-fluid"><br>
 				Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 				tempor incididunt ut labore et dolore magna aliqua.
 			</div>
-			<div class="col-lg-3 col-md-4 col-sm-12">
-				<img src="perfilalumne.jpg" class="img-fluid">
+			<div class="col-sm-12 col-md-4 col-lg-3">
+				<img src="img/perfilalumne.jpg" class="img-fluid"><br>
 				Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 				tempor incididunt ut labore et dolore magna aliqua.
 			</div>
@@ -28,10 +36,10 @@
 		
 		Opció 2:<br>
 		<div class="row">
-			<div class="col-lg-4 col-md-4 col-sm-12">
+			<div class="col-sm-12 col-md-4 col-lg-4">
 				<div class="row">
 					<div class="col-lg-6">
-						<img src="perfilalumne.jpg" class="img-fluid">	
+						<img id="cartellsalumne1" src="img/perfilalumne.jpg" class="img-fluid">	
 					</div>
 					<div class="col-lg-6">
 						Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -41,10 +49,10 @@
 				</div>
 				
 			</div>
-			<div class="col-lg-4 col-md-4 col-sm-12">
+			<div class="col-sm-12 col-md-4 col-lg-4">
 				<div class="row">
 					<div class="col-lg-6">
-						<img src="perfilalumne.jpg" class="img-fluid">	
+						<img src="img/perfilalumne.jpg" class="img-fluid">	
 					</div>
 					<div class="col-lg-6">
 						Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -53,10 +61,10 @@
 				</div>
 			</div>
 
-			<div class="col-lg-4 col-md-4 col-sm-12">
+			<div class="col-sm-12 col-md-4 col-lg-4">
 				<div class="row">
 					<div class="col-lg-6">
-						<img src="perfilalumne.jpg" class="img-fluid">	
+						<img src="img/perfilalumne.jpg" class="img-fluid">	
 					</div>
 				<div class="col-lg-6">
 						Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -65,10 +73,10 @@
 				</div>
 			</div>
 
-			<div class="col-lg-4 col-md-4 col-sm-12">
+			<div class="col-sm-12 col-md-4 col-lg-4">
 				<div class="row">
 					<div class="col-lg-6">
-						<img src="perfilalumne.jpg" class="img-fluid">
+						<img src="img/perfilalumne.jpg" class="img-fluid">
 					</div>
 					<div class="col-lg-6">
 						Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -81,12 +89,12 @@
 
 		Opció 1:<br>
 		<div class="row">
-			<div class="col-sm-12 col-md-6">
-				<img src="perfilalumne400.jpg" class="img-fluid">
+			<div id="cartellsnom1" class="col-sm-12 col-md-6">
+				<img src="img/perfilalumne400.jpg" class="img-fluid">
 			</div>
 			<div class="col-sm-12 col-md-6">
 				<div class="col-12">
-					<img src="perfilalumne85.jpg" class="img-fluid">
+					<img src="img/perfilalumne85.jpg" class="img-fluid">
 				</div>
 				<div class="col-12">
 					<p>
@@ -107,11 +115,11 @@
   
 		<div class="row">
 			<div class="col-sm-12 col-md-6">
-				<img src="perfilalumne400.jpg" class="img-fluid">
+				<img src="img/perfilalumne400.jpg" class="img-fluid">
 			</div>
 			<div class="col-sm-12 col-md-6">
 				<div class="col-12">
-					<img src="perfilalumne85.jpg" class="img-fluid">
+					<img src="img/perfilalumne85.jpg" class="img-fluid">
 				</div>
 				<div class="col-12">
 					<p>
@@ -131,11 +139,11 @@
 
 		<div class="row">
 			<div class="col-sm-12 col-md-6">
-				<img src="perfilalumne400.jpg" class="img-fluid">
+				<img src="img/perfilalumne400.jpg" class="img-fluid">
 			</div>
 			<div class="col-sm-12 col-md-6">
 				<div class="col-12">
-					<img src="perfilalumne85.jpg" class="img-fluid">
+					<img src="img/perfilalumne85.jpg" class="img-fluid">
 				</div>
 				<div class="col-12">
 					<p>
@@ -155,11 +163,11 @@
 
 		<div class="row">
 			<div class="col-sm-12 col-md-6">
-				<img src="perfilalumne400.jpg" class="img-fluid">
+				<img src="img/perfilalumne400.jpg" class="img-fluid">
 			</div>
 			<div class="col-sm-12 col-md-6">
 				<div class="col-12">
-					<img src="perfilalumne85.jpg" class="img-fluid">
+					<img src="img/perfilalumne85.jpg" class="img-fluid">
 				</div>
 				<div class="col-12">
 					<p>
@@ -178,14 +186,14 @@
 		</div>
 
 		Opció 2:<br>
-		<div class="row">
+		<div id="cartellsnom1" class="row">
 			<div class="col-sm-12 col-md-6">
-				<img src="perfilalumne400.jpg" class="img-fluid">
+				<img src="img/perfilalumne400.jpg" class="img-fluid">
 			</div>
 			<div class="col-sm-12 col-md-6 col-lg-6">
 				<div class="row">
 					<div class="col-3">
-						<img src="perfilalumne85.jpg" class="img-fluid">
+						<img src="img/perfilalumne85.jpg" class="img-fluid">
 					</div>
 					<div class="col-6">
 						<p>
