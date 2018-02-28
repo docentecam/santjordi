@@ -57,7 +57,7 @@
 	<div class="text-dark mb-3 col-sm-12 col-md-12 col-lg-6 " >
 	  
 	  <div>
-	    <h5 id="textMockingboot" ">Un cop 
+	    <h5 id="textFirezila" ">Un cop acabat el projecte pujerm tots els fitxers creats i finalitzats per nosaltres
 	     </h5>
 				  
 	  </div>
