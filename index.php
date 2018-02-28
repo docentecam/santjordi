@@ -7,17 +7,17 @@
 	    <li data-target="#carouselSantJordi" data-slide-to="2"></li>
 	  </ol>
 	  <div class="carousel-inner">
-	    <div class="carousel-item active">
-	      <img class="img-fluid" src="img/sant-jordi-llibre-i-roses1-1748x984.jpg" alt="First slide">
+	    <div id="carouselImg1" class="carousel-item active ">
+	      <img class="img-fluid" src="img/SantJordi2014.png" alt="First slide">
 	    </div>
-	    <div class="carousel-item">
-	      <a href="llegenda.php"><img class="d-block w-100" src="img/SantJordi2014.png" alt="Second slide"></a>
+	    <div id="carouselImg2" class="carousel-item">
+	      <a href="llegenda.php"><img class="img-fluid" src="img/SantJordi2014.png" alt="Second slide"></a>
 	      <div class="carousel-caption d-none d-md-block">
 		    <h5>Llegenda de Sant Jordi</h5>
 		  </div> 
 	    </div>
-	    <div class="carousel-item">
-	     <a href="festivitat.php"><img class="d-block w-100" src="img/SantJordi2014.png" alt="Third slide"></a>
+	    <div id="carouselImg3" class="carousel-item">
+	     <a href="festivitat.php"><img class="img-fluid" src="img/SantJordi2014.png" alt="Third slide"></a>
 	      <div class="carousel-caption d-none d-md-block">
 		    <h5>Festivitat de Sant Jordi</h5>
 		  </div>  
