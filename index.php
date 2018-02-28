@@ -7,29 +7,27 @@
 	    <li data-target="#carouselSantJordi" data-slide-to="2"></li>
 	  </ol>
 	  <div class="carousel-inner">
-	    <div class="carousel-item active">
-	      <img class="img-fluid" src="img/sant-jordi-llibre-i-roses1-1748x984.jpg" alt="First slide">
+	    <div id="carouselImg1" class="carousel-item active ">
+	      <img class="img-fluid" src="img/carousel_ini_lg.png" alt="First slide">
 	    </div>
-	    <div class="carousel-item">
-	      <a href="llegenda.php"><img class="d-block w-100" src="img/SantJordi2014.png" alt="Second slide"></a>
+	    <div id="carouselImg2" class="carousel-item">
+	      <a href="llegenda.php"><img class="img-fluid" src="img/carousel_lleg_lg.png" alt="Second slide"></a>
 	      <div class="carousel-caption d-none d-md-block">
 		    <h5>Llegenda de Sant Jordi</h5>
 		  </div> 
 	    </div>
-	    <div class="carousel-item">
-	     <a href="festivitat.php"><img class="d-block w-100" src="img/SantJordi2014.png" alt="Third slide"></a>
+	    <div id="carouselImg3" class="carousel-item">
+	     <a href="festivitat.php"><img class="img-fluid" src="img/carousel_fes_lg.png" alt="Third slide"></a>
 	      <div class="carousel-caption d-none d-md-block">
 		    <h5>Festivitat de Sant Jordi</h5>
 		  </div>  
 	    </div>
 	  </div>
 	  <a class="carousel-control-prev" href="#carouselSantJordi" role="button" data-slide="prev">
-	   <!--  <span class="carousel-control-prev-icon" aria-hidden="true"></span> -->
-	    <span class="sr-only">Previous</span>
+	  	<span class="sr-only">Previous</span>
 	  </a>
 	  <a class="carousel-control-next" href="#carouselSantJordi" role="button" data-slide="next">
-	   <!--  <span class="carousel-control-next-icon" aria-hidden="true"></span> -->
-	    <span class="sr-only">Next</span>
+	 	<span class="sr-only">Next</span>
 	  </a>
 	</div>
 	<?php include("inc/footer.php");?>
