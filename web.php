@@ -7,8 +7,8 @@
 <div class="row">
 	<div class="col-12 card mb-3">
 	  <img id="borderImage" class="card-img-top" src="img/cropped-cropped-3d-abstract-wallpaper-colorful-abstract-wallpapers.jpg" alt="Card image cap">
-	  <div  id="titleColor" class="card-body  text-dark">
-	    <h5 class="card-title">HOLA! Som el grup de la especialitat desenvolupament d'app i web apps format per: Rafat, Andrea, Raul, Belén, Oscar, Santi i Claudia. Nosaltres hem sigut els creadors d'aquesta pàgina web</h5>
+	  <div  id="titleColor" class="card-body  text-dark text-center">
+	    <h5 id="textHeadboard" class="card-title">HOLA! Som el grup de la especialitat desenvolupament d'app i web apps format per: Rafat, Andrea, Raul, Belén, Oscar, Santi i Claudia. Nosaltres hem sigut els creadors d'aquesta pàgina web</h5>
 	    
 	  </div>
 	</div>
@@ -67,9 +67,14 @@
 	</div>
 	
 </div>
+<div class="row">
+	<div  class="col-sm-12 col-md-12 col-lg-6">
+		<img id="pictureWeb" class="img-fluid " src="img/sitioNavegador.png">
+
+	</div>
+</div>
 		
 	
-
 
 
 
