@@ -15,7 +15,7 @@
 				<div class="col-12">
 					<span class="nomAlumne"> 
 						Quick Sneak Peek
-					</span>
+					</span><br>
 					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 					tempor incididunt ut labore et dolore magna aliqua.
 				</div>
@@ -27,7 +27,7 @@
 				<div class="col-12">
 					<span class="nomAlumne"> 
 						Quick Sneak Peek
-					</span>
+					</span><br>
 					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 					tempor incididunt ut labore et dolore magna aliqua.
 				</div>
@@ -39,7 +39,7 @@
 				<div class="col-12">
 					<span class="nomAlumne"> 
 						Quick Sneak Peek
-					</span>
+					</span><br>
 					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 					tempor incididunt ut labore et dolore magna aliqua.
 				</div>
@@ -51,7 +51,7 @@
 				<div class="col-12">
 					<span class="nomAlumne"> 
 						Quick Sneak Peek
-					</span>
+					</span><br>
 					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 					tempor incididunt ut labore et dolore magna aliqua.
 				</div>
@@ -68,7 +68,7 @@
 					<div class="col-lg-6">
 						<span class="nomAlumne"> 
 							Quick Sneak Peek
-						</span>
+						</span><br>
 						Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 						tempor incididunt ut labore et dolore magna aliqua.
 					</div>
@@ -84,7 +84,7 @@
 					<div class="col-lg-6">
 						<span class="nomAlumne"> 
 							Quick Sneak Peek
-						</span>
+						</span><br>
 						Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 						tempor incididunt ut labore et dolore magna aliqua.
 					</div>
@@ -99,7 +99,7 @@
 				<div class="col-lg-6">
 					<span class="nomAlumne"> 
 						Quick Sneak Peek
-					</span>
+					</span><br>
 						Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 						tempor incididunt ut labore et dolore magna aliqua.
 					</div>
@@ -114,7 +114,7 @@
 					<div class="col-lg-6">
 						<span class="nomAlumne"> 
 							Quick Sneak Peek
-						</span>
+						</span><br>
 						Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 						tempor incididunt ut labore et dolore magna aliqua.
 					</div>
@@ -135,7 +135,7 @@
 				<div class="col-12">
 					<span class="nomAlumne"> 
 						Quick Sneak Peek
-					</span>
+					</span><br>
 					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
@@ -157,7 +157,7 @@
 				<div class="col-12">
 					<span class="nomAlumne"> 
 						Quick Sneak Peek
-					</span>
+					</span><br>
 					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
@@ -179,7 +179,7 @@
 				<div class="col-12">
 					<span class="nomAlumne"> 
 						Quick Sneak Peek
-					</span>
+					</span><br>
 					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
@@ -201,7 +201,7 @@
 				<div class="col-12">
 					<span class="nomAlumne"> 
 						Quick Sneak Peek
-					</span>
+					</span><br>
 					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
@@ -225,7 +225,7 @@
 					<div class="col-6">
 						<span class="nomAlumne"> 
 							Quick Sneak Peek
-						</span>
+						</span><br>
 					</div>
 				</div>
 				<div class="row">
