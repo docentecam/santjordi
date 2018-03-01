@@ -7,8 +7,8 @@
 	    <li data-target="#carouselSantJordi" data-slide-to="2"></li>
 	  </ol>
 	  <div class="carousel-inner">
-	    <div id="carouselImg1" class="carousel-item active ">
-	      <img class="img-fluid" src="img/carousel_ini_lg.png" alt="gif d'un caballer llegint un llibre sobre un drac">
+	    <div id="carouselImg1" class="carousel-item text-center active ">
+	      <img class="img-fluid" src="img/carousel_ini_lg.gif" alt="gif d'un caballer llegint un llibre sobre un drac">
 	    </div>
 	    <div id="carouselImg2" class="carousel-item">
 	      <a href="llegenda.php"><img class="img-fluid" src="img/carousel_lleg_lg.png" alt="Accès a la llegenda"></a>
