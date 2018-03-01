@@ -3,7 +3,7 @@
 		<div class="">
 			
 		</div>
-		Cartells
+		Els cartells
 	</div>
 		Opció 1:<br>
 		<div class="row">
@@ -14,9 +14,7 @@
 				</div>
 				<div class="col-12">
 					<p>
-						Nom:<br>
-						A1:<br>
-						A2:<br>
+						Quick Sneak Peek
 					</p>
 					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 					tempor incididunt ut labore et dolore magna aliqua.
@@ -28,9 +26,7 @@
 				</div>
 				<div class="col-12">
 					<p>
-						Nom:<br>
-						A1:<br>
-						A2:<br>
+						Quick Sneak Peek
 					</p>
 					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 					tempor incididunt ut labore et dolore magna aliqua.
@@ -42,9 +38,7 @@
 				</div>
 				<div class="col-12">
 					<p>
-						Nom:<br>
-						A1:<br>
-						A2:<br>
+						Quick Sneak Peek
 					</p>
 					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 					tempor incididunt ut labore et dolore magna aliqua.
@@ -56,9 +50,7 @@
 				</div>
 				<div class="col-12">
 					<p>
-						Nom:<br>
-						A1:<br>
-						A2:<br>
+						Quick Sneak Peek
 					</p>
 					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 					tempor incididunt ut labore et dolore magna aliqua.
@@ -75,10 +67,8 @@
 					</div>
 					<div class="col-lg-6">
 						<p>
-						Nom:<br>
-						A1:<br>
-						A2:<br>
-					</p>
+							Quick Sneak Peek
+						</p>
 						Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 						tempor incididunt ut labore et dolore magna aliqua.
 					</div>
@@ -93,9 +83,7 @@
 					</div>
 					<div class="col-lg-6">
 						<p>
-							Nom:<br>
-							A1:<br>
-							A2:<br>
+							Quick Sneak Peek
 						</p>
 						Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 						tempor incididunt ut labore et dolore magna aliqua.
@@ -110,9 +98,7 @@
 					</div>
 				<div class="col-lg-6">
 					<p>
-						Nom:<br>
-						A1:<br>
-						A2:<br>
+						Quick Sneak Peek
 					</p>
 						Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 						tempor incididunt ut labore et dolore magna aliqua.
@@ -127,10 +113,8 @@
 					</div>
 					<div class="col-lg-6">
 						<p>
-						Nom:<br>
-						A1:<br>
-						A2:<br>
-					</p>
+							Quick Sneak Peek
+						</p>
 						Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 						tempor incididunt ut labore et dolore magna aliqua.
 					</div>
@@ -150,9 +134,7 @@
 				</div>
 				<div class="col-12">
 					<p>
-						Nom:<br>
-						A1:<br>
-						A2:<br>
+						Quick Sneak Peek
 					</p>
 					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -174,9 +156,7 @@
 				</div>
 				<div class="col-12">
 					<p>
-						Nom:<br>
-						A1:<br>
-						A2:<br>
+						Quick Sneak Peek
 					</p>
 					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -198,9 +178,7 @@
 				</div>
 				<div class="col-12">
 					<p>
-						Nom:<br>
-						A1:<br>
-						A2:<br>
+						Quick Sneak Peek
 					</p>
 					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -222,9 +200,7 @@
 				</div>
 				<div class="col-12">
 					<p>
-						Nom:<br>
-						A1:<br>
-						A2:<br>
+						Quick Sneak Peek
 					</p>
 					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -248,9 +224,7 @@
 					</div>
 					<div class="col-6">
 						<p>
-							Nom:<br>
-							A1:<br>
-							A2:<br>
+							Quick Sneak Peek
 						</p>
 					</div>
 				</div>
