@@ -1,6 +1,6 @@
 <?php include("inc/head.php");?>
 		<div class="row">		
-			<div class="col-6"><img src="img/santJordiCarrer.png" class="col-12 img-fluid"></div>
+			<div class="col-6"><img src="img/santJordiCarrer_lg.png" class="col-12 img-fluid"></div>
 			<div class="col-sm-6 col-md-6 col-lg-6 col-xl-6" id="texto1">  
 				 <div class= "txtTitles text-center d-none d-sm-block">La festivitat</div>
 					<p>
@@ -16,7 +16,7 @@
 					<br/>Amb aquesta celebració també volen commemorar la mort de Miquel de Cervantes  i de William Shakespeare, que van morir aquest mateix dia de 1616.
 				</p>
 			</div>
-			<div class=" col-6  "><img src="img/santJordiEscola.png" class="col-12 img-fluid" ></div>
+			<div class=" col-6  "><img src="img/santJordiEscola_lg.png" class="col-12 img-fluid" ></div>
 		</div>	
 	</div>
 
