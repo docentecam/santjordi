@@ -13,19 +13,18 @@
 						<li class="nav-item dropdown mx-lg-5">
 						    <a class="nav-link dropdown-toggle active" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Sant Jordi</a>
 						    <div class="dropdown-menu">
-						      <a class="dropdown-item" href="llegenda.php">Llegenda</a>
-						      <div class="dropdown-divider"></div>
-						      <a class="dropdown-item" href="festivitat.php">Festivitat</a>
+						      <a class="dropdown-item text-white" href="llegenda.php">Llegenda</a>
+						      <a class="dropdown-item text-white" href="festivitat.php">Festivitat</a>
 						    </div>
 						</li>
 						<li class="nav-item mx-lg-5">
-							<a class="nav-link" href="cartells.php">Els Cartells</a>
+							<a class="nav-link text-white" href="cartells.php">Els Cartells</a>
 						</li>
 						<li class="nav-item mx-lg-5">
-				   			<a class="nav-link" href="animacions.php">Les Animacions</a>
+				   			<a class="nav-link text-white" href="animacions.php">Les Animacions</a>
 				  		</li>
 				  		<li class="nav-item mx-lg-5">
-				   			<a class="nav-link" href="web.php">La Web</a>
+				   			<a class="nav-link text-white" href="web.php">La Web</a>
 				  		</li>
 				 	</ul>
 				</div>	
