@@ -2,7 +2,7 @@
 	<div class="container">
 		<div class="mx-lg-3">	
 	  		<a class="navbar-brand mx-lg-5" href="index.php">
-	  	 		<img src="img/book.png"> 
+	  	 		<img src="img/navbaricon.png"> 
 	   		</a>
 	  	</div>
 	  		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
