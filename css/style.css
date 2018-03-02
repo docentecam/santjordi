@@ -19,9 +19,12 @@ nav{
 #borderImage{
 	border-radius: 30px;
 }
+#textFirezila{
+	font-size: 48px;
+}
 #textHangout{
 	font-size: 48px;
-	padding-top: 55px;
+	
 }
 #textMeeting
 {
@@ -30,7 +33,7 @@ nav{
 #textMockingboot
 {
 	font-size: 48px;
-	padding-top: 60px;
+	
 }
 
 
@@ -67,6 +70,12 @@ nav{
   padding-top: 4px;
   padding-right: 8px;
   padding-left: 3px;
+}
+#pictureArrow{
+	padding-right: 450px;
+}
+#textWeb{
+	font-size: 60px;
 }
 #textHeadboard{
 	font-size: 26px;
@@ -107,19 +116,18 @@ nav{
 	background-color: #7FFFD4; 
 
 }
-
-@media (max-width: 575px){
-
-
-@media (max-width: 575px){
-
-
-
-@media (max-width: 575px){
-	#pictureMocking
-	{
+#pictureMocking{
 		border-radius: 30px; 
 	}
+@media (max-width: 575px){
+
+
+@media (max-width: 575px){
+
+
+
+@media (max-width: 575px){
+	
 	#textHangout
 	{
 		font-size: 28px;
