@@ -16,27 +16,14 @@ nav{
 	background-color: #404040;
 }
 
+
 #borderImage{
 	border-radius: 30px;
 }
-#textFirezila{
-	font-size: 48px;
-}
-#textHangout{
-	font-size: 48px;
-	
-}
-#textMeeting
-{
-	font-size: 48px;
-}
-#textMockingboot
-{
-	font-size: 48px;
-	
-}
+.txtWeb{
+	font-weight: bold;
 
-
+}
 .imgSize{
   padding: 10px;
   position: relative;
@@ -73,12 +60,6 @@ nav{
 }
 #pictureArrow{
 	padding-right: 450px;
-}
-#textWeb{
-	font-size: 60px;
-}
-#textHeadboard{
-	font-size: 26px;
 }
 #pictureWeb{
 	border-radius: 30px;
@@ -119,29 +100,30 @@ nav{
 #pictureMocking{
 		border-radius: 30px; 
 	}
-@media (max-width: 575px){
 
 
 @media (max-width: 575px){
-
-
-
-@media (max-width: 575px){
-	
-	#textHangout
-	{
-		font-size: 28px;
+	.txtWeb{
+		font-size: 17px;
 	}
 }
 @media (min-width: 576px) and (max-width: 767px){
-	
+	.txtWeb{
+		font-size: 17px;
+	}	
 }
 @media (min-width: 768px) and (max-width: 991px){
-
+	.txtWeb{
+		font-size: 20px;
+	}
 }
 @media (min-width: 992px) and (max-width: 1199px){
-
+	.txtWeb{
+		font-size:20px;
+	}
 }
 @media (min-width: 1200px){
-	
+	.txtWeb{
+		font-size:48px ;
+	}	
 }
