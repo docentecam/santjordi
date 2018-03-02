@@ -1,6 +1,6 @@
 <nav id="navbgimg" class="navbar navbar-expand-lg navbar-dark bg-primary">
-	<div class="container mr-lg-5">
-		<div class="mr-lg-3">	
+	<div class="container">
+		<div class="mx-lg-3">	
 	  		<a class="navbar-brand ml-lg-5 mr-lg-5" href="index.php">
 	  	 		<img src="img/book.png"> 
 	   		</a>
