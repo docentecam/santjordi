@@ -58,12 +58,15 @@
 		<img id="pictureWeb" class="img-fluid " src="img/sitioNavegador.png">
 
 	</div>
-	 <div  class="col-sm-12 col-md-12 col-lg-6 mt-5 text-center txtWeb">
+	 <div  class="col-sm-12 col-md-12 col-lg-6 mt-5">
+	 	<div class="col-12 text-center txtWeb">
 		    Finalment aquí teniu la pàgina ja pujada al hosting.	
+		</div>
+		<div class="col-12 col-md-6 ">
+			<img id="pictureArrow" class="img-fluid " src="img/flechaparaultimafoto.png" >	  
+		</div> 
 	</div>		    
-	<div class="col-sm-12 col-md-12 col-lg-">
-		<img id="pictureArrow" src="img/flechaparaultimafoto.png" >	  
-	</div> 
+	
 </div>
 		
 	
