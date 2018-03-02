@@ -3,7 +3,7 @@
 		<div class="">
 			
 		</div>
-		Cartells
+		Els cartells
 	</div>
 		Opció 1:<br>
 		<div class="row">
@@ -13,11 +13,9 @@
 					<img class="img-fluid" src="img/cartell1_lg.jpg">
 				</div>
 				<div class="col-12">
-					<p>
-						Nom:<br>
-						A1:<br>
-						A2:<br>
-					</p>
+					<span class="nomAlumne"> 
+						Quick Sneak Peek
+					</span><br>
 					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 					tempor incididunt ut labore et dolore magna aliqua.
 				</div>
@@ -27,11 +25,9 @@
 					<img class="img-fluid" src="img/cartell1_lg.jpg">
 				</div>
 				<div class="col-12">
-					<p>
-						Nom:<br>
-						A1:<br>
-						A2:<br>
-					</p>
+					<span class="nomAlumne"> 
+						Quick Sneak Peek
+					</span><br>
 					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 					tempor incididunt ut labore et dolore magna aliqua.
 				</div>
@@ -41,11 +37,9 @@
 					<img class="img-fluid" src="img/cartell1_lg.jpg">
 				</div>
 				<div class="col-12">
-					<p>
-						Nom:<br>
-						A1:<br>
-						A2:<br>
-					</p>
+					<span class="nomAlumne"> 
+						Quick Sneak Peek
+					</span><br>
 					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 					tempor incididunt ut labore et dolore magna aliqua.
 				</div>
@@ -55,11 +49,9 @@
 					<img class="img-fluid" src="img/cartell1_lg.jpg">
 				</div>
 				<div class="col-12">
-					<p>
-						Nom:<br>
-						A1:<br>
-						A2:<br>
-					</p>
+					<span class="nomAlumne"> 
+						Quick Sneak Peek
+					</span><br>
 					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 					tempor incididunt ut labore et dolore magna aliqua.
 				</div>
@@ -74,11 +66,9 @@
 						<img src="img/cartell1_lg.jpg" class="img-fluid">	
 					</div>
 					<div class="col-lg-6">
-						<p>
-						Nom:<br>
-						A1:<br>
-						A2:<br>
-					</p>
+						<span class="nomAlumne"> 
+							Quick Sneak Peek
+						</span><br>
 						Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 						tempor incididunt ut labore et dolore magna aliqua.
 					</div>
@@ -92,11 +82,9 @@
 						<img src="img/cartell1_lg.jpg" class="img-fluid">	
 					</div>
 					<div class="col-lg-6">
-						<p>
-							Nom:<br>
-							A1:<br>
-							A2:<br>
-						</p>
+						<span class="nomAlumne"> 
+							Quick Sneak Peek
+						</span><br>
 						Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 						tempor incididunt ut labore et dolore magna aliqua.
 					</div>
@@ -109,11 +97,9 @@
 						<img src="img/cartell1_lg.jpg" class="img-fluid">	
 					</div>
 				<div class="col-lg-6">
-					<p>
-						Nom:<br>
-						A1:<br>
-						A2:<br>
-					</p>
+					<span class="nomAlumne"> 
+						Quick Sneak Peek
+					</span><br>
 						Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 						tempor incididunt ut labore et dolore magna aliqua.
 					</div>
@@ -126,11 +112,9 @@
 						<img src="img/cartell1_lg.jpg" class="img-fluid">
 					</div>
 					<div class="col-lg-6">
-						<p>
-						Nom:<br>
-						A1:<br>
-						A2:<br>
-					</p>
+						<span class="nomAlumne"> 
+							Quick Sneak Peek
+						</span><br>
 						Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 						tempor incididunt ut labore et dolore magna aliqua.
 					</div>
@@ -149,11 +133,9 @@
 					<img src="img/cartellFoto1_lg.jpg" class="img-fluid">
 				</div>
 				<div class="col-12">
-					<p>
-						Nom:<br>
-						A1:<br>
-						A2:<br>
-					</p>
+					<span class="nomAlumne"> 
+						Quick Sneak Peek
+					</span><br>
 					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
@@ -173,11 +155,9 @@
 					<img src="img/cartellFoto1_lg.jpg" class="img-fluid">
 				</div>
 				<div class="col-12">
-					<p>
-						Nom:<br>
-						A1:<br>
-						A2:<br>
-					</p>
+					<span class="nomAlumne"> 
+						Quick Sneak Peek
+					</span><br>
 					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
@@ -197,11 +177,9 @@
 					<img src="img/cartellFoto1_lg.jpg" class="img-fluid">
 				</div>
 				<div class="col-12">
-					<p>
-						Nom:<br>
-						A1:<br>
-						A2:<br>
-					</p>
+					<span class="nomAlumne"> 
+						Quick Sneak Peek
+					</span><br>
 					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
@@ -221,11 +199,9 @@
 					<img src="img/cartellFoto1_lg.jpg" class="img-fluid">
 				</div>
 				<div class="col-12">
-					<p>
-						Nom:<br>
-						A1:<br>
-						A2:<br>
-					</p>
+					<span class="nomAlumne"> 
+						Quick Sneak Peek
+					</span><br>
 					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
@@ -247,11 +223,9 @@
 						<img src="img/cartellFoto1_lg.jpg" class="img-fluid">
 					</div>
 					<div class="col-6">
-						<p>
-							Nom:<br>
-							A1:<br>
-							A2:<br>
-						</p>
+						<span class="nomAlumne"> 
+							Quick Sneak Peek
+						</span><br>
 					</div>
 				</div>
 				<div class="row">
