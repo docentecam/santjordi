@@ -1,6 +1,6 @@
 <?php include("inc/head.php");?>
 	<div class="row ">
-		<div class="col-12 hidden-xs-down txtTitles text-center">
+		<div class="col-12 d-none d-sm-block txtTitles text-center">
 			Els cartells
 		</div>
 		
@@ -426,9 +426,9 @@
 						<img src="img/cartells/cartellFoto1_lg.jpg" class="img-fluid">
 					</div>
 					<div class="col-6">
-						<span class="nomAlumne"> 
+						<div class="nomAlumne mt-5"> 
 							Quick Sneak Peek
-						</span><br>
+						</div>
 					</div>
 				</div>
 				<div class="row">
@@ -454,9 +454,9 @@
 						<img src="img/cartells/cartellFoto2_lg.jpg" class="img-fluid">
 					</div>
 					<div class="col-6">
-						<span class="nomAlumne"> 
+						<div class="nomAlumne mt-5"> 
 							Quick Sneak Peek
-						</span><br>
+						</div>
 					</div>
 				</div>
 				<div class="row">
@@ -482,9 +482,9 @@
 						<img src="img/cartells/cartellFoto3_lg.jpg" class="img-fluid">
 					</div>
 					<div class="col-6">
-						<span class="nomAlumne"> 
+						<div class="nomAlumne mt-5"> 
 							Quick Sneak Peek
-						</span><br>
+						</div>
 					</div>
 				</div>
 				<div class="row">
@@ -510,9 +510,9 @@
 						<img src="img/cartells/cartellFoto4_lg.jpg" class="img-fluid">
 					</div>
 					<div class="col-6">
-						<span class="nomAlumne"> 
+						<div class="nomAlumne mt-5"> 
 							Quick Sneak Peek
-						</span><br>
+						</div>
 					</div>
 				</div>
 				<div class="row">
@@ -538,9 +538,9 @@
 						<img src="img/cartells/cartellFoto5_lg.jpg" class="img-fluid">
 					</div>
 					<div class="col-6">
-						<span class="nomAlumne"> 
+						<div class="nomAlumne mt-5"> 
 							Quick Sneak Peek
-						</span><br>
+						</div>
 					</div>
 				</div>
 				<div class="row">
@@ -566,9 +566,9 @@
 						<img src="img/cartells/cartellFoto6_lg.jpg" class="img-fluid">
 					</div>
 					<div class="col-6">
-						<span class="nomAlumne"> 
+						<div class="nomAlumne mt-5"> 
 							Quick Sneak Peek
-						</span><br>
+						</div>
 					</div>
 				</div>
 				<div class="row">
@@ -594,9 +594,9 @@
 						<img src="img/cartells/cartellFoto7_lg.jpg" class="img-fluid">
 					</div>
 					<div class="col-6">
-						<span class="nomAlumne"> 
+						<div class="nomAlumne mt-5"> 
 							Quick Sneak Peek
-						</span><br>
+						</div>
 					</div>
 				</div>
 				<div class="row">
@@ -622,9 +622,9 @@
 						<img src="img/cartells/cartellFoto8_lg.jpg" class="img-fluid">
 					</div>
 					<div class="col-6">
-						<span class="nomAlumne"> 
+						<div class="nomAlumne mt-5"> 
 							Quick Sneak Peek
-						</span><br>
+						</div>
 					</div>
 				</div>
 				<div class="row">
