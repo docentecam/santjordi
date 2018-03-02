@@ -10,7 +10,7 @@
 			<!-- TODO:pasar imatge por css -->
 			<div class="col-sm-12 col-md-4 col-lg-3">
 				<div class="col-12 text-center">
-					<img class="img-fluid" src="img/cartell1_lg.jpg">
+					<img class="img-fluid" src="img/cartells/cartell1_lg.jpg">
 				</div>
 				<div class="col-12">
 					<span class="nomAlumne"> 
@@ -22,7 +22,7 @@
 			</div>
 			<div class="col-sm-12 col-md-4 col-lg-3">
 				<div class="col-12 text-center">
-					<img class="img-fluid" src="img/cartell2_lg.jpg">
+					<img class="img-fluid" src="img/cartells/cartell2_lg.jpg">
 				</div>
 				<div class="col-12">
 					<span class="nomAlumne"> 
@@ -34,7 +34,7 @@
 			</div>
 			<div class="col-sm-12 col-md-4 col-lg-3">
 				<div class="col-12 text-center">
-					<img class="img-fluid" src="img/cartell3_lg.jpg">
+					<img class="img-fluid" src="img/cartells/cartell3_lg.jpg">
 				</div>
 				<div class="col-12">
 					<span class="nomAlumne"> 
@@ -46,7 +46,7 @@
 			</div>
 			<div class="col-sm-12 col-md-4 col-lg-3">
 				<div class="col-12 text-center">
-					<img class="img-fluid" src="img/cartell4_lg.jpg">
+					<img class="img-fluid" src="img/cartells/cartell4_lg.jpg">
 				</div>
 				<div class="col-12">
 					<span class="nomAlumne"> 
@@ -62,7 +62,7 @@
 			<!-- TODO:pasar imatge por css -->
 			<div class="col-sm-12 col-md-4 col-lg-3">
 				<div class="col-12 text-center">
-					<img class="img-fluid" src="img/cartell5_lg.jpg">
+					<img class="img-fluid" src="img/cartells/cartell5_lg.jpg">
 				</div>
 				<div class="col-12">
 					<span class="nomAlumne"> 
@@ -74,7 +74,7 @@
 			</div>
 			<div class="col-sm-12 col-md-4 col-lg-3">
 				<div class="col-12 text-center">
-					<img class="img-fluid" src="img/cartell6_lg.jpg">
+					<img class="img-fluid" src="img/cartells/cartell6_lg.jpg">
 				</div>
 				<div class="col-12">
 					<span class="nomAlumne"> 
@@ -86,7 +86,7 @@
 			</div>
 			<div class="col-sm-12 col-md-4 col-lg-3">
 				<div class="col-12 text-center">
-					<img class="img-fluid" src="img/cartell7_lg.jpg">
+					<img class="img-fluid" src="img/cartells/cartell7_lg.jpg">
 				</div>
 				<div class="col-12">
 					<span class="nomAlumne"> 
@@ -98,7 +98,7 @@
 			</div>
 			<div class="col-sm-12 col-md-4 col-lg-3">
 				<div class="col-12 text-center">
-					<img class="img-fluid" src="img/cartell8_lg.jpg">
+					<img class="img-fluid" src="img/cartells/cartell8_lg.jpg">
 				</div>
 				<div class="col-12">
 					<span class="nomAlumne"> 
@@ -114,7 +114,7 @@
 			<div class="col-sm-12 col-md-4 col-lg-4">
 				<div class="row">
 					<div class="col-lg-6 text-center">
-						<img src="img/cartell1_lg.jpg" class="img-fluid">	
+						<img src="img/cartells/cartell1_lg.jpg" class="img-fluid">	
 					</div>
 					<div class="col-lg-6">
 						<span class="nomAlumne"> 
@@ -130,7 +130,7 @@
 			<div class="col-sm-12 col-md-4 col-lg-4">
 				<div class="row">
 					<div class="col-lg-6 text-center">
-						<img src="img/cartell2_lg.jpg" class="img-fluid">	
+						<img src="img/cartells/cartell2_lg.jpg" class="img-fluid">	
 					</div>
 					<div class="col-lg-6">
 						<span class="nomAlumne"> 
@@ -145,7 +145,7 @@
 			<div class="col-sm-12 col-md-4 col-lg-4">
 				<div class="row">
 					<div class="col-lg-6 text-center">
-						<img src="img/cartell3_lg.jpg" class="img-fluid">	
+						<img src="img/cartells/cartell3_lg.jpg" class="img-fluid">	
 					</div>
 				<div class="col-lg-6">
 					<span class="nomAlumne"> 
@@ -160,7 +160,7 @@
 			<div class="col-sm-12 col-md-4 col-lg-4">
 				<div class="row">
 					<div class="col-lg-6 text-center">
-						<img src="img/cartell4_lg.jpg" class="img-fluid">
+						<img src="img/cartells/cartell4_lg.jpg" class="img-fluid">
 					</div>
 					<div class="col-lg-6">
 						<span class="nomAlumne"> 
@@ -178,7 +178,7 @@
 			<div class="col-sm-12 col-md-4 col-lg-4">
 				<div class="row">
 					<div class="col-lg-6 text-center">
-						<img src="img/cartell5_lg.jpg" class="img-fluid">	
+						<img src="img/cartells/cartell5_lg.jpg" class="img-fluid">	
 					</div>
 					<div class="col-lg-6">
 						<span class="nomAlumne"> 
@@ -194,7 +194,7 @@
 			<div class="col-sm-12 col-md-4 col-lg-4">
 				<div class="row">
 					<div class="col-lg-6 text-center">
-						<img src="img/cartell6_lg.jpg" class="img-fluid">	
+						<img src="img/cartells/cartell6_lg.jpg" class="img-fluid">	
 					</div>
 					<div class="col-lg-6">
 						<span class="nomAlumne"> 
@@ -209,7 +209,7 @@
 			<div class="col-sm-12 col-md-4 col-lg-4">
 				<div class="row">
 					<div class="col-lg-6 text-center">
-						<img src="img/cartell7_lg.jpg" class="img-fluid">	
+						<img src="img/cartells/cartell7_lg.jpg" class="img-fluid">	
 					</div>
 				<div class="col-lg-6">
 					<span class="nomAlumne"> 
@@ -224,7 +224,7 @@
 			<div class="col-sm-12 col-md-4 col-lg-4">
 				<div class="row">
 					<div class="col-lg-6 text-center">
-						<img src="img/cartell8_lg.jpg" class="img-fluid">
+						<img src="img/cartells/cartell8_lg.jpg" class="img-fluid">
 					</div>
 					<div class="col-lg-6">
 						<span class="nomAlumne"> 
@@ -241,11 +241,11 @@
 		Opció 1:<br>
 		<div class="row">
 			<div class="col-sm-12 col-md-4 offset-2">
-				<img src="img/cartellAlumne1_lg.jpg" class="img-fluid">
+				<img src="img/cartells/cartellAlumne1_lg.jpg" class="img-fluid">
 			</div>
 			<div class="col-sm-12 col-md-6">
 				<div class="col-12">
-					<img src="img/cartellFoto1_lg.jpg" class="img-fluid">
+					<img src="img/cartells/cartellFoto1_lg.jpg" class="img-fluid">
 				</div>
 				<div class="col-12">
 					<span class="nomAlumne"> 
@@ -263,11 +263,11 @@
   
 		<div class="row">
 			<div class="col-sm-12 col-md-4 offset-2">
-				<img src="img/cartellAlumne2_lg.jpg" class="img-fluid">
+				<img src="img/cartells/cartellAlumne2_lg.jpg" class="img-fluid">
 			</div>
 			<div class="col-sm-12 col-md-6">
 				<div class="col-12">
-					<img src="img/cartellFoto2_lg.jpg" class="img-fluid">
+					<img src="img/cartells/cartellFoto2_lg.jpg" class="img-fluid">
 				</div>
 				<div class="col-12">
 					<span class="nomAlumne"> 
@@ -285,11 +285,11 @@
 
 		<div class="row">
 			<div class="col-sm-12 col-md-4 offset-2">
-				<img src="img/cartellAlumne3_lg.jpg" class="img-fluid">
+				<img src="img/cartells/cartellAlumne3_lg.jpg" class="img-fluid">
 			</div>
 			<div class="col-sm-12 col-md-6">
 				<div class="col-12">
-					<img src="img/cartellFoto3_lg.jpg" class="img-fluid">
+					<img src="img/cartells/cartellFoto3_lg.jpg" class="img-fluid">
 				</div>
 				<div class="col-12">
 					<span class="nomAlumne"> 
@@ -307,11 +307,11 @@
 
 		<div class="row">
 			<div class="col-sm-12 col-md-4 offset-2">
-				<img src="img/cartellAlumne4_lg.jpg" class="img-fluid">
+				<img src="img/cartells/cartellAlumne4_lg.jpg" class="img-fluid">
 			</div>
 			<div class="col-sm-12 col-md-6">
 				<div class="col-12">
-					<img src="img/cartellFoto4_lg.jpg" class="img-fluid">
+					<img src="img/cartells/cartellFoto4_lg.jpg" class="img-fluid">
 				</div>
 				<div class="col-12">
 					<span class="nomAlumne"> 
@@ -329,11 +329,11 @@
 		
 		<div class="row">
 			<div class="col-sm-12 col-md-4 offset-2">
-				<img src="img/cartellAlumne5_lg.jpg" class="img-fluid">
+				<img src="img/cartells/cartellAlumne5_lg.jpg" class="img-fluid">
 			</div>
 			<div class="col-sm-12 col-md-6">
 				<div class="col-12">
-					<img src="img/cartellFoto5_lg.jpg" class="img-fluid">
+					<img src="img/cartells/cartellFoto5_lg.jpg" class="img-fluid">
 				</div>
 				<div class="col-12">
 					<span class="nomAlumne"> 
@@ -351,11 +351,11 @@
   
 		<div class="row">
 			<div class="col-sm-12 col-md-4 offset-2">
-				<img src="img/cartellAlumne6_lg.jpg" class="img-fluid">
+				<img src="img/cartells/cartellAlumne6_lg.jpg" class="img-fluid">
 			</div>
 			<div class="col-sm-12 col-md-6">
 				<div class="col-12">
-					<img src="img/cartellFoto6_lg.jpg" class="img-fluid">
+					<img src="img/cartells/cartellFoto6_lg.jpg" class="img-fluid">
 				</div>
 				<div class="col-12">
 					<span class="nomAlumne"> 
@@ -373,11 +373,11 @@
 
 		<div class="row">
 			<div class="col-sm-12 col-md-4 offset-2">
-				<img src="img/cartellAlumne7_lg.jpg" class="img-fluid">
+				<img src="img/cartells/cartellAlumne7_lg.jpg" class="img-fluid">
 			</div>
 			<div class="col-sm-12 col-md-6">
 				<div class="col-12">
-					<img src="img/cartellFoto7_lg.jpg" class="img-fluid">
+					<img src="img/cartells/cartellFoto7_lg.jpg" class="img-fluid">
 				</div>
 				<div class="col-12">
 					<span class="nomAlumne"> 
@@ -395,11 +395,11 @@
 
 		<div class="row">
 			<div class="col-sm-12 col-md-4 offset-2">
-				<img src="img/cartellAlumne8_lg.jpg" class="img-fluid">
+				<img src="img/cartells/cartellAlumne8_lg.jpg" class="img-fluid">
 			</div>
 			<div class="col-sm-12 col-md-6">
 				<div class="col-12">
-					<img src="img/cartellFoto8_lg.jpg" class="img-fluid">
+					<img src="img/cartells/cartellFoto8_lg.jpg" class="img-fluid">
 				</div>
 				<div class="col-12">
 					<span class="nomAlumne"> 
@@ -418,12 +418,12 @@
 		Opció 2:<br>
 		<div class="row">
 			<div class="col-sm-12 col-md-4 offset-2">
-				<img src="img/cartellAlumne1_lg.jpg" class="img-fluid">
+				<img src="img/cartells/cartellAlumne1_lg.jpg" class="img-fluid">
 			</div>
 			<div class="col-sm-12 col-md-6 col-lg-6">
 				<div class="row">
 					<div class="col-3">
-						<img src="img/cartellFoto1_lg.jpg" class="img-fluid">
+						<img src="img/cartells/cartellFoto1_lg.jpg" class="img-fluid">
 					</div>
 					<div class="col-6">
 						<span class="nomAlumne"> 
@@ -446,12 +446,12 @@
 
 		<div class="row">
 			<div class="col-sm-12 col-md-4 offset-2">
-				<img src="img/cartellAlumne2_lg.jpg" class="img-fluid">
+				<img src="img/cartells/cartellAlumne2_lg.jpg" class="img-fluid">
 			</div>
 			<div class="col-sm-12 col-md-6 col-lg-6">
 				<div class="row">
 					<div class="col-3">
-						<img src="img/cartellFoto2_lg.jpg" class="img-fluid">
+						<img src="img/cartells/cartellFoto2_lg.jpg" class="img-fluid">
 					</div>
 					<div class="col-6">
 						<span class="nomAlumne"> 
@@ -474,12 +474,12 @@
 
 		<div class="row">
 			<div class="col-sm-12 col-md-4 offset-2">
-				<img src="img/cartellAlumne3_lg.jpg" class="img-fluid">
+				<img src="img/cartells/cartellAlumne3_lg.jpg" class="img-fluid">
 			</div>
 			<div class="col-sm-12 col-md-6 col-lg-6">
 				<div class="row">
 					<div class="col-3">
-						<img src="img/cartellFoto3_lg.jpg" class="img-fluid">
+						<img src="img/cartells/cartellFoto3_lg.jpg" class="img-fluid">
 					</div>
 					<div class="col-6">
 						<span class="nomAlumne"> 
@@ -502,12 +502,12 @@
 
 		<div class="row">
 			<div class="col-sm-12 col-md-4 offset-2">
-				<img src="img/cartellAlumne4_lg.jpg" class="img-fluid">
+				<img src="img/cartells/cartellAlumne4_lg.jpg" class="img-fluid">
 			</div>
 			<div class="col-sm-12 col-md-6 col-lg-6">
 				<div class="row">
 					<div class="col-3">
-						<img src="img/cartellFoto4_lg.jpg" class="img-fluid">
+						<img src="img/cartells/cartellFoto4_lg.jpg" class="img-fluid">
 					</div>
 					<div class="col-6">
 						<span class="nomAlumne"> 
@@ -530,12 +530,12 @@
 
 		<div class="row">
 			<div class="col-sm-12 col-md-4 offset-2">
-				<img src="img/cartellAlumne5_lg.jpg" class="img-fluid">
+				<img src="img/cartells/cartellAlumne5_lg.jpg" class="img-fluid">
 			</div>
 			<div class="col-sm-12 col-md-6 col-lg-6">
 				<div class="row">
 					<div class="col-3">
-						<img src="img/cartellFoto5_lg.jpg" class="img-fluid">
+						<img src="img/cartells/cartellFoto5_lg.jpg" class="img-fluid">
 					</div>
 					<div class="col-6">
 						<span class="nomAlumne"> 
@@ -558,12 +558,12 @@
 
 		<div class="row">
 			<div class="col-sm-12 col-md-4 offset-2">
-				<img src="img/cartellAlumne6_lg.jpg" class="img-fluid">
+				<img src="img/cartells/cartellAlumne6_lg.jpg" class="img-fluid">
 			</div>
 			<div class="col-sm-12 col-md-6 col-lg-6">
 				<div class="row">
 					<div class="col-3">
-						<img src="img/cartellFoto6_lg.jpg" class="img-fluid">
+						<img src="img/cartells/cartellFoto6_lg.jpg" class="img-fluid">
 					</div>
 					<div class="col-6">
 						<span class="nomAlumne"> 
@@ -586,12 +586,12 @@
 
 		<div class="row">
 			<div class="col-sm-12 col-md-4 offset-2">
-				<img src="img/cartellAlumne7_lg.jpg" class="img-fluid">
+				<img src="img/cartells/cartellAlumne7_lg.jpg" class="img-fluid">
 			</div>
 			<div class="col-sm-12 col-md-6 col-lg-6">
 				<div class="row">
 					<div class="col-3">
-						<img src="img/cartellFoto7_lg.jpg" class="img-fluid">
+						<img src="img/cartells/cartellFoto7_lg.jpg" class="img-fluid">
 					</div>
 					<div class="col-6">
 						<span class="nomAlumne"> 
@@ -614,12 +614,12 @@
 
 		<div class="row">
 			<div class="col-sm-12 col-md-4 offset-2">
-				<img src="img/cartellAlumne8_lg.jpg" class="img-fluid">
+				<img src="img/cartells/cartellAlumne8_lg.jpg" class="img-fluid">
 			</div>
 			<div class="col-sm-12 col-md-6 col-lg-6">
 				<div class="row">
 					<div class="col-3">
-						<img src="img/cartellFoto8_lg.jpg" class="img-fluid">
+						<img src="img/cartells/cartellFoto8_lg.jpg" class="img-fluid">
 					</div>
 					<div class="col-6">
 						<span class="nomAlumne"> 
