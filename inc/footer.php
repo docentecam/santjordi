@@ -1,5 +1,5 @@
 </div>
-	<div class="bg-dark">
+	<div class="bg-dark mt-2">
 		<img src="img/ajuntament.png" class="img-fluid col-2 offset-1">
 		<img src="img/Barcelona-Activa.png" class="img-fluid col-2">
 		<img src="img/generalitat.png" class="img-fluid col-2">
