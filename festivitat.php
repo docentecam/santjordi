@@ -18,7 +18,6 @@
 					</p>
 			</div>
 			<div class=" col-6  "><img src="img/santJordiEscola_lg.png" class="col-12 img-fluid" > </div>
-		</div>	
-	</div>
+	</div>	
 <br/>
 <?php include("inc/footer.php");?>
