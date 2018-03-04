@@ -10,10 +10,20 @@ nav{
 	background-image: url("../img/navbar_lg.jpg")!important;
 }
 .dropdown-menu{
-	background: transparent!important;
+	opacity: 0.5!important;
+	color: white!important;
+}
+.dropdown-menu:hover{
+	opacity: 0.6!important;
+	
 }
 .dropdown-item{
-	background: transparent!important;
+	opacity: 0.5!important;
+	color: white!important;
+}
+.dropdown-item:hover{
+	opacity: 0.6!important;
+	
 }
 .carousel-indicators > li {
  	border-radius: 50%;
@@ -38,18 +48,14 @@ nav{
 }
 #textMockingboot
 {
-	font-size: 48px;
-	
+	font-size: 48px;	
 }
-
-
 .imgSize{
   padding: 10px;
   position: relative;
   width: 100%;
   float: left;
 }
-
 .fill {
     display: flex;
     justify-content: center;
