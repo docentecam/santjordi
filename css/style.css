@@ -9,6 +9,12 @@ p{
 nav{
 	background-image: url("../img/navbar_lg.jpg")!important;
 }
+.dropdown-menu{
+	background: transparent!important;
+}
+.dropdown-item{
+	background: transparent!important;
+}
 .carousel-indicators > li {
  	border-radius: 50%;
 	width: 12px;
