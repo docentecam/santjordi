@@ -8,7 +8,8 @@
 	  </ol>
 	  <div class="carousel-inner">
 	    <div id="carouselImg1" class="carousel-item text-center active ">
-	      <img class="img-fluid" src="img/carousel_ini_lg.gif" alt="gif d'un caballer llegint un llibre sobre un drac">
+	      <img class="img-fluid imgSize fill d-none d-md-block" src="img/carousel_ini_lg.gif" alt="gif d'un caballer llegint un llibre sobre un drac">
+	      <img class="img-fluid d-md-none" src="img/carousel_ini_lg.gif" alt="gif d'un caballer llegint un llibre sobre un drac">
 	    </div>
 	    <div id="carouselImg2" class="carousel-item">
 	      <a href="llegenda.php"><img class="img-fluid" src="img/carousel_lleg_lg.png" alt="Accès a la llegenda"></a>
