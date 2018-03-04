@@ -1,4 +1,4 @@
-<nav id="navbgimg" class="navbar navbar-expand-lg navbar-dark bg-primary">
+<nav id="navbgimg" class="navbar navbar-expand-lg navbar-dark bg-primary mb-2">
 	<div class="container">
 		<div class="mx-lg-3">	
 	  		<a class="navbar-brand mx-lg-5" href="index.php">
