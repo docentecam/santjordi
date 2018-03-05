@@ -166,6 +166,7 @@
 					</div>
 				</div>
 
+
 				<div id="desgAlumAni5" class="row">
 					    <div class="col-4 col-md-2 offset-md-3">
 					    	<img  class="img-fluid" src="img/animacions/retrat5_lg.jpg" alt="" title="">
@@ -269,4 +270,7 @@
 					      proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 					 </div>
 				</div>
+
+
+<?php include("inc/footer.php");?>
 
