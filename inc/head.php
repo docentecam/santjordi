@@ -8,6 +8,18 @@
 		<script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
 		<link rel="stylesheet" type="text/css" href="css/style.css">
 		<link rel="icon" href="img/favicon.ico" type="image/x-icon">
+		<script type="text/javascript">
+			function mostrarDesglossament(idDiv) {
+	            divMostrar = document.getElementById(idDiv);
+	            divMostrar.style.display = '';
+	            console.log("arriba");
+	        }
+
+	        function tancarDesglossament(idDiv) {
+	            divOcultar = document.getElementById(idDiv);
+	            divOcultar.style.display = 'none';
+	        }
+		</script>
 	</head>
 	<body>
 		<?php include("header.php");?>
