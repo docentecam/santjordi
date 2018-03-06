@@ -229,7 +229,7 @@
 		<br/><br/><br/><br/>
 		EN GRAN Opció 1: Nom a sota de la fotografia<br/>
 
-		<div id="desgAlum1" style="display:none; position: absolute;z-index: 10; top:0; left:0; bottom:0; ; background-color: #D9D9D9;">
+		<div id="desgAlum1" class="mostraDivAlumne">
 			<div  class="row"  >
 				<div class="col-sm-12 col-md-4 offset-2">
 					<img src="img/cartells/cartellAlumne2_lg.jpg" class="img-fluid">
@@ -409,7 +409,7 @@
 				</div>
 			</div>
 		</div> -->
-		<div id="desgAlum2" style="display:none; position: absolute;z-index: 10; top:0; left:0; bottom:0; ; background-color: #D9D9D9;">
+		<div id="desgAlum2" class="mostraDivAlumne">
 			<div class="row" >
 				<div class="col-sm-12 col-md-4 offset-2">
 					<img src="img/cartells/cartellAlumne2_lg.jpg" class="img-fluid">

@@ -11,7 +11,7 @@
 		<script type="text/javascript">
 			function mostrarDesglossament(idDiv) {
 	            divMostrar = document.getElementById(idDiv);
-	            divMostrar.style.display = '';
+	            divMostrar.style.display = 'block';
 	            console.log("arriba");
 	        }
 
