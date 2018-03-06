@@ -9,7 +9,9 @@ nav{
 	background-image: url("../img/navbar_lg.jpg")!important;
 }
 
+
 	.carousel-indicators > li {
+
 	 	border-radius: 50%;
 		width: 12px;
 		height: 12px;
@@ -20,12 +22,14 @@ nav{
 	margin-top:20px;
 }
 
+
 .carousel-indicators > li {
  	border-radius: 50%;
 	width: 12px;
 	height: 12px;
 	background-color: #404040;
 }
+
 a.noLink:link, a.noLink:visited,a.noLink:hover,a.noLink:active{
 	color: black; 
 	background-color: transparent; 
