@@ -16,8 +16,8 @@
 			</div>			
 		</div><br/>
 		<div class="row">		
-			<div class=" col-sm-6  col-md-6 col-lg-6 col-xl-6 " id="txtescoles">
-					<div class= "txtTitles text-center d-none d-sm-block ">La festivitat a les escoles</div>
+			<div class=" col-sm-6  col-md-6 col-lg-6 col-xl-6  order-2 order-md-0" id="txtescoles">
+					<div class= "txtTitles text-center d-none d-sm-block  ">La festivitat a les escoles</div>
 					<p class="ml-3">
 						A moltes escoles per no dir a totes, també se celebra la Diada de Sant Jordi. 
 						Solen fer la típica demostració de la llegenda de Sant Jordi amb el seu drac, el seu príncep, la seva princesa... 
@@ -26,10 +26,10 @@
 						Hi ha moltes categories, infantils, juvenils, pares i mares... 
 						I en diferents idiomes! Català, castellà, anglès, francès... I moltes vegades, de part dels més petits de tota l'escola, creen la seva pròpia història amb dibuixos. 
 						Aquest tipus de festa que organitzen a les escoles, la denominen com Jocs Florals.
-						<br/>Amb aquesta celebració també volen commemorar la mort de Miquel de Cervantes  i de William Shakespeare, que van morir aquest mateix dia de 1616.
+						Amb aquesta celebració també volen commemorar la mort de Miquel de Cervantes  i de William Shakespeare, que van morir aquest mateix dia de 1616.
 					</p>
 			</div>
-			<div class=" col-6 "><br/><img src="img/santJordiEscola_lg.png" class="col-12 img-fluid" > </div>
+			<div class=" col-6 order-1 "><br/><img src="img/santJordiEscola_lg.png " class="col-12 img-fluid" > </div>
 	</div>	
 <br/>
 <?php include("inc/footer.php");?>
