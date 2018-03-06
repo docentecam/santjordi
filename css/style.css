@@ -26,6 +26,7 @@ nav{
 	top:0; 
 	left:0; 
 	bottom:0;
+	width: 100%;
 	z-index: 10; 
 	background-color: #D9D9D9;
 }
