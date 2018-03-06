@@ -29,7 +29,7 @@ a.noLink:link, a.noLink:visited,a.noLink:hover,a.noLink:active{
 	color: black; 
 	background-color: transparent; 
 	text-decoration: none;
-}	
+}
 
 .borderRound{
 	border-radius: 30px;

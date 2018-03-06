@@ -2,7 +2,6 @@
 
 <div class="row">
 	<div class="col-12 d-none d-sm-block txtTitles text-center ">Procés de la creació de la pàgina</div>
-	
 </div>
 <div class="row">
 	<div class="col-12 col-md-12 card mb-3 order-1 ">
