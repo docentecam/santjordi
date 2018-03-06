@@ -222,7 +222,7 @@
 					</div>
 				</div>
 			</div>
-			<div id="desgAlumAni" class="mostraDivAlumne">
+			<div id="desgAlumAni6" class="mostraDivAlumne">
 				<div class="row">
 				  	<div class="col-sm-12 col-md-6 offset-md-3">
 					  	<div class="embed-responsive embed-responsive-16by9">
