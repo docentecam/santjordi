@@ -12,7 +12,7 @@
 	<div class="row">
 		<!-- TODO:pasar imatge por css -->
 		<div class="col-sm-12 col-md-4 col-lg-3">
-			<a href="javascript:mostrarDesglossament('desgAlum1');">
+			<a class="noLink" href="javascript:mostrarDesglossament('desgAlum1');">
 				<div class="col-12 text-center">
 					<img class="img-fluid" src="img/cartells/cartell1_lg.jpg">
 				</div>
@@ -26,7 +26,7 @@
 		</div>
 
 		<div class="col-sm-12 col-md-4 col-lg-3">
-			<a href="javascript:mostrarDesglossament('desgAlum2');">
+			<a class="noLink" href="javascript:mostrarDesglossament('desgAlum2');">
 				<div class="col-12 text-center">
 					<img class="img-fluid" src="img/cartells/cartell2_lg.jpg">
 				</div>
