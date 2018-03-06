@@ -17,6 +17,10 @@ nav{
 #borderImage{
 	border-radius: 30px;
 }
+.borderRound{
+	border-radius: 30px;
+}
+
 .txtWeb{
 	font-weight: bold;
 }
@@ -60,20 +64,7 @@ nav{
 	padding-right: 8px;
 	padding-left: 3px;
 }
-#pictureArrow{
-	padding-right: 450px;
-}
-#pictureWeb{
-	border-radius: 30px;
-}
-#pictureFilezila{
-	border-radius: 30px;
-}
-#pictureHangout{
-	border-radius: 30px;
-}
-#meetingImage{
-	border-radius: 30px;	
+	
 }
 .txtBorders{
 	padding-right: 20px;
