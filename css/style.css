@@ -112,7 +112,7 @@ a.noLink:link, a.noLink:visited,a.noLink:hover,a.noLink:active{
 
 @media (max-width: 575px){
 	.txtWeb{
-		font-size: 25px;
+		font-size: 17px;
 	}
 	.dropdown-menu{
 		background: transparent!important;
@@ -184,7 +184,7 @@ a.noLink:link, a.noLink:visited,a.noLink:hover,a.noLink:active{
 }
 @media (min-width: 1200px){
 	.txtWeb{
-		font-size:48px ;
+		font-size:40px ;
 	}
 	.dropdown-menu{
 		background-color: #7B7B7B!important;

@@ -15,7 +15,7 @@
 	<div  class="col-sm-12  col-lg-6 order-2 ">
 		 <img  class="img-fluid borderRound" src="img/definicióProjecteoriginal.jpg">
 	</div>	
-	<div class=" col-sm-12 col-md-12 col-lg-6 mb-3 mt-5  txtWeb order-3"> 
+	<div class="col-sm-12 col-md-12 col-lg-6 mb-3 mt-5 txtWeb order-3"> 
 	    	<p>A l'iniciar el projecte, els components del grup ens vam reunir per fer una pluja d'idees i així poder encaminar el projecte. Per poder fer aquesta pluja d'idees i encaminar el projecte el més important és poder tindre cohesió entre els membres del grup per així arribar a l'objectiu final sense cap problema. Un cop establit les idees principals ens vam posar a fer l'estructura en el Mockingbot.</p>
 	</div>
 
