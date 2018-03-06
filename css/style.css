@@ -8,6 +8,8 @@ p{
 nav{
 	background-image: url("../img/navbar_lg.jpg")!important;
 }
+<<<<<<< HEAD
+=======
 
 	.carousel-indicators > li {
 	 	border-radius: 50%;
@@ -19,6 +21,7 @@ nav{
 .cartellEspai{
 	margin-top:20px;
 }
+>>>>>>> 5dc5b8b3c5677af49bee0c8fe28290c1ad8de136
 .carousel-indicators > li {
  	border-radius: 50%;
 	width: 12px;
@@ -30,12 +33,9 @@ a.noLink:link, a.noLink:visited,a.noLink:hover,a.noLink:active{
 	background-color: transparent; 
 	text-decoration: none;
 }	
-
 .borderRound{
 	border-radius: 30px;
 }
-
-
 .txtWeb{
 	font-weight: bold;
 }
@@ -80,8 +80,6 @@ a.noLink:link, a.noLink:visited,a.noLink:hover,a.noLink:active{
 	padding-right: 8px;
 	padding-left: 3px;
 }
-	
-}
 .txtBorders{
 	padding-right: 20px;
 	padding-left: 20px;
@@ -105,8 +103,7 @@ a.noLink:link, a.noLink:visited,a.noLink:hover,a.noLink:active{
 #titleColor{
 	background-color: #7FFFD4;
 	border-bottom-right-radius: 30px;
-	border-bottom-left-radius: 30px   
-	
+	border-bottom-left-radius: 30px;   
 }
 
 
@@ -114,8 +111,13 @@ a.noLink:link, a.noLink:visited,a.noLink:hover,a.noLink:active{
 	.txtWeb{
 		font-size: 17px;
 	}
+	.navbar-toggler{
+		border: none!important;
+		outline: none!important;
+	}
 	.dropdown-menu{
 		background: transparent!important;
+		border: none!important;
 	}
 	.dropdown-item{
 		background: transparent!important;
@@ -130,8 +132,13 @@ a.noLink:link, a.noLink:visited,a.noLink:hover,a.noLink:active{
 	.txtWeb{
 		font-size: 17px;
 	}
+	.navbar-toggler{
+		border: none!important;
+		outline: none!important;
+	}
 	.dropdown-menu{
 		background: transparent!important;
+		border: none!important;
 	}
 	.dropdown-item{
 		background: transparent!important;
@@ -146,8 +153,13 @@ a.noLink:link, a.noLink:visited,a.noLink:hover,a.noLink:active{
 	.txtWeb{
 		font-size: 20px;
 	}
+	.navbar-toggler{
+		outline: none!important;
+		border: none!important;
+	}
 	.dropdown-menu{
 		background: transparent!important;
+		border: none!important;
 	}
 	.dropdown-item{
 		background: transparent!important;
@@ -167,19 +179,19 @@ a.noLink:link, a.noLink:visited,a.noLink:hover,a.noLink:active{
 		opacity: 0.8!important;
 		color: white!important;
 	}
-		.dropdown-menu:hover{
-			opacity: 0.9!important;
-			background-color: #7B7B7B!important;
+	.dropdown-menu:hover{
+		opacity: 0.9!important;
+		background-color: #7B7B7B!important;
 		
 	}
-		.dropdown-item{
-			opacity: 0.8!important;
-			color: white!important;
+	.dropdown-item{
+		opacity: 0.8!important;
+		color: white!important;
 	}
-		.dropdown-item:hover{
-			opacity: 0.9!important;
-			background-color: #7B7B7B!important;
-			font-weight: 500;
+	.dropdown-item:hover{
+		opacity: 0.9!important;
+		background-color: #7B7B7B!important;
+		font-weight: 500;
 	}
 }
 @media (min-width: 1200px){
@@ -191,18 +203,18 @@ a.noLink:link, a.noLink:visited,a.noLink:hover,a.noLink:active{
 		opacity: 0.8!important;
 		color: white!important;
 	}
-		.dropdown-menu:hover{
-			opacity: 0.9!important;
-			background-color: #7B7B7B!important;
+	.dropdown-menu:hover{
+		opacity: 0.9!important;
+		background-color: #7B7B7B!important;
 		
 	}
-		.dropdown-item{
-			opacity: 0.8!important;
-			color: white!important;
+	.dropdown-item{
+		opacity: 0.8!important;
+		color: white!important;
 	}
-		.dropdown-item:hover{
-			opacity: 0.9!important;
-			background-color: #7B7B7B!important;
-			font-weight: 500;
+	.dropdown-item:hover{
+		opacity: 0.9!important;
+		background-color: #7B7B7B!important;
+		font-weight: 500;
 	}	
 }
