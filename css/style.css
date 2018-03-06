@@ -8,6 +8,7 @@ p{
 nav{
 	background-image: url("../img/navbar_lg.jpg")!important;
 }
+
 .carousel-indicators > li {
  	border-radius: 50%;
 	width: 12px;
@@ -15,10 +16,15 @@ nav{
 	background-color: #404040;
 }
 a.noLink:link, a.noLink:visited,a.noLink:hover,a.noLink:active{
-	 color: black; 
-		  background-color: transparent; 
-		  text-decoration: none;
+	color: black; 
+	background-color: transparent; 
+	text-decoration: none;
 }	
+
+.borderRound{
+	border-radius: 30px;
+}
+
 
 .txtWeb{
 	font-weight: bold;
@@ -29,6 +35,7 @@ a.noLink:link, a.noLink:visited,a.noLink:hover,a.noLink:active{
 	top:0; 
 	left:0; 
 	bottom:0;
+	width: 100%;
 	z-index: 10; 
 	background-color: #D9D9D9;
 }
@@ -63,20 +70,7 @@ a.noLink:link, a.noLink:visited,a.noLink:hover,a.noLink:active{
 	padding-right: 8px;
 	padding-left: 3px;
 }
-#pictureArrow{
-	padding-right: 450px;
-}
-#pictureWeb{
-	border-radius: 30px;
-}
-#pictureFilezila{
-	border-radius: 30px;
-}
-#pictureHangout{
-	border-radius: 30px;
-}
-#meetingImage{
-	border-radius: 30px;	
+	
 }
 .txtBorders{
 	padding-right: 20px;
