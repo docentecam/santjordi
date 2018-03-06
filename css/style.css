@@ -8,10 +8,7 @@ p{
 nav{
 	background-image: url("../img/navbar_lg.jpg")!important;
 }
-<<<<<<< HEAD
-=======
-
-	.carousel-indicators > li {
+.carousel-indicators > li {
 	 	border-radius: 50%;
 		width: 12px;
 		height: 12px;
@@ -21,13 +18,7 @@ nav{
 .cartellEspai{
 	margin-top:20px;
 }
->>>>>>> 5dc5b8b3c5677af49bee0c8fe28290c1ad8de136
-.carousel-indicators > li {
- 	border-radius: 50%;
-	width: 12px;
-	height: 12px;
-	background-color: #404040;
-}
+
 a.noLink:link, a.noLink:visited,a.noLink:hover,a.noLink:active{
 	color: black; 
 	background-color: transparent; 
