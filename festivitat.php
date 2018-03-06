@@ -1,9 +1,9 @@
 <?php include("inc/head.php");?>
 		<div class="row">		
-			<div class="col-6"><br/><img src="img/santJordiCarrer_lg.png" class="col-12 img-fluid" ></div>
+			<div class="  col-6 imgSize fill"><br/><img src="img/santJordiCarrer_lg.png" class="col-12  img-fluid" ></div>
 			<div class="col-sm-6 col-md-6 col-lg-6 col-xl-6" id="txtfestivitat">
 				<br/><div class= "txtTitles text-center d-none d-sm-block">La festivitat al carrer</div>
-				 	
+	 	
 					<p class="mr-3 ml-3">
 						La festivitat consisteix en el fet que durant tot el dia de Sant Jordi (23 d'abril) es munten parades on venen llibres i roses; en molts llocs organitzen activitats no només el dia 23 sinó durant el cap de setmana o els dies previs al dia 23. 
 						També és un dia en què es té per costum regalar roses o llibres, o ambdues coses. Molts llocs organitzen firmes de llibres on van els escriptors a firmar els seus llibres, ja que han definit aquest dia com el dia internacional del llibre.
@@ -29,7 +29,7 @@
 						Amb aquesta celebració també volen commemorar la mort de Miquel de Cervantes  i de William Shakespeare, que van morir aquest mateix dia de 1616.
 					</p>
 			</div>
-			<div class=" col-6 order-1 "><br/><img src="img/santJordiEscola_lg.png " class="col-12 img-fluid" > </div>
+			<div class=" col-6  imgSize fill order-1 "><br/><img src="img/santJordiEscola_lg.png " class=" img-fluid" > </div>
 	</div>	
 <br/>
 <?php include("inc/footer.php");?>
