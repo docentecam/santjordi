@@ -16,7 +16,7 @@
 			</div>			
 		</div><br/>
 		<div class="row">		
-			<div class=" col-sm-6  col-md-6 col-lg-6 col-xl-6  order-2 order-md-0" id="txtescoles">
+			<div class=" col-sm-6 col-md-6 col-lg-6 col-xl-6  order-2 order-md-0" id="txtescoles">
 					<div class= "txtTitles text-center d-none d-sm-block  ">La festivitat a les escoles</div>
 					<p class="ml-3">
 						A moltes escoles per no dir a totes, també se celebra la Diada de Sant Jordi. 
