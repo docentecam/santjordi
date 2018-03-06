@@ -114,10 +114,10 @@
 
 		<div id="desgAlum1" class="mostraDivAlumne">
 			<div class="row">
-				<div class="col-sm-12 col-md-4 offset-2">
-					<img src="img/cartells/cartellAlumne1_lg.jpg" class="img-fluid cartellEspai">
+				<div class="col-sm-12 col-md-4 offset-2 mt-4">
+					<img src="img/cartells/cartellAlumne1_lg.jpg" class="img-fluid">
 				</div>
-				<div class="col-sm-12 col-md-6 col-lg-6">
+				<div class="col-sm-12 col-md-6 col-lg-6 mt-4">
 					<div class="row">
 						<div class="col-3">
 							<img src="img/cartells/cartellFoto2_lg.jpg" class="img-fluid cartellEspai">
@@ -129,7 +129,7 @@
 						</div>
 					</div>
 					<div class="row">
-						<div class="col-12 cartellEspai">
+						<div class="col-12 cartellEspai mt-4">
 							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
 						</div>
 						<div class="col-2 ml-2">
@@ -142,22 +142,22 @@
 
 		<div id="desgAlum2" class="mostraDivAlumne">
 			<div class="row" >
-				<div class="col-sm-12 col-md-4 offset-2">
-					<img src="img/cartells/cartellAlumne2_lg.jpg" class="img-fluid cartellEspai">
+				<div class="col-sm-12 col-md-4 offset-2 mt-4">
+					<img src="img/cartells/cartellAlumne2_lg.jpg" class="img-fluid ">
 				</div>
-				<div class="col-sm-12 col-md-6 col-lg-6">
+				<div class="col-sm-12 col-md-6 col-lg-6 mt-4">
 					<div class="row">
 						<div class="col-3">
-							<img src="img/cartells/cartellFoto2_lg.jpg" class="img-fluid cartellEspai">
+							<img src="img/cartells/cartellFoto2_lg.jpg" class="img-fluid ">
 						</div>
-						<div class="col-6 cartellEspai">
+						<div class="col-6 ">
 							<div class="nomAlumne mt-2"> 
 								Quick Sneak Peek
 							</div>
 						</div>
 					</div>
 					<div class="row">
-						<div class="col-12 cartellEspai">
+						<div class="col-12 mt-4">
 							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
 						</div>
 					</div>
@@ -171,22 +171,22 @@
 
 		<div id="desgAlum3" class="mostraDivAlumne">
 			<div class="row" >
-				<div class="col-sm-12 col-md-4 offset-2">
-					<img src="img/cartells/cartellAlumne3_lg.jpg" class="img-fluid cartellEspai">
+				<div class="col-sm-12 col-md-4 offset-2 mt-4">
+					<img src="img/cartells/cartellAlumne3_lg.jpg" class="img-fluid ">
 				</div>
-				<div class="col-sm-12 col-md-6 col-lg-6">
+				<div class="col-sm-12 col-md-6 col-lg-6 mt-4">
 					<div class="row">
 						<div class="col-3">
-							<img src="img/cartells/cartellFoto3_lg.jpg" class="img-fluid cartellEspai">
+							<img src="img/cartells/cartellFoto3_lg.jpg" class="img-fluid ">
 						</div>
-						<div class="col-6 cartellEspai">
+						<div class="col-6 ">
 							<div class="nomAlumne mt-2"> 
 								Quick Sneak Peek
 							</div>
 						</div>
 					</div>
 					<div class="row">
-						<div class="col-12">
+						<div class="col-12 mt-4">
 							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
 						</div>
 						<div class="col-2 ml-2">
@@ -199,22 +199,22 @@
 
 		<div id="desgAlum4" class="mostraDivAlumne">
 			<div class="row">
-				<div class="col-sm-12 col-md-4 offset-2">
-					<img src="img/cartells/cartellAlumne4_lg.jpg" class="img-fluid cartellEspai">
+				<div class="col-sm-12 col-md-4 offset-2 mt-4">
+					<img src="img/cartells/cartellAlumne4_lg.jpg" class="img-fluid ">
 				</div>
-				<div class="col-sm-12 col-md-6 col-lg-6">
+				<div class="col-sm-12 col-md-6 col-lg-6 mt-4">
 					<div class="row">
 						<div class="col-3">
-							<img src="img/cartells/cartellFoto4_lg.jpg" class="img-fluid cartellEspai">
+							<img src="img/cartells/cartellFoto4_lg.jpg" class="img-fluid ">
 						</div>
-						<div class="col-6 cartellEspai">
+						<div class="col-6 ">
 							<div class="nomAlumne mt-2"> 
 								Quick Sneak Peek
 							</div>
 						</div>
 					</div>
 					<div class="row">
-						<div class="col-12">
+						<div class="col-12 mt-4">
 							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
 						</div>
 						<div class="col-2 ml-2">
@@ -227,10 +227,10 @@
 
 		<div id="desgAlum5" class="mostraDivAlumne">
 			<div class="row">
-				<div class="col-sm-12 col-md-4 offset-2">
+				<div class="col-sm-12 col-md-4 offset-2 mt-4">
 					<img src="img/cartells/cartellAlumne5_lg.jpg" class="img-fluid cartellEspai">
 				</div>
-				<div class="col-sm-12 col-md-6 col-lg-6">
+				<div class="col-sm-12 col-md-6 col-lg-6 mt-4">
 					<div class="row">
 						<div class="col-3">
 							<img src="img/cartells/cartellFoto5_lg.jpg" class="img-fluid cartellEspai">
@@ -242,7 +242,7 @@
 						</div>
 					</div>
 					<div class="row">
-						<div class="col-12">
+						<div class="col-12 mt-4">
 							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
 						</div>
 						<div class="col-2 ml-2">
@@ -255,22 +255,22 @@
 
 		<div id="desgAlum6" class="mostraDivAlumne">
 			<div class="row">
-				<div class="col-sm-12 col-md-4 offset-2">
-					<img src="img/cartells/cartellAlumne6_lg.jpg" class="img-fluid cartellEspai">
+				<div class="col-sm-12 col-md-4 offset-2 mt-4">
+					<img src="img/cartells/cartellAlumne6_lg.jpg" class="img-fluid ">
 				</div>
-				<div class="col-sm-12 col-md-6 col-lg-6">
+				<div class="col-sm-12 col-md-6 col-lg-6 mt-4">
 					<div class="row">
 						<div class="col-3">
-							<img src="img/cartells/cartellFoto6_lg.jpg" class="img-fluid cartellEspai">
+							<img src="img/cartells/cartellFoto6_lg.jpg" class="img-fluid ">
 						</div>
-						<div class="col-6 cartellEspai">
+						<div class="col-6 ">
 							<div class="nomAlumne mt-2"> 
 								Quick Sneak Peek
 							</div>
 						</div>
 					</div>
 					<div class="row">
-						<div class="col-12">
+						<div class="col-12 mt-4">
 							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
 						</div>
 						<div class="col-2 ml-2">
@@ -283,22 +283,22 @@
 
 		<div id="desgAlum7" class="mostraDivAlumne">
 			<div class="row" >
-				<div class="col-sm-12 col-md-4 offset-2">
-					<img src="img/cartells/cartellAlumne7_lg.jpg" class="img-fluid cartellEspai">
+				<div class="col-sm-12 col-md-4 offset-2 mt-4">
+					<img src="img/cartells/cartellAlumne7_lg.jpg" class="img-fluid ">
 				</div>
-				<div class="col-sm-12 col-md-6 col-lg-6">
+				<div class="col-sm-12 col-md-6 col-lg-6 mt-4">
 					<div class="row">
 						<div class="col-3">
-							<img src="img/cartells/cartellFoto7_lg.jpg" class="img-fluid cartellEspai">
+							<img src="img/cartells/cartellFoto7_lg.jpg" class="img-fluid ">
 						</div>
-						<div class="col-6 cartellEspai">
+						<div class="col-6 ">
 							<div class="nomAlumne mt-2"> 
 								Quick Sneak Peek
 							</div>
 						</div>
 					</div>
 					<div class="row">
-						<div class="col-12">
+						<div class="col-12 mt-4">
 							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
 						</div>
 						<div class="col-2 ml-2">
@@ -311,10 +311,10 @@
 
 		<div id="desgAlum8" class="mostraDivAlumne">
 			<div class="row" >
-				<div class="col-sm-12 col-md-4 offset-2">
-					<img src="img/cartells/cartellAlumne8_lg.jpg" class="img-fluid cartellEspai">
+				<div class="col-sm-12 col-md-4 offset-2 mt-4">
+					<img src="img/cartells/cartellAlumne8_lg.jpg" class="img-fluid ">
 				</div>
-				<div class="col-sm-12 col-md-6 col-lg-6">
+				<div class="col-sm-12 col-md-6 col-lg-6 mt-4">
 					<div class="row">
 						<div class="col-3">
 							<img src="img/cartells/cartellFoto8_lg.jpg" class="img-fluid cartellEspai">
@@ -326,7 +326,7 @@
 						</div>
 					</div>
 					<div class="row">
-						<div class="col-12">
+						<div class="col-12 mt-4">
 							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
 						</div>
 						<div class="col-2 ml-2">
