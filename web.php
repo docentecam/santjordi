@@ -57,7 +57,8 @@
 		    <p>Finalment aquí teniu la pàgina ja pujada al hosting.	</p>
 		</div>
 		<div class="col-12 order-12">
-			<img id="pictureArrow" class="img-fluid " src="img/flechaparaultimafoto.png" >	  
+			<img id="pictureArrow " class="img-fluid d-md-block d-none" src="img/flechaparaultimafoto.png" >	  
+			<img  class="img-fluid d-md-none" src="img/Arrow_Up.png">
 		</div> 
 	</div>		    
 	
