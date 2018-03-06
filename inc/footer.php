@@ -1,5 +1,12 @@
 </div>
-	<div class="bg-dark mt-2">
+	<div class="bg-dark mt-2 d-md-none">
+			<img src="img/ajuntament.png" class="img-fluid col-3 offset-1">
+			<img src="img/Barcelona-Activa.png" class="img-fluid col-3">
+			<img src="img/generalitat.png" class="img-fluid col-3">
+			<img src="img/soc.png" class="img-fluid col-3 offset-2">
+			<img src="img/ministerio.png" class="img-fluid col-3">
+	</div>
+	<div class="bg-dark mt-2 d-none d-md-block">
 		<img src="img/ajuntament.png" class="img-fluid col-2 offset-1">
 		<img src="img/Barcelona-Activa.png" class="img-fluid col-2">
 		<img src="img/generalitat.png" class="img-fluid col-2">

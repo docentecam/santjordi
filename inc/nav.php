@@ -13,8 +13,8 @@
 						<li class="nav-item dropdown mx-lg-5">
 						    <a class="nav-link dropdown-toggle active" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Sant Jordi</a>
 						    <div class="dropdown-menu">
-						      <a class="dropdown-item text-white" href="llegenda.php">Llegenda</a>
-						      <a class="dropdown-item text-white" href="festivitat.php">Festivitat</a>
+						      <a class="dropdown-item" href="llegenda.php">Llegenda</a>
+						      <a class="dropdown-item" href="festivitat.php">Festivitat</a>
 						    </div>
 						</li>
 						<li class="nav-item mx-lg-5">
