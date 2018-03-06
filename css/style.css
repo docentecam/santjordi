@@ -14,9 +14,7 @@ nav{
 		height: 12px;
 		background-color: #404040;
 	}
-#borderImage{
-	border-radius: 30px;
-}
+
 .borderRound{
 	border-radius: 30px;
 }
@@ -82,17 +80,22 @@ nav{
 .separation{
 	padding: 10px;
 }
-#titleColor{
-	background-color: #7FFFD4; 
+
+#firstPicture{
+	border-top-right-radius: 30px;
+	border-top-left-radius: 30px;
 }
-#pictureMocking{
-	border-radius: 30px; 
-	}
+#titleColor{
+	background-color: #7FFFD4;
+	border-bottom-right-radius: 30px;
+	border-bottom-left-radius: 30px   
+	
+}
 
 
 @media (max-width: 575px){
 	.txtWeb{
-		font-size: 17px;
+		font-size: 25px;
 	}
 	.dropdown-menu{
 		background: transparent!important;
