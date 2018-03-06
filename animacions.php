@@ -1,6 +1,6 @@
 <?php include("inc/head.php");?>
 	<div class="row">
-		<div class="col-12 d-none d-sm-block txtTitles text-center">Les Animacions</div>
+		<div class="col-12 d-none d-sm-block txtTitles text-center mb-4">Les Animacions</div>
 	</div>
 		<div class="row"> 
 		    <div class="col-sm-12 col-md-4 col-lg-3">
@@ -65,17 +65,17 @@
 				<div class="row">
 				  	<div class="col-sm-12 col-md-6 offset-md-3">
 					  	<div class="embed-responsive embed-responsive-16by9">
-			  				<iframe class="embed-responsive-item" src="img/animacions/animacioAlumne1_lg.mp4" allowfullscreen></iframe>
+			  				<iframe class="embed-responsive-item mt-5" src="img/animacions/animacioAlumne1_lg.mp4" allowfullscreen></iframe>
 						</div>
 					</div>
 				</div>
 				
 				<div class="row">
 					    <div class="col-4 col-md-2 offset-md-3">
-					    	<img  class="img-fluid" src="img/animacions/retrat1_lg.jpg" alt="" title="">
+					    	<img class="img-fluid mt-3" src="img/animacions/retrat1_lg.jpg" alt="" title="">
 					    </div>
-						<div class="col-6 mt-5">
-							<span> Nom Alumne Primer Cognom Segon Cognom 1</span>
+						<div class="col-4 mt-5">
+							<span> Nom Alumne Primer Cognom Segon cognom 1</span>
 						</div>
 				</div>
 	 
