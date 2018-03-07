@@ -5,11 +5,9 @@
 p{
 	font-family: 'Open Sans', sans-serif;
 }
-
 nav{
 	background-image: url("../img/navbar_lg.jpg")!important;
 }
-
 .carousel-indicators > li {
  	border-radius: 50%;
 	width: 12px;
@@ -23,16 +21,16 @@ nav{
 	font-weight: bold;
 }
 .imgSize{
-  padding: 10px;
-  position: relative;
-  width: 100%;
-  float: left;
+	padding: 10px;
+	position: relative;
+	width: 100%;
+	float: left;
 }
 .fill {
     display: flex;
     justify-content: center;
     align-items: center;
-    overflow: hidden
+    overflow: hidden;
 }
 .fill img {
     flex-shrink: 0;
@@ -45,13 +43,13 @@ nav{
 	font-size: 50px;
 }
 .firstcharacter {
-  float: left;
-  font-family: Georgia;
-  font-size: 80px;
-  line-height: 60px;
-  padding-top: 4px;
-  padding-right: 8px;
-  padding-left: 3px;
+	float: left;
+	font-family: Georgia;
+	font-size: 80px;
+	line-height: 60px;
+	padding-top: 4px;
+	padding-right: 8px;
+	padding-left: 3px;
 }
 #pictureArrow{
 	padding-right: 450px;
@@ -81,13 +79,13 @@ nav{
 	padding-top: 10px;
 }
 .separation{
-	padding:10px;
+	padding: 10px;
 }
 #titleColor{
 	background-color: #7FFFD4; 
 }
 #pictureMocking{
-		border-radius: 30px; 
+	border-radius: 30px; 
 	}
 
 
