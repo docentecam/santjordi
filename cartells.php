@@ -156,7 +156,7 @@
 				</a>
 			</div>
 		</div>
-
+		<!-- TODO:cambiar el color de fondo por css con la clase mostraDivAlumne -->
 		<div id="desgAlum1" class="mostraDivAlumne">
 			<div class="row">
 				<!-- TODO:cambiar col-sm-12 por col-12 -->
@@ -228,7 +228,6 @@
 						</div>
 					</div>
 				</div>
-				
 			</div>
 		</div>
 
