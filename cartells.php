@@ -10,7 +10,7 @@
 				<div class="col-8 text-center offset-2">
 					<img class="img-fluid" src="img/cartells/cartell1.png">
 				</div>
-				<div class="col-12">
+				<div class="col-12 text-center">
 					<span class="nomAlumne">
 						Marina Aguiló
 					</span><br>
@@ -31,7 +31,7 @@
 				<div class="col-8 text-center offset-2">
 					<img class="img-fluid" src="img/cartells/cartell2.png">
 				</div>
-				<div class="col-12">
+				<div class="col-12 text-center">
 					<span class="nomAlumne"> 
 						Rebeca Burgos
 					</span><br>
@@ -48,7 +48,7 @@
 				<div class="col-8 text-center offset-2">
 					<img class="img-fluid" src="img/cartells/cartell3.png">
 				</div>
-				<div class="col-12">
+				<div class="col-12 text-center">
 					<span class="nomAlumne"> 
 						Mari Cazorla
 					</span><br>
@@ -67,7 +67,7 @@
 				<div class="col-8 text-center offset-2">
 					<img class="img-fluid" src="img/cartells/cartell4.png">
 				</div>
-				<div class="col-12">
+				<div class="col-12 text-center">
 					<span class="nomAlumne"> 
 						Ana Del Campo
 					</span><br>
@@ -86,7 +86,7 @@
 				<div class="col-8 text-center offset-2">
 					<img class="img-fluid" src="img/cartells/cartell5.png">
 				</div>
-				<div class="col-12">
+				<div class="col-12 text-center">
 					<span class="nomAlumne"> 
 						Sara Garcimartín
 					</span><br>
@@ -108,7 +108,7 @@
 					<div class="col-8 text-center offset-2">
 						<img class="img-fluid" src="img/cartells/cartell6.png">
 					</div>
-					<div class="col-12">
+					<div class="col-12 text-center">
 						<span class="nomAlumne"> 
 							Belén Garrido
 						</span><br>
@@ -125,7 +125,7 @@
 					<div class="col-8 text-center offset-2">
 						<img class="img-fluid" src="img/cartells/cartell7.png">
 					</div>
-					<div class="col-12">
+					<div class="col-12 text-center">
 						<span class="nomAlumne"> 
 							Rosa Gilibert
 						</span><br>
@@ -144,7 +144,7 @@
 					<div class="col-8 text-center offset-2">
 						<img class="img-fluid" src="img/cartells/cartell8.png">
 					</div>
-					<div class="col-12">
+					<div class="col-12 text-center">
 						<span class="nomAlumne"> 
 							Pol Viñas
 						</span><br>
@@ -159,10 +159,17 @@
 
 		<div id="desgAlum1" class="mostraDivAlumne">
 			<div class="row">
+				<!-- TODO:cambiar col-sm-12 por col-12 -->
 				<div class="col-sm-12 col-md-4 offset-2 mt-4">
 					<img src="img/cartells/cartellAlumne1.png" class="img-fluid">
 				</div>
 				<div class="col-sm-12 col-md-6 col-lg-6 mt-4">
+					<div class="row">
+						<div class="col-lg-2 offset-lg-10">
+							<a href="javascript:tancarDesglossament('desgAlum1');"><img src="img/cartells/proposta1Tancar.png" class="img-fluid"></a>
+						</div>
+					</div>
+					
 					<div class="row">
 						<div class="col-3">
 							<img src="img/cartells/cartellFoto1.png" class="img-fluid cartellEspai">
@@ -183,9 +190,7 @@
 								Els núvols estan fets amb plastilina i posteriorment fotografiats.
 							</p>
 						</div>
-						<div class="col-2 ml-2">
-							<a href="javascript:tancarDesglossament('desgAlum1');">Tancar</a>
-						</div>
+						
 					</div>
 				</div>
 			</div>
@@ -197,6 +202,11 @@
 					<img src="img/cartells/cartellAlumne2.png" class="img-fluid ">
 				</div>
 				<div class="col-sm-12 col-md-6 col-lg-6 mt-4">
+					<div class="row">
+						<div class="col-lg-2 offset-lg-10">
+							<a href="javascript:tancarDesglossament('desgAlum2');"><img src="img/cartells/proposta1Tancar.png" class="img-fluid"></a>
+						</div>
+					</div>
 					<div class="row">
 						<div class="col-3">
 							<img src="img/cartells/cartellFoto2.png" class="img-fluid ">
@@ -217,9 +227,6 @@
 							</p>
 						</div>
 					</div>
-					<div class="col-2 ml-2">
-						<a href="javascript:tancarDesglossament('desgAlum2');">Tancar</a>
-					</div>
 				</div>
 				
 			</div>
@@ -231,6 +238,11 @@
 					<img src="img/cartells/cartellAlumne3.png" class="img-fluid ">
 				</div>
 				<div class="col-sm-12 col-md-6 col-lg-6 mt-4">
+					<div class="row">
+						<div class="col-lg-2 offset-lg-10">
+							<a href="javascript:tancarDesglossament('desgAlum3');"><img src="img/cartells/proposta1Tancar.png" class="img-fluid"></a>
+						</div>
+					</div>
 					<div class="row">
 						<div class="col-3">
 							<img src="img/cartells/cartellFoto3.png" class="img-fluid ">
@@ -251,9 +263,6 @@
 
 							</p>
 						</div>
-						<div class="col-2 ml-2">
-							<a href="javascript:tancarDesglossament('desgAlum3');">Tancar</a>
-						</div>
 					</div>
 				</div>
 			</div>
@@ -265,6 +274,11 @@
 					<img src="img/cartells/cartellAlumne4.png" class="img-fluid ">
 				</div>
 				<div class="col-sm-12 col-md-6 col-lg-6 mt-4">
+					<div class="row">
+						<div class="col-lg-2 offset-lg-10">
+							<a href="javascript:tancarDesglossament('desgAlum4');"><img src="img/cartells/proposta1Tancar.png" class="img-fluid"></a>
+						</div>
+					</div>
 					<div class="row">
 						<div class="col-3">
 							<img src="img/cartells/cartellFoto4.png" class="img-fluid ">
@@ -286,9 +300,6 @@
 
 							</p>
 						</div>
-						<div class="col-2 ml-2">
-							<a href="javascript:tancarDesglossament('desgAlum4');">Tancar</a>
-						</div>
 					</div>
 				</div>
 			</div>
@@ -300,6 +311,11 @@
 					<img src="img/cartells/cartellAlumne5.png" class="img-fluid cartellEspai">
 				</div>
 				<div class="col-sm-12 col-md-6 col-lg-6 mt-4">
+					<div class="row">
+						<div class="col-lg-2 offset-lg-10">
+							<a href="javascript:tancarDesglossament('desgAlum5');"><img src="img/cartells/proposta1Tancar.png" class="img-fluid"></a>
+						</div>
+					</div>
 					<div class="row">
 						<div class="col-3">
 							<img src="img/cartells/cartellFoto5.png" class="img-fluid cartellEspai">
@@ -319,9 +335,6 @@
 								pequeños detalles como podría ser un punto de libro,se esconden grandes cosas. ¡Feliz Sant Jordi!
 							</p>
 						</div>
-						<div class="col-2 ml-2">
-							<a href="javascript:tancarDesglossament('desgAlum5');">Tancar</a>
-						</div>
 					</div>
 				</div>
 			</div>
@@ -333,6 +346,11 @@
 					<img src="img/cartells/cartellAlumne6.png" class="img-fluid ">
 				</div>
 				<div class="col-sm-12 col-md-6 col-lg-6 mt-4">
+					<div class="row">
+						<div class="col-lg-2 offset-lg-10">
+							<a href="javascript:tancarDesglossament('desgAlum6');"><img src="img/cartells/proposta1Tancar.png" class="img-fluid"></a>
+						</div>
+					</div>
 					<div class="row">
 						<div class="col-3">
 							<img src="img/cartells/cartellFoto6.png" class="img-fluid ">
@@ -349,9 +367,6 @@
 								Cualquier mujer puede ser una guerrera, una Santa Jordina. Da igual el color de piel que tengas,si eres más alta, más baja, rubia o morena.
 							</p>
 						</div>
-						<div class="col-2 ml-2">
-							<a href="javascript:tancarDesglossament('desgAlum6');">Tancar</a>
-						</div>
 					</div>
 				</div>
 			</div>
@@ -363,6 +378,11 @@
 					<img src="img/cartells/cartellAlumne7.png" class="img-fluid ">
 				</div>
 				<div class="col-sm-12 col-md-6 col-lg-6 mt-4">
+					<div class="row">
+						<div class="col-lg-2 offset-lg-10">
+							<a href="javascript:tancarDesglossament('desgAlum7');"><img src="img/cartells/proposta1Tancar.png" class="img-fluid"></a>
+						</div>
+					</div>
 					<div class="row">
 						<div class="col-3">
 							<img src="img/cartells/cartellFoto7.png" class="img-fluid ">
@@ -383,9 +403,6 @@
 								El mar, l’skyline de Barcelona i el cel estan fets amb Illustrator.
 							</p>
 						</div>
-						<div class="col-2 ml-2">
-							<a href="javascript:tancarDesglossament('desgAlum7');">Tancar</a>
-						</div>
 					</div>
 				</div>
 			</div>
@@ -397,6 +414,11 @@
 					<img src="img/cartells/cartellAlumne8.png" class="img-fluid ">
 				</div>
 				<div class="col-sm-12 col-md-6 col-lg-6 mt-4">
+					<div class="row">
+						<div class="col-lg-2 offset-lg-10">
+							<a href="javascript:tancarDesglossament('desgAlum8');"><img src="img/cartells/proposta1Tancar.png" class="img-fluid"></a>
+						</div>
+					</div>
 					<div class="row">
 						<div class="col-3">
 							<img src="img/cartells/cartellFoto8.png" class="img-fluid ">
@@ -413,9 +435,6 @@
 								Mi idea es trasladar la leyenda de Sant Jordi a la época actual, 
 								sustituyendo el caballo del héroe por un coche, rescatando a la princesa y a la última oveja del pueblo.
 							</p>
-						</div>
-						<div class="col-2 ml-2">
-							<a href="javascript:tancarDesglossament('desgAlum8');">Tancar</a>
 						</div>
 					</div>
 				</div>
