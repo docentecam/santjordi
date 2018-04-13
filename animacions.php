@@ -1,12 +1,15 @@
 <?php include("inc/head.php");?>
 	<div class="row">
-		<div class="col-12 d-none d-sm-block txtTitles text-center mb-2">Les Animacions</div>
+		<div id="txtAniC" class="col-12 d-none d-sm-block txtTitles text-center mb-2">Les Animacions</div>
+		<div id="txtAniE" class="col-12 d-none d-sm-block txtTitles text-center mb-2">Las Animaciones</div>
+
 	</div>
 		<div class="row"> 
 		    <div class="col-sm-12 col-md-4 col-lg-3">
 				<a class="noLink" href="javascript:mostrarDesglossament('desgAlumAni1');">
 			    	<img class=" col-12 img-fluid" src="img/animacions/animacio1_lg.jpg" alt="" title="">
-				  	<div class="col-12 text-center">Titol Animació</div>
+				  	<div id="txtTitlesAniC" class="col-12 text-center">Titol Animació</div>
+				  	<div id="txtTitlesAniE" class="col-12 text-center"></div>
 				    <div class="col-12 text-center">Nom Alumne Primer Cognom 1</div>
 				</a>
 		    </div>
@@ -20,7 +23,7 @@
 		    <div class="col-sm-12 col-md-4 col-lg-3">
 				<a class="noLink" href="javascript:mostrarDesglossament('desgAlumAni3');">
 			    	<img class=" col-12 img-fluid" src="img/animacions/animacio3_lg.jpg" alt="" title="">
-				  	<div class="col-12 text-center">Titol Animació</div>
+				  	<div class="col-12 text-center ">Titol Animació</div>
 				    <div class="col-12 text-center">Nom Alumne Primer Cognom 3</div>
 				</a>
 		    </div>
