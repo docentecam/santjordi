@@ -21,7 +21,9 @@
 		 <img  class="img-fluid borderRound" src="img/Capturafilezila4.JPG">
 		 <h5 class="text-center">Finalitzar el projecte</h5>
 	</div>
-	
+	<div >
+		<img>
+	</div>
 </div>
 		
 	
