@@ -1,11 +1,11 @@
 <?php include("inc/head.php");?>
 	<diV class="row">
 
-		<div class="col-lg-8 offset-2 rounded mt-3 mb-3 px-5 py-2" id="festivitats">
+		<div class="col-lg-8 offset-2 mt-3 mb-3 px-5 py-2" id="festivitats">
 
 			<div class="row">	
 
-				<div class="col-sm-6 col-md-6 col-lg order-2 order-md-0" id="txtescoles">
+				<div class="col-sm-6 col-md-6 col-lg-6 pr-5 order-2 order-md-0" id="txtescoles">
 					<div class="txtTitles text-center d-none d-sm-block mb-3">La festivitat a les escoles</div>
 						<p>
 							A les escoles es celebra la diada de Sant Jordi de maneres diferents. La més popular consisteix en la celebració dels Jocs Florals, que és la celebració d’un concurs literari amb tots els nens de l’escola.</br></br>
@@ -15,7 +15,7 @@
 						</p>
 				</div>
 
-				<div class="col-sm-6 col-md-6 col-lg offset-1" id="txtfestivitat">
+				<div class="col-sm-6 col-md-6 col-lg-6 pl-5" id="txtfestivitat">
 					<div class="txtTitles text-center d-none d-sm-block mb-3 mr-2">La festivitat al carrer</div>
 		 	
 						<p>
@@ -25,10 +25,10 @@
 						</p>
 				</div>	
 
-			</div>
-			<div class="row">		
-				<div class="col-sm-6 col-md-6 col-lg imgSize fill mb-2"><br/><img src="img/santJordiCarrer_lg.png" class="img-fluid rounded" ></div>
-				<div class="col-sm-6 col-md-6 col-lg offset-1 imgSize fill order-1 mb-2"><br/><img src="img/santJordiEscola_lg.png" class="img-fluid rounded" > </div>
+			<!-- </div>
+			<div class="row">	 -->	
+				<div class="col-sm-6 col-md-6 col-lg-6 pr-5 imgSize fill mb-2"><br/><img src="img/santJordiCarrer_lg.png" class="imgfestivitats img-fluid" ></div>
+				<div class="col-sm-6 col-md-6 col-lg-6 pl-5 imgSize fill order-1 mb-2"><br/><img src="img/santJordiEscola_lg.png" class="imgfestivitats img-fluid" > </div>
 			</div>
 		</div>
 	</diV>		
