@@ -8,7 +8,7 @@
 	  </ol>
 	  <div class="carousel-inner">
 	    <div id="carouselImg1" class="carousel-item text-center active ">
-	      <img class="img-fluid imgSize fill d-none d-md-block" src="img/carousel_ini_lg.gif" alt="gif d'un caballer llegint un llibre sobre un drac">
+	      <a href="animacions.php"><img class="img-fluid imgSize fill d-none d-md-block" src="img/carousel_ini_lg.gif" alt="gif d'un caballer llegint un llibre sobre un drac"></a>
 	      <img class="img-fluid d-md-none" src="img/carousel_ini_lg.gif" alt="gif d'un caballer llegint un llibre sobre un drac">
 	    </div>
 	    <div id="carouselImg2" class="carousel-item">
@@ -25,9 +25,11 @@
 	    </div>
 	  </div>
 	  <a class="carousel-control-prev" href="#carouselSantJordi" role="button" data-slide="prev">
+	  	<span class="carousel-control-prev-icon" aria-hidden="true"></span>
 	  	<span class="sr-only">Enrere</span>
 	  </a>
 	  <a class="carousel-control-next" href="#carouselSantJordi" role="button" data-slide="next">
+	 	<span class="carousel-control-next-icon" aria-hidden="true"></span>
 	 	<span class="sr-only">Endavant</span>
 	  </a>
 	</div>
