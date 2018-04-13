@@ -9,20 +9,15 @@ nav{
 	background-image: url("../img/navbar_old.jpg")!important;
 	/*background-repeat: no-repeat!important;*/
 }
-
-
-
-	.carousel-indicators > li {
-	 	border-radius: 50%;
-		width: 12px;
-		height: 12px;
-		background-color: #404040;
+.carousel-indicators > li {
+	border-radius: 50%;
+	width: 12px;
+	height: 12px;
+	background-color: #404040;
 	}
-
 .cartellEspai{
 	margin-top:20px;
 }
-
 .carousel-indicators > li {
 	border-radius: 50%;
 	width: 12px;
