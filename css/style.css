@@ -105,6 +105,11 @@ a.noLink:link, a.noLink:visited,a.noLink:hover,a.noLink:active{
 	border-bottom-left-radius: 30px;   
 }
 
+#festivitats{
+	background-color: #E7F3E3;
+/*	background-color: #ECEBEB;*/
+}
+
 
 @media (max-width: 575px){
 	nav{
