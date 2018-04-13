@@ -118,7 +118,10 @@ a.noLink:link, a.noLink:visited,a.noLink:hover,a.noLink:active{
 		color: white;
 	}
 	.bg-primary{
-		background-color: #7B7B7B!important;
+		background-color: #343a40!important;
+	}
+	.santmt3{
+		margin-top: 1rem!important;
 	}
 }
 @media (min-width: 576px) and (max-width: 767px){
@@ -142,7 +145,10 @@ a.noLink:link, a.noLink:visited,a.noLink:hover,a.noLink:active{
 		color: white;
 	}
 	.bg-primary{
-		background-color: #7B7B7B!important;
+		background-color: #343a40!important;
+	}
+	.santmt3{
+		margin-top: 1rem!important;
 	}	
 }
 @media (min-width: 768px) and (max-width: 991px){
@@ -166,7 +172,10 @@ a.noLink:link, a.noLink:visited,a.noLink:hover,a.noLink:active{
 		color: white;
 	}
 	.bg-primary{
-		background-color: #7B7B7B!important;
+		background-color: #343a40!important;
+	}
+	.santmt3{
+		margin-top: 1rem!important;
 	}
 }
 @media (min-width: 992px) and (max-width: 1199px){
