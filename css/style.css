@@ -1,9 +1,11 @@
 @import url('https://fonts.googleapis.com/css?family=Pacifico');
 @import url('https://fonts.googleapis.com/css?family=Open+Sans');
-
-
-p{
+@import url('https://fonts.googleapis.com/css?family=Merienda+One');
+*{
 	font-family: 'Open Sans', sans-serif;
+}
+h1{
+	font-family: 'Merienda One', cursive;
 }
 nav{
 	background-image: url("../img/navbar_lg.jpg")!important;
@@ -14,9 +16,7 @@ nav{
 	height: 12px;
 	background-color: #404040;
 }
-.cartellEspai{
-	margin-top:20px;
-}
+
 a.noLink:link, a.noLink:visited,a.noLink:hover,a.noLink:active{
 	color: black; 
 	background-color: transparent; 
@@ -36,8 +36,11 @@ a.noLink:link, a.noLink:visited,a.noLink:hover,a.noLink:active{
 	bottom:0;
 	width: 100%;
 	z-index: 10; 
-	background-color: #D9D9D9;
+	background-color:  #f0cbd8;
+	/*opacity: 0.5;*/
+	/*font-family: 'Open Sans', sans-serif;*/
 }
+.noOpacity{/*opacity: 0!important;*/}
 .imgSize{
 	padding: 10px;
 	position: relative;
@@ -158,6 +161,10 @@ a.noLink:link, a.noLink:visited,a.noLink:hover,a.noLink:active{
 		font-weight: bold;
 		color: white;
 	}
+	.cartellEspai{
+		margin-top:20px;
+	}
+
 }
 @media (min-width: 992px) and (max-width: 1199px){
 	.txtWeb{
@@ -182,6 +189,9 @@ a.noLink:link, a.noLink:visited,a.noLink:hover,a.noLink:active{
 		background-color: #7B7B7B!important;
 		font-weight: 500;
 	}
+	.cartellEspai{
+	margin-top:20px;
+}
 }
 @media (min-width: 1200px){
 	.txtWeb{
@@ -206,4 +216,7 @@ a.noLink:link, a.noLink:visited,a.noLink:hover,a.noLink:active{
 		background-color: #7B7B7B!important;
 		font-weight: 500;
 	}	
+	.cartellEspai{
+	margin-top:20px;
+}
 }
