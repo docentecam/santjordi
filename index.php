@@ -7,8 +7,8 @@
 	    <li data-target="#carouselSantJordi" data-slide-to="2"></li>
 	  </ol>
 	  <div class="carousel-inner">
-	    <div id="carouselImg1" class="carousel-item text-center active ">
-	      <a href="animacions.php"><img class="img-fluid imgSize fill d-none d-md-block" src="img/carousel_ini_lg.gif" alt="gif d'un caballer llegint un llibre sobre un drac"></a>
+	    <div id="carouselImg1" class="carousel-item text-center  active">
+	      <a href="animacions.php"><img class="img-fluid" src="img/carousel_fes_lg.png" alt="gif d'un caballer llegint un llibre sobre un drac"></a>
 	      <div class="carousel-caption d-none d-md-block">
 		    <h5>
 		    	<span class="idiomes">
