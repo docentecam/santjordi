@@ -27,8 +27,8 @@
 
 			</div>
 			<div class="row">		
-				<div class="col-sm-6 col-md-6 col-lg imgSize fill"><br/><img src="img/santJordiCarrer_lg.png" class="img-fluid rounded" ></div>
-				<div class="col-sm-6 col-md-6 col-lg offset-1 imgSize fill order-1"><br/><img src="img/santJordiEscola_lg.png" class="img-fluid rounded" > </div>
+				<div class="col-sm-6 col-md-6 col-lg imgSize fill mb-2"><br/><img src="img/santJordiCarrer_lg.png" class="img-fluid rounded" ></div>
+				<div class="col-sm-6 col-md-6 col-lg offset-1 imgSize fill order-1 mb-2"><br/><img src="img/santJordiEscola_lg.png" class="img-fluid rounded" > </div>
 			</div>
 		</div>
 	</diV>		
