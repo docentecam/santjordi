@@ -1,6 +1,6 @@
-@import url('https://fonts.googleapis.com/css?family=Pacifico');
+/*@import url('https://fonts.googleapis.com/css?family=Pacifico');*/
 @import url('https://fonts.googleapis.com/css?family=Open+Sans');
-
+@import url('https://fonts.googleapis.com/css?family=Merienda+One');
 
 p{
 	font-family: 'Open Sans', sans-serif;
@@ -58,7 +58,7 @@ a.noLink:link, a.noLink:visited,a.noLink:hover,a.noLink:active{
     object-fit: cover;
 }
 .txtTitles {
-	font-family: 'Pacifico', cursive;
+	font-family: 'Merienda One', cursive;
 	font-size: 50px;
 }
 .firstcharacter {
