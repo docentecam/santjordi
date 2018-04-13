@@ -6,7 +6,8 @@ p{
 	font-family: 'Open Sans', sans-serif;
 }
 nav{
-	background-image: url("../img/navbar_lg.jpg")!important;
+	background-image: url("../img/navbar_old.jpg")!important;
+	background-repeat: no-repeat!important;
 }
 .carousel-indicators > li {
 	border-radius: 50%;
@@ -116,6 +117,9 @@ a.noLink:link, a.noLink:visited,a.noLink:hover,a.noLink:active{
 		font-weight: bold;
 		color: white;
 	}
+	.bg-primary{
+		background-color: #7B7B7B!important;
+	}
 }
 @media (min-width: 576px) and (max-width: 767px){
 	.txtWeb{
@@ -136,6 +140,9 @@ a.noLink:link, a.noLink:visited,a.noLink:hover,a.noLink:active{
 	.dropdown-item:hover{
 		font-weight: bold;
 		color: white;
+	}
+	.bg-primary{
+		background-color: #7B7B7B!important;
 	}	
 }
 @media (min-width: 768px) and (max-width: 991px){
@@ -157,6 +164,9 @@ a.noLink:link, a.noLink:visited,a.noLink:hover,a.noLink:active{
 	.dropdown-item:hover{
 		font-weight: bold;
 		color: white;
+	}
+	.bg-primary{
+		background-color: #7B7B7B!important;
 	}
 }
 @media (min-width: 992px) and (max-width: 1199px){
