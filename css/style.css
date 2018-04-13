@@ -7,7 +7,7 @@ p{
 }
 nav{
 	background-image: url("../img/navbar_old.jpg")!important;
-	background-repeat: no-repeat!important;
+	/*background-repeat: no-repeat!important;*/
 }
 
 
@@ -112,6 +112,9 @@ a.noLink:link, a.noLink:visited,a.noLink:hover,a.noLink:active{
 
 
 @media (max-width: 575px){
+	nav{
+	background-repeat: no-repeat!important;
+}
 	.txtWeb{
 		font-size: 17px;
 	}
@@ -139,6 +142,9 @@ a.noLink:link, a.noLink:visited,a.noLink:hover,a.noLink:active{
 	}
 }
 @media (min-width: 576px) and (max-width: 767px){
+	nav{
+	background-repeat: no-repeat!important;
+}
 	.txtWeb{
 		font-size: 17px;
 	}
@@ -166,6 +172,9 @@ a.noLink:link, a.noLink:visited,a.noLink:hover,a.noLink:active{
 	}	
 }
 @media (min-width: 768px) and (max-width: 991px){
+	nav{
+	background-repeat: no-repeat!important;
+}
 	.txtWeb{
 		font-size: 20px;
 	}
