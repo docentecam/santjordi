@@ -21,6 +21,7 @@ nav a.iconoss{
 	padding-top: 0rem!important;
     padding-bottom: 0rem!important;
 }
+
 .carousel-indicators > li {
 	border-radius: 50%;
 	width: 12px;
@@ -47,7 +48,7 @@ a.noLink:link, a.noLink:visited,a.noLink:hover,a.noLink:active{
 .txtWeb{
 	font-weight: bold;
 }
-.mostraDivAlumne{
+.mostraDiv{
 	display:none; 
 	position: fixed;
 	top:0; 
@@ -79,9 +80,12 @@ a.noLink:link, a.noLink:visited,a.noLink:hover,a.noLink:active{
     object-fit: cover;
 }
 .txtTitles {
-	font-family: 'Merienda One', cursive;
-	font-size: 50px;
+	text-align: center;
+	font-size: 30px;
+	margin-bottom: 15px;
+	margin-top: 15px;
 }
+
 .firstcharacter {
 	float: left;
 	font-family: Georgia;
@@ -121,6 +125,11 @@ a.noLink:link, a.noLink:visited,a.noLink:hover,a.noLink:active{
 	background-color: #E7F3E3;
 	border-radius: 10px;
 /*	background-color: #ECEBEB;*/
+}
+
+#llegenda{
+	background-color: #E7F3E3;
+	border-radius: 10px;
 }
 
 .imgfestivitats{

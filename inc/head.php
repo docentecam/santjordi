@@ -19,6 +19,7 @@
 	            divOcultar = document.getElementById(idDiv);
 	            divOcultar.style.display = 'none';
 	        }
+	       
 		</script>
 	</head>
 	<body>
