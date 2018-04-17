@@ -51,7 +51,7 @@
 
 
 
-<div id="desgWeb1" class="row mostraDiv d-flex justify-contend-end">
+<div id="desgWeb1" class="row mostraDiv">
 	<div class="col-12 ">
 			<a href="javascript:tancarDesglossament('desgWeb1');"><img src="img/cartells/proposta2TancarReduida.png" class="img-fluid"></a>
 	</div>
@@ -61,7 +61,7 @@
 	</p>
 	</div>
 </div>
-<div id=desgWeb2 class="row mostraDiv d-flex justify-contend-end">
+<div id=desgWeb2 class="row mostraDiv">
 	<div class="col-12 ">
 			<a href="javascript:tancarDesglossament('desgWeb2');"><img src="img/cartells/proposta2TancarReduida.png" class="img-fluid"></a>
 	</div>
@@ -69,7 +69,7 @@
 		A l’hora de fer un esquema de com volem que sigui la pàgina, fem servir el programa Mockingbot. Aquest programa ens dóna eines que ens faciliten crear l’estructura o wireframe, on apareixeran tots els elements visuals de la web. Els elements poden anar des d’un menú a la capçalera amb opcions de navegació, a un peu de pàgina amb els logotips corporatius, entre altres.
 	</p>
 </div>
-<div id="desgWeb3" class="row mostraDiv d-flex justify-contend-end">
+<div id="desgWeb3" class="row mostraDiv">
 	<div class="col-12 ">
 			<a href="javascript:tancarDesglossament('desgWeb3');"><img src="img/cartells/proposta2TancarReduida.png" class="img-fluid"></a>
 	</div>
@@ -77,7 +77,7 @@
 		Per poder crear una pàgina web, és indispensable tenir un equip de disseny. En el nostre cas, dins del projecte Treballs als barris, col·laborem amb les especialitats de Disseny 2D/3D i amb Animació de productes audiovisuals 2D/3D. Ens comuniquem entre tots a través de l’aplicació de Google Hangouts, per tal d’aclarir conceptes de la web i les tasques que ha de dur a terme cada especialitat.
 	</p>
 </div>
-<div id="desgWeb4" class="row mostraDiv d-flex justify-content-end">
+<div id="desgWeb4" class="row mostraDiv">
 	<div class="col-12 ">
 			<a href="javascript:tancarDesglossament('desgWeb4');"><img src="img/cartells/proposta2TancarReduida.png" class="img-fluid"></a>
 	</div>
