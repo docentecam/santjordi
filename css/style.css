@@ -17,6 +17,10 @@ nav{
 	background-image: url("../img/navbar_old.jpg")!important;
 	/*background-repeat: no-repeat!important;*/
 }
+nav a.iconoss{
+	padding-top: 0rem!important;
+    padding-bottom: 0rem!important;
+}
 .carousel-indicators > li {
 	border-radius: 50%;
 	width: 12px;
