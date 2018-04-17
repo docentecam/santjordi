@@ -7,7 +7,7 @@
 	  		
 	  		<a class="navbar-brand iconoss mx-lg-4" href="index.php">
 	  	 		
-	  	 		<i class="fab  fa-2x fa-fort-awesome"></i></i> 
+	  	 		<i class="fab fa-2x fa-fort-awesome"></i> 
 	   		
 	   		</a>
 	  	
@@ -77,7 +77,7 @@
 				  		
 				  		</li>
 				  		
-				  		<li class="nav-item mx-lg-4">
+				  		<li class="nav-item ml-lg-4 mr-lg-5">
 				   			
 				   			<a class="nav-link text-white" href="web.php">La Web</a>
 				  		
