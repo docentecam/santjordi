@@ -21,6 +21,7 @@ nav a.iconoss{
 	padding-top: 0rem!important;
     padding-bottom: 0rem!important;
 }
+
 .carousel-indicators > li {
 	border-radius: 50%;
 	width: 12px;
@@ -132,6 +133,11 @@ a.noLink:link, a.noLink:visited,a.noLink:hover,a.noLink:active{
 	background-color: #E7F3E3;
 	border-radius: 10px;
 /*	background-color: #ECEBEB;*/
+}
+
+#llegenda{
+	background-color: #E7F3E3;
+	border-radius: 10px;
 }
 
 .imgfestivitats{
