@@ -27,8 +27,8 @@
 
 			<!-- </div>
 			<div class="row">	 -->	
-				<div class="col-sm-6 col-md-6 col-lg-6 pr-5 imgSize fill mb-2"><br/><img src="img/santJordiCarrer_lg.png" class="imgfestivitats img-fluid" ></div>
-				<div class="col-sm-6 col-md-6 col-lg-6 pl-5 imgSize fill order-1 mb-2"><br/><img src="img/santJordiEscola_lg.png" class="imgfestivitats img-fluid" > </div>
+				<div class="col-sm-6 col-md-6 col-lg-6 pr-5 imgSize fill mb-2"><br/><img src="img/santJordiCarrer.jpg" class="imgfestivitats img-fluid" ></div>
+				<div class="col-sm-6 col-md-6 col-lg-6 pl-5 imgSize fill order-1 mb-2"><br/><img src="img/santJordiEscola.jpg" class="imgfestivitats img-fluid" > </div>
 			</div>
 		</div>
 	</diV>		
