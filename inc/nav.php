@@ -77,7 +77,7 @@
 				  		
 				  		</li>
 				  		
-				  		<li class="nav-item mx-lg-4">
+				  		<li class="nav-item ml-lg-4 mr-lg-5">
 				   			
 				   			<a class="nav-link text-white" href="web.php">La Web</a>
 				  		

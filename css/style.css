@@ -7,7 +7,6 @@ h5{
 	font-family: 'Open Sans', sans-serif;
 }
 p{
-
 	font-family: 'Open Sans', sans-serif;
 }
 h1{
@@ -15,6 +14,7 @@ h1{
 }
 nav{
 	background-image: url("../img/navbar_old.jpg")!important;
+	font-weight: bold;
 	/*background-repeat: no-repeat!important;*/
 }
 nav a.iconoss{
@@ -36,7 +36,6 @@ nav a.iconoss{
 	height: 12px;
 	background-color: #404040;
 }
-
 a.noLink:link, a.noLink:visited,a.noLink:hover,a.noLink:active{
 	color: black; 
 	background-color: transparent; 
@@ -162,7 +161,7 @@ a.noLink:link, a.noLink:visited,a.noLink:hover,a.noLink:active{
 @media (min-width: 576px) and (max-width: 767px){
 	nav{
 	background-repeat: no-repeat!important;
-}
+	}
 	.txtWeb{
 		font-size: 17px;
 	}
@@ -215,7 +214,6 @@ a.noLink:link, a.noLink:visited,a.noLink:hover,a.noLink:active{
 	.cartellEspai{
 		margin-top:20px;
 	}
-
 	.bg-primary{
 		background-color: #343a40!important;
 	}
@@ -274,6 +272,6 @@ a.noLink:link, a.noLink:visited,a.noLink:hover,a.noLink:active{
 		font-weight: 500;
 	}	
 	.cartellEspai{
-	margin-top:20px;
+		margin-top:20px;
 }
 }
