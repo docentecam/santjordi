@@ -1,17 +1,19 @@
 </div>
-	<div class="bg-dark mt-2 d-md-none">
-			<img src="img/ajuntament.png" class="img-fluid col-3 offset-1">
+	<div class="mt-2 d-md-none">
+			<!-- <img src="img/ajuntament.png" class="img-fluid col-3 offset-1">
 			<img src="img/Barcelona-Activa.png" class="img-fluid col-3">
 			<img src="img/generalitat.png" class="img-fluid col-3">
 			<img src="img/soc.png" class="img-fluid col-3 offset-2">
-			<img src="img/ministerio.png" class="img-fluid col-3">
+			<img src="img/ministerio.png" class="img-fluid col-3"> -->
+			<img src="img/footer_web.jpg" class="img-fluid">
 	</div>
-	<div class="bg-dark mt-2 d-none d-md-block">
-		<img src="img/ajuntament.png" class="img-fluid col-2 offset-1">
+	<div class="mt-2 d-none d-md-block">
+		<!-- <img src="img/ajuntament.png" class="img-fluid col-2 offset-1">
 		<img src="img/Barcelona-Activa.png" class="img-fluid col-2">
 		<img src="img/generalitat.png" class="img-fluid col-2">
 		<img src="img/soc.png" class="img-fluid col-2">
-		<img src="img/ministerio.png" class="img-fluid col-2">
+		<img src="img/ministerio.png" class="img-fluid col-2"> -->
+		<img src="img/footer_web.jpg" class="img-fluid">
 	</div>
 
 		<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
