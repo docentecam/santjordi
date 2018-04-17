@@ -19,14 +19,7 @@
 	            divOcultar = document.getElementById(idDiv);
 	            divOcultar.style.display = 'none';
 	        }
-	        function mostrarDesglossamentWeb(idDiv){
-	        	divMostrarWeb = document.getElementById(idDiv);
-	        	divMostrarWeb.style.display='block';
-	        }
-	        function tancarDesglossamentWeb(idDiv){
-	        	divOcultarWeb = document.getElementById(idDiv);
-	        	divOcultarWeb.style.display='none';
-	        }
+	       
 		</script>
 	</head>
 	<body>

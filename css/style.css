@@ -47,7 +47,7 @@ a.noLink:link, a.noLink:visited,a.noLink:hover,a.noLink:active{
 .txtWeb{
 	font-weight: bold;
 }
-.mostraDivAlumne{
+.mostraDiv{
 	display:none; 
 	position: fixed;
 	top:0; 
@@ -60,16 +60,6 @@ a.noLink:link, a.noLink:visited,a.noLink:hover,a.noLink:active{
 	/*font-family: 'Open Sans', sans-serif;*/
 }
 .noOpacity{/*opacity: 0!important;*/}
-.mostrarWeb{
-	display:none; 
-	position: fixed;
-	top:0; 
-	left:0; 
-	bottom:0;
-	width: 100%;
-	z-index: 10; 
-	background-color: #9ACD32;
-}
 .imgSize{
 	padding: 10px;
 	position: relative;
