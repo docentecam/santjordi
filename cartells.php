@@ -1,6 +1,7 @@
 <?php include("inc/head.php");?>
 	<div class="row">
-		<div class="col-12 d-none d-sm-block txtTitles text-center">
+		<!-- TODO: aplicar mx a los titulos y a los carteles -->
+		<div class="col-12 d-none d-sm-block txtTitles text-center mx-5" style="margin-top: 100px,  margin-bottom: 100px">
 			<h1>Els cartells</h1>
 		</div>
 	</div>
@@ -10,18 +11,13 @@
 				<div class="col-8 text-center offset-2">
 					<img class="img-fluid" src="img/cartells/cartell1.png">
 				</div>
-				<div class="col-12 text-center">
-					<span class="nomAlumne">
-						Marina Aguiló
-					</span><br>
-					<p>
+				<div class="col-12 text-center mx-2">
+					
+					Marina Aguiló
+					
+					<!-- <p>
 						Els llibres et transporten a un<a href="javascript:mostrarDesglossament('desgAlum1');"> leer mas</a>
-						<!-- un món de fantasia i imaginació al mateix temps que et permeten viure mil històries. 
-						El meu pòster de Sant Jordi representa una nena llegint.
-						La nena es troba pujada a una escala tan llarga que arriba als núvols.
-						Durant la lectura, un dels núvols es transforma en un drac. 
-						Els núvols estan fets amb plastilina i posteriorment fotografiats. -->
-					</p>
+					</p> -->
 				</div>
 			</a>
 		</div>
@@ -30,15 +26,13 @@
 				<div class="col-8 text-center offset-2">
 					<img class="img-fluid" src="img/cartells/cartell2.png">
 				</div>
-				<div class="col-12 text-center">
-					<span class="nomAlumne">
+				<div class="col-12 text-center mx-2">
+					
 						Rebeca Burgos
-					</span><br>
-					<p>
+					
+					<!-- <p>
 						El dragón pequeño, hecho de<a href="javascript:mostrarDesglossament('desgAlum2');"> leer mas</a>
-						<!-- plastilina, intenta acercar a los niños a los libros y ver que los monstruos pueden ser monos.
-						El resto del cartel está realizado con Photoshop e Illustrator, dando efecto de plastilina para unificarlo todo.  -->
-					</p>
+					</p> -->
 				</div>
 			</a>
 		</div>
@@ -51,13 +45,9 @@
 					<span class="nomAlumne"> 
 						Mari Cazorla
 					</span><br>
-					<p>
+					<!-- <p>
 						Con este proyecto artístico quería mezclar<a href="javascript:mostrarDesglossament('desgAlum3');"> leer mas</a>
-						<!-- una técnica digital junto con una técnica mucho más manual, 
-						representando la cola del dragón de Sant Jordi que se acaba transformando en una rosa. 
-						Me interesaba hacer una transición de ambas 
-						técnicas jugando con los colores, texturas y sombras. -->
-					</p>
+					</p> -->
 				</div>
 			</a>
 		</div>
@@ -70,13 +60,9 @@
 					<span class="nomAlumne"> 
 						Ana Del Campo
 					</span><br>
-					<p>
+					<!-- <p>
 						En mi póster quería recrear una<a href="javascript:mostrarDesglossament('desgAlum4');"> leer mas</a>
-						<!-- una rosa en su maceta. Para eso, utilizando plastilina, he creado  la rosa pétalo a pétalo, intentado que parezca lo más 
-						realista posible. Luego, continué con las hojas 
-						buscando la textura perfecta con luces y cambié la maceta por un libro echo en plastilina.
-						Por último usando Illustrator substituí el tallo de la rosa por la frase "Sant Jordi 2018". -->
-					</p>
+					</p> -->
 				</div>
 			</a>
 		</div>
@@ -89,16 +75,9 @@
 					<span class="nomAlumne"> 
 						Sara Garcimartín
 					</span><br>
-					<p>
+					<!-- <p>
 						Mi póster representa una cola de<a href="javascript:mostrarDesglossament('desgAlum5');"> leer mas</a>
- 						<!-- dragón que tiene como función ser un punto de libro. Mezclando
-						técnicas manuales y digitales, he trabajado 
-						principalmente con tipografía. El libro fue creado
-						con plastilina, illustrator y photoshop. Con este 
-						póster quiero expresar que, a veces, en los 
-						pequeños detalles como podría ser un punto de libro,
-						se esconden grandes cosas. ¡Feliz Sant Jordi! -->
-					</p>
+					</p> -->
 				</div>
 			</a>
 		</div>
@@ -111,11 +90,9 @@
 						<span class="nomAlumne"> 
 							Belén Garrido
 						</span><br>
-						<p>
+						<!-- <p>
 							Cualquier mujer puede ser una guerrera<a href="javascript:mostrarDesglossament('desgAlum6');"> leer mas</a>
-							<!-- , una Santa Jordina. Da igual el color  de piel que tengas,
-							si eres más alta, más baja, rubia o morena. -->
-						</p>
+						</p> -->
 					</div>
 				</a>
 			</div>
@@ -128,13 +105,9 @@
 						<span class="nomAlumne"> 
 							Rosa Gilibert
 						</span><br>
-						<p>
+						<!-- <p>
 							La meva intenció des d’un <a href="javascript:mostrarDesglossament('desgAlum7');"> leer mas</a>
-							<!-- principi va ser  sortir de la monotonia del que representa Sant Jordi i demostrar la estima que tinc a Barcelona. 
-							El mar està inspirat amb l’estil tant característic de Gaudí, el Trencadís. 
-							La cua de drac i la lluna estan fetes amb plastilina. 
-							El mar, l’skyline de Barcelona i el cel estan fets amb Illustrator. -->
-						</p>
+						</p> -->
 					</div>
 				</a>
 			</div>
@@ -144,19 +117,18 @@
 						<img class="img-fluid" src="img/cartells/cartell8.png">
 					</div>
 					<div class="col-12 text-center">
-						<span class="nomAlumne"> 
+						<span class="nomAlumne" > 
 							Pol Viñas
 						</span><br>
-						<p>
+						<!-- <p>
 							Mi idea es trasladar la leyenda<a href="javascript:mostrarDesglossament('desgAlum8');"> leer mas</a>
-							<!-- de Sant Jordi a la época actual, sustituyendo el caballo  del héroe por un coche, rescatando a la princesa y a la última oveja del pueblo. -->
-						</p>
+						</p> -->
 					</div>
 				</a>
 			</div>
 		</div>
-		<!-- TODO:cambiar el color de fondo por css con la clase mostraDivAlumne -->
-		<div id="desgAlum1" class="mostraDivAlumne"  style="background-color: #FFB1AB">
+		<!-- TODO:cambiar el color de fondo por css con la clase mostraDivAlumne...style="background-color: #FFB1AB"-->
+		<div id="desgAlum1" class="mostraDivAlumne">
 			<div class="row">
 				<div class="col-12  col-md-4 col-lg-4 offset-lg-1 mt-lg-4 noOpacity">
 					<img src="img/cartells/cartellAlumne1.png" class="img-fluid">
@@ -166,13 +138,13 @@
 						<div class="col-12 ">
 							<a href="javascript:tancarDesglossament('desgAlum1');"><img src="img/cartells/proposta2TancarReduida.png" class="img-fluid"></a>
 						</div>
-						<div class="col-lg-2">
+						<div class="col-lg-4">
 							<img src="img/cartells/cartellFoto1.png" class="img-fluid cartellEspai">
 						</div>
 						<div class=" col-lg-2 mt-lg-5">
 							Marina Aguiló
 						</div>
-						<div class="col-12 col-lg-8 mt-lg-4 ml-lg-2">
+						<div class="col-12 col-lg-6 mt-lg-4 ml-lg-2">
 							<p>
 								Els llibres et transporten a un món de fantasia i imaginació al mateix temps que et permeten viure mil històries. 
 								El meu pòster de Sant Jordi representa una nena llegint.
@@ -185,7 +157,8 @@
 				</div>	
 			</div>
 		</div>
-		<div id="desgAlum2" class="mostraDivAlumne" style="background-color: #c2ffc2">
+		<!-- TODO:style="background-color: #c2ffc2" -->
+		<div id="desgAlum2" class="mostraDivAlumne">
 			<div class="row">
 				<div class="col-12  col-md-4 col-lg-4 offset-lg-1 mt-lg-4 noOpacity">
 					<img src="img/cartells/cartellAlumne2.png" class="img-fluid">
@@ -193,15 +166,15 @@
 				<div class="col-12 col-lg-4 offset-lg-1 mt-lg-4 ">
 					<div class="row">
 						<div class="col-12 ">
-							<a href="javascript:tancarDesglossament('desgAlum2');"><img src="img/cartells/proposta2Tancar.png" class="img-fluid"></a>
+							<a href="javascript:tancarDesglossament('desgAlum2');"><img src="img/cartells/proposta2TancarReduida.png" class="img-fluid"></a>
 						</div>
-						<div class="col-lg-2">
+						<div class="col-lg-4">
 							<img src="img/cartells/cartellFoto2.png" class="img-fluid cartellEspai">
 						</div>
 						<div class=" col-lg-2 mt-lg-5">
 							Rebeca Burgos
 						</div>
-						<div class="col-12 col-lg-8 mt-lg-4 ml-lg-2">
+						<div class="col-12 col-lg-6 mt-lg-4 ml-lg-2">
 							<p>
 								El dragón pequeño, hecho de plastilina, 
 								intenta acercar a los niños a los libros y ver que los monstruos pueden ser monos.
@@ -222,15 +195,15 @@
 				<div class="col-12 col-lg-4 offset-lg-1 mt-lg-4 ">
 					<div class="row">
 						<div class="col-12 ">
-							<a href="javascript:tancarDesglossament('desgAlum3');"><img src="img/cartells/proposta1Tancar.png" class="img-fluid"></a>
+							<a href="javascript:tancarDesglossament('desgAlum3');"><img src="img/cartells/proposta2TancarReduida.png" class="img-fluid"></a>
 						</div>
-						<div class="col-lg-2">
+						<div class="col-lg-4">
 							<img src="img/cartells/cartellFoto3.png" class="img-fluid cartellEspai">
 						</div>
 						<div class=" col-lg-2 mt-lg-5">
 							Mari Cazorla
 						</div>
-						<div class="col-12 col-lg-8 mt-lg-4 ml-lg-2">
+						<div class="col-12 col-lg-6 mt-lg-4 ml-lg-2">
 							<p>
 								Con este proyecto artístico quería mezclar una 
 								técnica digital junto con una técnica mucho más manual, representando la cola del dragón de Sant Jordi que se acaba transformando en una rosa. 
@@ -249,15 +222,15 @@
 				<div class="col-12 col-lg-4 offset-lg-1 mt-lg-4 ">
 					<div class="row">
 						<div class="col-12 ">
-							<a href="javascript:tancarDesglossament('desgAlum4');"><img src="img/cartells/proposta1Tancar.png" class="img-fluid"></a>
+							<a href="javascript:tancarDesglossament('desgAlum4');"><img src="img/cartells/proposta2TancarReduida.png" class="img-fluid"></a>
 						</div>
-						<div class="col-lg-2">
+						<div class="col-lg-4">
 							<img src="img/cartells/cartellFoto4.png" class="img-fluid cartellEspai">
 						</div>
 						<div class=" col-lg-2 mt-lg-5">
 							Ana Del Campo
 						</div>
-						<div class="col-12 col-lg-8 mt-lg-4 ml-lg-2">
+						<div class="col-12 col-lg-6 mt-lg-4 ml-lg-2">
 							<p>
 								En mi póster quería recrear una rosa en su 
 								maceta. Para eso, utilizando plastilina, he creado la rosa pétalo a pétalo, intentado que parezca lo más 
@@ -276,15 +249,15 @@
 				<div class="col-12 col-lg-4 offset-lg-1 mt-lg-4 ">
 					<div class="row">
 						<div class="col-12 ">
-							<a href="javascript:tancarDesglossament('desgAlum5');"><img src="img/cartells/proposta1Tancar.png" class="img-fluid"></a>
+							<a href="javascript:tancarDesglossament('desgAlum5');"><img src="img/cartells/proposta2TancarReduida.png" class="img-fluid"></a>
 						</div>
-						<div class="col-lg-2">
+						<div class="col-lg-4">
 							<img src="img/cartells/cartellFoto5.png" class="img-fluid cartellEspai">
 						</div>
 						<div class=" col-lg-2 mt-lg-5">
 							Sara Garcimartín
 						</div>
-						<div class="col-12 col-lg-8 mt-lg-4 ml-lg-2">
+						<div class="col-12 col-lg-6 mt-lg-4 ml-lg-2">
 							<p>
 								Mi póster representa una cola de dragón que tiene como función ser un punto de libro. Mezclando
 								técnicas manuales y digitales, he trabajado principalmente con tipografía. El libro fue creado
@@ -305,15 +278,15 @@
 				<div class="col-12 col-lg-4 offset-lg-1 mt-lg-4 ">
 					<div class="row">
 						<div class="col-12 ">
-							<a href="javascript:tancarDesglossament('desgAlum6');"><img src="img/cartells/proposta1Tancar.png" class="img-fluid"></a>
+							<a href="javascript:tancarDesglossament('desgAlum6');"><img src="img/cartells/proposta2TancarReduida.png" class="img-fluid"></a>
 						</div>
-						<div class="col-lg-2">
+						<div class="col-lg-4">
 							<img src="img/cartells/cartellFoto6.png" class="img-fluid cartellEspai">
 						</div>
 						<div class=" col-lg-2 mt-lg-5">
 							Belén Garrido
 						</div>
-						<div class="col-12 col-lg-8 mt-lg-4 ml-lg-2">
+						<div class="col-12 col-lg-6 mt-lg-4 ml-lg-2">
 							<p>
 								Cualquier mujer puede ser una guerrera, una Santa Jordina. Da igual el color de piel que tengas,si eres más alta, más baja, rubia o morena.
 							</p>
@@ -331,15 +304,15 @@
 				<div class="col-12 col-lg-4 offset-lg-1 mt-lg-4 ">
 					<div class="row">
 						<div class="col-12 ">
-							<a href="javascript:tancarDesglossament('desgAlum7');"><img src="img/cartells/proposta1Tancar.png" class="img-fluid"></a>
+							<a href="javascript:tancarDesglossament('desgAlum7');"><img src="img/cartells/proposta2TancarReduida.png" class="img-fluid"></a>
 						</div>
-						<div class="col-lg-2">
+						<div class="col-lg-4">
 							<img src="img/cartells/cartellFoto7.png" class="img-fluid cartellEspai">
 						</div>
 						<div class=" col-lg-2 mt-lg-5">
 							Rosa Gilibert
 						</div>
-						<div class="col-12 col-lg-8 mt-lg-4 ml-lg-2">
+						<div class="col-12 col-lg-6 mt-lg-4 ml-lg-2">
 							<p>
 								La meva intenció des d’un principi va ser sortir de la monotonia del que representa Sant Jordi i demostrar la estima que tinc a Barcelona. El mar està inspirat amb l’estil tant característic de Gaudí, el Trencadís. 
 								La cua de drac i la lluna estan fetes amb plastilina. El mar, l’skyline de Barcelona i el cel estan fets amb Illustrator.
@@ -358,15 +331,15 @@
 				<div class="col-12 col-lg-4 offset-lg-1 mt-lg-4 ">
 					<div class="row">
 						<div class="col-12 ">
-							<a href="javascript:tancarDesglossament('desgAlum8');"><img src="img/cartells/proposta1Tancar.png" class="img-fluid"></a>
+							<a href="javascript:tancarDesglossament('desgAlum8');"><img src="img/cartells/proposta2TancarReduida.png" class="img-fluid"></a>
 						</div>
-						<div class="col-lg-2">
+						<div class="col-lg-4">
 							<img src="img/cartells/cartellFoto8.png" class="img-fluid cartellEspai">
 						</div>
 						<div class=" col-lg-2 mt-lg-5">
 							Pol Viñas
 						</div>
-						<div class="col-12 col-lg-8 mt-lg-4 ml-lg-2">
+						<div class="col-12 col-lg-6 mt-lg-4 ml-lg-2">
 							<p>
 								Mi idea es trasladar la leyenda de Sant Jordi a la época actual, sustituyendo el caballo del héroe por un coche, rescatando a la princesa y a la última oveja del pueblo.
 							</p>

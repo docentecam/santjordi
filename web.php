@@ -12,35 +12,38 @@
 <div class="row">
 	<div class="col-8 offset-2 ">
 		<div class="row">
-			<div class="col-lg mb-4">
+			<div class="col-lg-5 mb-4 mt-3">
 				<img src="img/definicióProjecteoriginal.jpg" class="img-fluid borderRound">
+					<h5 class="text-center">1-INICIAR EL PROJECTE</h5>
 			</div>
-			<div class="col-lg">
-				<h5>1-INICIAR EL PROJECTE</h5>
-			</div>
-			<div class="col-lg offset-1">
+			
+				
+			
+			<div class="col-lg-5 offset-1 mt-3">
 				<img src="img/Capturamockingboot2.JPG" class="img-fluid borderRound">
+					<h5 class="text-center">2-CREAR UNA ESTRUCTURA</h5>
 			</div>
-			<div class="col-lg">
-				<h5>2-CREAR UNA ESTRUCTURA</h5>
-			</div>
+			
 		</div>
 		<div class="row">
-			<div class="col-lg">
+			<div class="col-lg-5 mt-3">
 				<img src="img/Capturahangoutconferencia2.JPG" class="img-fluid borderRound">
+					<h5 class="text-center">3-POSAR EN COMÚ</h5>
 			</div>
-			<div class="col-lg">
-				<h5>3-POSAR EN COMÚ</h5>
-			</div>
-			<div class="col-lg offset-1">
+			
+				
+			
+			<div class="col-lg-5 offset-1 mt-3">
 				<img src="img/Capturafilezila4.JPG" class="img-fluid borderRound">
+					<h5 class="text-center">4-FINALITZAR EL PROJECTE</h5>
 			</div>
-			<div class="col-lg">
-				<h5>4-FINALITZAR EL PROJECTE</h5>
-			</div>
+			
+				
+			
 		</div>
 	</div>
 </div>
+
 
 
 

@@ -5,9 +5,9 @@
 		
 		<div class="mx-lg-5">	
 	  		
-	  		<a class="navbar-brand mx-lg-4" href="index.php">
+	  		<a class="navbar-brand iconoss mx-lg-4" href="index.php">
 	  	 		
-	  	 		<img src="img/navbaricon.png"> 
+	  	 		<i class="fab  fa-2x fa-fort-awesome"></i></i> 
 	   		
 	   		</a>
 	  	
@@ -86,7 +86,7 @@
 				  		<li class="nav-item mt-lg-1 ml-lg-5 mr-lg-2 d-none d-lg-block">
 				   			
 				   			<!-- poner url original y borrar target  -->
-				   			<a href="http://hooooooooo.com/" target="blank_" ><img src="img/23px-Flag_of_Catalonia.png"></a>
+				   			<a href="http://hooooooooo.com/" target="blank_"><img src="img/23px-Flag_of_Catalonia.png"></a>
 				  		
 				  		</li>
 						

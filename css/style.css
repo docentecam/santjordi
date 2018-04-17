@@ -1,10 +1,17 @@
 /*@import url('https://fonts.googleapis.com/css?family=Pacifico');*/
 @import url('https://fonts.googleapis.com/css?family=Open+Sans');
 @import url('https://fonts.googleapis.com/css?family=Merienda+One');
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
 
-*{
-
+h5{
 	font-family: 'Open Sans', sans-serif;
+}
+
+
+p{
+	font-family: 'Montserrat', sans-serif;
+
+
 }
 h1{
 	font-family: 'Merienda One', cursive;
@@ -12,6 +19,10 @@ h1{
 nav{
 	background-image: url("../img/navbar_old.jpg")!important;
 	/*background-repeat: no-repeat!important;*/
+}
+nav a.iconoss{
+	padding-top: 0rem!important;
+    padding-bottom: 0rem!important;
 }
 .carousel-indicators > li {
 	border-radius: 50%;
