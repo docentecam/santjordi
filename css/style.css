@@ -89,9 +89,10 @@ a.noLink:link, a.noLink:visited,a.noLink:hover,a.noLink:active{
     object-fit: cover;
 }
 .txtTitles {
-	font-family: 'Merienda One', cursive;
-	font-size: 50px;
+	text-align: center;
+	font-size: 30px;
 }
+
 .firstcharacter {
 	float: left;
 	font-family: Georgia;
