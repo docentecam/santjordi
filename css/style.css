@@ -92,6 +92,8 @@ a.noLink:link, a.noLink:visited,a.noLink:hover,a.noLink:active{
 .txtTitles {
 	text-align: center;
 	font-size: 30px;
+	margin-bottom: 15px;
+	margin-top: 15px;
 }
 
 .firstcharacter {

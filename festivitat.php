@@ -6,7 +6,7 @@
 			<div class="row">	
 
 				<div class="col-sm-6 col-md-6 col-lg-6 pr-5 order-2 order-md-0" id="txtescoles">
-					<h1 class="txtTitles mt-3 mb-3">La festivitat a les escoles</h1>
+					<h1 class="txtTitles">La festivitat a les escoles</h1>
 						<p>
 							A les escoles es celebra la diada de Sant Jordi de maneres diferents. La més popular consisteix en la celebració dels Jocs Florals, que és la celebració d’un concurs literari amb tots els nens de l’escola.</br></br>
 							Hi ha moltes categories, infantils, juvenils, pares i mares...
@@ -16,7 +16,7 @@
 				</div>
 
 				<div class="col-sm-6 col-md-6 col-lg-6 pl-5" id="txtfestivitat">
-					<h1 class="txtTitles mt-3 mb-3">La festivitat al carrer</h1>
+					<h1 class="txtTitles">La festivitat al carrer</h1>
 		 	
 						<p>
 							La diada de Sant Jordi es celebra el 23 d’abril a Catalunya. La tradició marca que, durant la diada, s’ha de regalar una rosa o un llibre a la persona de la qual estiguis enamorada.</br></br>
