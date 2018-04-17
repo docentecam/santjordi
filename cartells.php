@@ -1,148 +1,109 @@
 <?php include("inc/head.php");?>
 	<div class="row">
 		<!-- TODO: aplicar mx a los titulos y a los carteles -->
-		<div class="col-12 d-none d-sm-block txtTitles text-center mx-5" style="margin-top: 100px,  margin-bottom: 100px">
+		<div class="col-10 d-none d-sm-block txtTitles text-center mx-2">
 			<h1>Els cartells</h1>
 		</div>
 	</div>
 	<div class="row">
 		<div class="col-12 col-md-4 col-lg-3">
 			<a class="noLink" href="javascript:mostrarDesglossament('desgAlum1');">
-				<div class="col-8 text-center offset-2">
+				<div class="col-md-8 text-center offset-2">
 					<img class="img-fluid" src="img/cartells/cartell1.png">
 				</div>
-				<div class="col-12 text-center mx-2">
-					
-					Marina Aguiló
-					
-					<!-- <p>
-						Els llibres et transporten a un<a href="javascript:mostrarDesglossament('desgAlum1');"> leer mas</a>
-					</p> -->
-				</div>
 			</a>
+			<div class="col-10 text-center mx-2 ">
+				Marina Aguiló
+			</div>
 		</div>
 		<div class="col-12 col-md-4 col-lg-3">
 			<a class="noLink" href="javascript:mostrarDesglossament('desgAlum2');">
-				<div class="col-8 text-center offset-2">
+				<div class="col-md-8 text-center offset-2">
 					<img class="img-fluid" src="img/cartells/cartell2.png">
 				</div>
-				<div class="col-12 text-center mx-2">
-					
-						Rebeca Burgos
-					
-					<!-- <p>
-						El dragón pequeño, hecho de<a href="javascript:mostrarDesglossament('desgAlum2');"> leer mas</a>
-					</p> -->
-				</div>
 			</a>
+			<div class="col-10 text-center mx-2">
+				Rebeca Burgos
+			</div>
 		</div>
 		<div class="col-12 col-md-4 col-lg-3">
 			<a class="noLink" href="javascript:mostrarDesglossament('desgAlum3');">
-				<div class="col-8 text-center offset-2">
+				<div class="col-md-8 text-center offset-2">
 					<img class="img-fluid" src="img/cartells/cartell3.png">
 				</div>
-				<div class="col-12 text-center">
-					<span class="nomAlumne"> 
-						Mari Cazorla
-					</span><br>
-					<!-- <p>
-						Con este proyecto artístico quería mezclar<a href="javascript:mostrarDesglossament('desgAlum3');"> leer mas</a>
-					</p> -->
-				</div>
 			</a>
+			<div class="col-10 text-center mx-2"> 
+				Mari Cazorla
+			</div>
 		</div>
 		<div class="col-12 col-md-4 col-lg-3">
 			<a class="noLink" href="javascript:mostrarDesglossament('desgAlum4');">
-				<div class="col-8 text-center offset-2">
+				<div class="col-md-8 text-center offset-2">
 					<img class="img-fluid" src="img/cartells/cartell4.png">
 				</div>
-				<div class="col-12 text-center">
-					<span class="nomAlumne"> 
-						Ana Del Campo
-					</span><br>
-					<!-- <p>
-						En mi póster quería recrear una<a href="javascript:mostrarDesglossament('desgAlum4');"> leer mas</a>
-					</p> -->
-				</div>
 			</a>
+			<div class="col-10 text-center mx-2"> 
+				Ana Del Campo
+			</div>
 		</div>
 		<div class="col-12 col-md-4 col-lg-3">
 			<a class="noLink" href="javascript:mostrarDesglossament('desgAlum5');">
-				<div class="col-8 text-center offset-2">
+				<div class="col-md-8 text-center offset-2">
 					<img class="img-fluid" src="img/cartells/cartell5.png">
 				</div>
-				<div class="col-12 text-center">
-					<span class="nomAlumne"> 
-						Sara Garcimartín
-					</span><br>
-					<!-- <p>
-						Mi póster representa una cola de<a href="javascript:mostrarDesglossament('desgAlum5');"> leer mas</a>
-					</p> -->
+			</a>	
+			<div class="col-10 text-center mx-2">
+				Sara Garcimartín
+			</div>
+		</div>
+		<div class="col-12 col-md-4 col-lg-3">
+			<a class="noLink" href="javascript:mostrarDesglossament('desgAlum6');">
+				<div class="col-md-8 text-center offset-2">
+					<img class="img-fluid" src="img/cartells/cartell6.png">
 				</div>
-			</a>
-		</div>
-			<div class="col-12 col-md-4 col-lg-3">
-				<a class="noLink" href="javascript:mostrarDesglossament('desgAlum6');">
-					<div class="col-8 text-center offset-2">
-						<img class="img-fluid" src="img/cartells/cartell6.png">
-					</div>
-					<div class="col-12 text-center">
-						<span class="nomAlumne"> 
-							Belén Garrido
-						</span><br>
-						<!-- <p>
-							Cualquier mujer puede ser una guerrera<a href="javascript:mostrarDesglossament('desgAlum6');"> leer mas</a>
-						</p> -->
-					</div>
-				</a>
-			</div>
-			<div class="col-12 col-md-4 col-lg-3">
-				<a class="noLink" href="javascript:mostrarDesglossament('desgAlum7');">
-					<div class="col-8 text-center offset-2">
-						<img class="img-fluid" src="img/cartells/cartell7.png">
-					</div>
-					<div class="col-12 text-center">
-						<span class="nomAlumne"> 
-							Rosa Gilibert
-						</span><br>
-						<!-- <p>
-							La meva intenció des d’un <a href="javascript:mostrarDesglossament('desgAlum7');"> leer mas</a>
-						</p> -->
-					</div>
-				</a>
-			</div>
-			<div class="col-12 col-md-4 col-lg-3">
-				<a class="noLink" href="javascript:mostrarDesglossament('desgAlum8');">
-					<div class="col-8 text-center offset-2">
-						<img class="img-fluid" src="img/cartells/cartell8.png">
-					</div>
-					<div class="col-12 text-center">
-						<span class="nomAlumne" > 
-							Pol Viñas
-						</span><br>
-						<!-- <p>
-							Mi idea es trasladar la leyenda<a href="javascript:mostrarDesglossament('desgAlum8');"> leer mas</a>
-						</p> -->
-					</div>
-				</a>
+			</a>	
+			<div class="col-10 text-center mx-2">
+				Belén Garrido	
 			</div>
 		</div>
-		<!-- TODO:cambiar el color de fondo por css con la clase mostraDivAlumne...style="background-color: #FFB1AB"-->
-		<div id="desgAlum1" class="mostraDivAlumne">
+		<div class="col-12 col-md-4 col-lg-3">
+			<a class="noLink" href="javascript:mostrarDesglossament('desgAlum7');">
+				<div class="col-md-8 text-center offset-2">
+					<img class="img-fluid" src="img/cartells/cartell7.png">
+				</div>
+			</a>	
+			<div class="col-10 text-center mx-2">			
+				Rosa Gilibert
+			</div>		
+		</div>
+		<div class="col-12 col-md-4 col-lg-3">
+			<a class="noLink" href="javascript:mostrarDesglossament('desgAlum8');">
+				<div class="col-md-8 text-center offset-2">
+					<img class="img-fluid" src="img/cartells/cartell8.png">
+				</div>
+			</a>	
+			<div class="col-10 text-center mx-2"> 
+				Pol Viñas
+			</div>		
+		</div>
+	</div>
+		<!-- TODO:cambiar el color de fondo por css con la clase mostraDiv...style="background-color: #FFB1AB"-->
+		<div id="desgAlum1" class="mostraDiv">
 			<div class="row">
-				<div class="col-12  col-md-4 col-lg-4 offset-lg-1 mt-lg-4 noOpacity">
+				<!-- TODO: copy -->
+				<div class="col-12 col-md-4 col-lg-4 offset-lg-1 mt-lg-4 noOpacity">
 					<img src="img/cartells/cartellAlumne1.png" class="img-fluid">
 				</div>
-				<div class="col-12 col-lg-4 offset-lg-1 mt-lg-4 ">
+				<!-- TODO: copy -->
+				<div class="col-12 col-lg-4 mt-lg-4 ml-lg-3">
 					<div class="row">
-						<div class="col-12 ">
+						<!-- TODO: copy -->
+						<div class="col-12 d-flex justify-content-end">
 							<a href="javascript:tancarDesglossament('desgAlum1');"><img src="img/cartells/proposta2TancarReduida.png" class="img-fluid"></a>
 						</div>
-						<div class="col-lg-4">
-							<img src="img/cartells/cartellFoto1.png" class="img-fluid cartellEspai">
-						</div>
-						<div class=" col-lg-2 mt-lg-5">
-							Marina Aguiló
+						<!-- TODO: copy -->
+						<div class="col-12 col-lg-7 d-flex align-items-end">
+							<img src="img/cartells/cartellFoto1.png" class="img-fluid ">&nbsp;&nbsp;&nbsp;Marina Aguiló
 						</div>
 						<div class="col-12 col-lg-6 mt-lg-4 ml-lg-2">
 							<p>
@@ -158,21 +119,18 @@
 			</div>
 		</div>
 		<!-- TODO:style="background-color: #c2ffc2" -->
-		<div id="desgAlum2" class="mostraDivAlumne">
+		<div id="desgAlum2" class="mostraDiv">
 			<div class="row">
-				<div class="col-12  col-md-4 col-lg-4 offset-lg-1 mt-lg-4 noOpacity">
+				<div class="col-12 col-md-4 col-lg-4 offset-lg-1 mt-lg-4 noOpacity">
 					<img src="img/cartells/cartellAlumne2.png" class="img-fluid">
 				</div>
-				<div class="col-12 col-lg-4 offset-lg-1 mt-lg-4 ">
+				<div class="col-12 col-lg-4 mt-lg-4 ml-lg-3">
 					<div class="row">
-						<div class="col-12 ">
+						<div class="col-12 d-flex justify-content-end">
 							<a href="javascript:tancarDesglossament('desgAlum2');"><img src="img/cartells/proposta2TancarReduida.png" class="img-fluid"></a>
 						</div>
-						<div class="col-lg-4">
-							<img src="img/cartells/cartellFoto2.png" class="img-fluid cartellEspai">
-						</div>
-						<div class=" col-lg-2 mt-lg-5">
-							Rebeca Burgos
+						<div class="col-12 col-lg-7 d-flex align-items-end">
+							<img src="img/cartells/cartellFoto2.png" class="img-fluid">&nbsp;&nbsp;&nbsp;Rebeca Burgos
 						</div>
 						<div class="col-12 col-lg-6 mt-lg-4 ml-lg-2">
 							<p>
@@ -187,21 +145,18 @@
 			</div>
 		</div>
 
-		<div id="desgAlum3" class="mostraDivAlumne">
+		<div id="desgAlum3" class="mostraDiv">
 			<div class="row">
-				<div class="col-12  col-md-4 col-lg-4 offset-lg-1 mt-lg-4 noOpacity">
+				<div class="col-12 col-md-4 col-lg-4 offset-lg-1 mt-lg-4 noOpacity">
 					<img src="img/cartells/cartellAlumne3.png" class="img-fluid">
 				</div>
-				<div class="col-12 col-lg-4 offset-lg-1 mt-lg-4 ">
+				<div class="col-12 col-lg-4 mt-lg-4 ml-lg-3">
 					<div class="row">
-						<div class="col-12 ">
+						<div class="col-12 d-flex justify-content-end">
 							<a href="javascript:tancarDesglossament('desgAlum3');"><img src="img/cartells/proposta2TancarReduida.png" class="img-fluid"></a>
 						</div>
-						<div class="col-lg-4">
-							<img src="img/cartells/cartellFoto3.png" class="img-fluid cartellEspai">
-						</div>
-						<div class=" col-lg-2 mt-lg-5">
-							Mari Cazorla
+						<div class="col-12 col-lg-7 d-flex align-items-end">
+							<img src="img/cartells/cartellFoto3.png" class="img-fluid">&nbsp;&nbsp;&nbsp;Mari Cazorla
 						</div>
 						<div class="col-12 col-lg-6 mt-lg-4 ml-lg-2">
 							<p>
@@ -214,21 +169,19 @@
 				</div>	
 			</div>
 		</div>
-		<div id="desgAlum4" class="mostraDivAlumne">
+
+		<div id="desgAlum4" class="mostraDiv">
 			<div class="row">
-				<div class="col-12  col-md-4 col-lg-4 offset-lg-1 mt-lg-4 noOpacity">
+				<div class="col-12 col-md-4 col-lg-4 offset-lg-1 mt-lg-4 noOpacity">
 					<img src="img/cartells/cartellAlumne4.png" class="img-fluid">
 				</div>
-				<div class="col-12 col-lg-4 offset-lg-1 mt-lg-4 ">
+				<div class="col-12 col-lg-4 mt-lg-4 ml-lg-3">
 					<div class="row">
-						<div class="col-12 ">
+						<div class="col-12 d-flex justify-content-end">
 							<a href="javascript:tancarDesglossament('desgAlum4');"><img src="img/cartells/proposta2TancarReduida.png" class="img-fluid"></a>
 						</div>
-						<div class="col-lg-4">
-							<img src="img/cartells/cartellFoto4.png" class="img-fluid cartellEspai">
-						</div>
-						<div class=" col-lg-2 mt-lg-5">
-							Ana Del Campo
+						<div class="col-12 col-lg-7 d-flex align-items-end">
+							<img src="img/cartells/cartellFoto4.png" class="img-fluid ">&nbsp;&nbsp;&nbsp;Ana Del Campo
 						</div>
 						<div class="col-12 col-lg-6 mt-lg-4 ml-lg-2">
 							<p>
@@ -241,21 +194,19 @@
 				</div>	
 			</div>
 		</div>
-		<div id="desgAlum5" class="mostraDivAlumne">
+
+		<div id="desgAlum5" class="mostraDiv">
 			<div class="row">
-				<div class="col-12  col-md-4 col-lg-4 offset-lg-1 mt-lg-4 noOpacity">
+				<div class="col-12 col-md-4 col-lg-4 offset-lg-1 mt-lg-4 noOpacity">
 					<img src="img/cartells/cartellAlumne5.png" class="img-fluid">
 				</div>
-				<div class="col-12 col-lg-4 offset-lg-1 mt-lg-4 ">
+				<div class="col-12 col-lg-4 mt-lg-4 ml-lg-3">
 					<div class="row">
-						<div class="col-12 ">
+						<div class="col-12 d-flex justify-content-end">
 							<a href="javascript:tancarDesglossament('desgAlum5');"><img src="img/cartells/proposta2TancarReduida.png" class="img-fluid"></a>
 						</div>
-						<div class="col-lg-4">
-							<img src="img/cartells/cartellFoto5.png" class="img-fluid cartellEspai">
-						</div>
-						<div class=" col-lg-2 mt-lg-5">
-							Sara Garcimartín
+						<div class="col-12 col-lg-7 d-flex align-items-end">
+							<img src="img/cartells/cartellFoto5.png" class="img-fluid ">&nbsp;&nbsp;&nbsp;Sara Garcimartín
 						</div>
 						<div class="col-12 col-lg-6 mt-lg-4 ml-lg-2">
 							<p>
@@ -270,21 +221,18 @@
 			</div>
 		</div>
 
-		<div id="desgAlum6" class="mostraDivAlumne">
+		<div id="desgAlum6" class="mostraDiv">
 			<div class="row">
-				<div class="col-12  col-md-4 col-lg-4 offset-lg-1 mt-lg-4 noOpacity">
+				<div class="col-12 col-md-4 col-lg-4 offset-lg-1 mt-lg-4 noOpacity">
 					<img src="img/cartells/cartellAlumne6.png" class="img-fluid">
 				</div>
-				<div class="col-12 col-lg-4 offset-lg-1 mt-lg-4 ">
+				<div class="col-12 col-lg-4 mt-lg-4 ml-lg-3">
 					<div class="row">
-						<div class="col-12 ">
+						<div class="col-12 d-flex justify-content-end">
 							<a href="javascript:tancarDesglossament('desgAlum6');"><img src="img/cartells/proposta2TancarReduida.png" class="img-fluid"></a>
 						</div>
-						<div class="col-lg-4">
-							<img src="img/cartells/cartellFoto6.png" class="img-fluid cartellEspai">
-						</div>
-						<div class=" col-lg-2 mt-lg-5">
-							Belén Garrido
+						<div class="col-12 col-lg-7 d-flex align-items-end">
+							<img src="img/cartells/cartellFoto6.png" class="img-fluid ">&nbsp;&nbsp;&nbsp;Belén Garrido
 						</div>
 						<div class="col-12 col-lg-6 mt-lg-4 ml-lg-2">
 							<p>
@@ -296,22 +244,19 @@
 			</div>
 		</div>
 
-		<div id="desgAlum7" class="mostraDivAlumne">
+		<div id="desgAlum7" class="mostraDiv">
 			<div class="row">
-				<div class="col-12  col-md-4 col-lg-4 offset-lg-1 mt-lg-4 noOpacity">
+				<div class="col-12 col-md-4 col-lg-4 offset-lg-1 mt-lg-4 noOpacity">
 					<img src="img/cartells/cartellAlumne7.png" class="img-fluid">
 				</div>
-				<div class="col-12 col-lg-4 offset-lg-1 mt-lg-4 ">
+				<div class="col-12 col-lg-4 mt-lg-4 ml-lg-3">
 					<div class="row">
-						<div class="col-12 ">
+						<div class="col-12 d-flex justify-content-end">
 							<a href="javascript:tancarDesglossament('desgAlum7');"><img src="img/cartells/proposta2TancarReduida.png" class="img-fluid"></a>
 						</div>
-						<div class="col-lg-4">
-							<img src="img/cartells/cartellFoto7.png" class="img-fluid cartellEspai">
-						</div>
-						<div class=" col-lg-2 mt-lg-5">
-							Rosa Gilibert
-						</div>
+						<div class="col-12 col-lg-7 d-flex align-items-end">
+							<img src="img/cartells/cartellFoto7.png" class="img-fluid ">&nbsp;&nbsp;&nbsp;Rosa Gilibert
+						</div>	
 						<div class="col-12 col-lg-6 mt-lg-4 ml-lg-2">
 							<p>
 								La meva intenció des d’un principi va ser sortir de la monotonia del que representa Sant Jordi i demostrar la estima que tinc a Barcelona. El mar està inspirat amb l’estil tant característic de Gaudí, el Trencadís. 
@@ -323,21 +268,18 @@
 			</div>
 		</div>
 
-		<div id="desgAlum8" class="mostraDivAlumne">
+		<div id="desgAlum8" class="mostraDiv">
 			<div class="row">
-				<div class="col-12  col-md-4 col-lg-4 offset-lg-1 mt-lg-4 noOpacity">
+				<div class="col-12 col-md-4 col-lg-4 offset-lg-1 mt-lg-4 noOpacity">
 					<img src="img/cartells/cartellAlumne8.png" class="img-fluid">
 				</div>
-				<div class="col-12 col-lg-4 offset-lg-1 mt-lg-4 ">
+				<div class="col-12 col-lg-4 mt-lg-4 ml-lg-3">
 					<div class="row">
-						<div class="col-12 ">
+						<div class="col-12 d-flex justify-content-end">
 							<a href="javascript:tancarDesglossament('desgAlum8');"><img src="img/cartells/proposta2TancarReduida.png" class="img-fluid"></a>
 						</div>
-						<div class="col-lg-4">
-							<img src="img/cartells/cartellFoto8.png" class="img-fluid cartellEspai">
-						</div>
-						<div class=" col-lg-2 mt-lg-5">
-							Pol Viñas
+						<div class="col-12 col-lg-7 d-flex align-items-end">
+							<img src="img/cartells/cartellFoto8.png" class="img-fluid ">&nbsp;&nbsp;&nbsp;Pol Viñas
 						</div>
 						<div class="col-12 col-lg-6 mt-lg-4 ml-lg-2">
 							<p>

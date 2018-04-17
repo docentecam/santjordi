@@ -211,9 +211,6 @@ a.noLink:link, a.noLink:visited,a.noLink:hover,a.noLink:active{
 		font-weight: bold;
 		color: white;
 	}
-	.cartellEspai{
-		margin-top:20px;
-	}
 	.bg-primary{
 		background-color: #343a40!important;
 	}
