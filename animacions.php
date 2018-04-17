@@ -13,17 +13,17 @@
 		<div class="row"> 
 		    <div class="col-sm-12 col-md-4 col-lg-3">
 				<a class="noLink" href="javascript:mostrarDesglossament('desgAlumAni1');">
-			    	<img class=" col-12 img-fluid" src="img/animacions/animacio1_lg.jpg" alt="" title="">
-				  	<div id="txtTitlesAniC" class="col-12 text-center"><span class="idioma"><span>titol animaciò</span><span>tìtulo animaciones</span></span></div>
+			    	<img class=" col-12 img-fluid" src="img/animacions/animacio1_lg.jpg" alt="" title=""></a>
+				  	<div  class="col-12 text-center"><span class="idioma"><span>titol animaciò</span><span>tìtulo animaciones</span></span></div>
 				    <div class="col-12 text-center">Nom Alumne Primer Cognom 1</div>
-				</a>
+				
 		    </div>
 		    <div class="col-sm-12 col-md-4 col-lg-3">
 				<a class="noLink" href="javascript:mostrarDesglossament('desgAlumAni2');">
-			    	<img class=" col-12 img-fluid" src="img/animacions/animacio2_lg.jpg" alt="" title="">
+			    	<img class=" col-12 img-fluid" src="img/animacions/animacio2_lg.jpg" alt="" title=""></a>
 				  	<div class="col-12 text-center"><span class="idioma"><span>Titol Animació</span><span>tìtulo animaciones</span></span></div>
 				    <div class="col-12 text-center">Nom Alumne Primer Cognom 2</div>
-				</a>
+				
 		    </div>
 		    <div class="col-sm-12 col-md-4 col-lg-3">
 				<a class="noLink" href="javascript:mostrarDesglossament('desgAlumAni3');">
@@ -72,7 +72,7 @@
 					
 			<div id="desgAlumAni1" class="mostraDivAlumne">
 				<div class="">
-					<a href="javascript:tancarDesglossament('desgAlumAni1');"><!-- <img src="img/cartells/proposta1Tancar.png"> --></a>
+					<a href="javascript:tancarDesglossament('desgAlumAni1');">tancar<!-- <img src="img/cartells/proposta1Tancar.png"> --></a>
 				</div>
 						
 				<div class="row">
