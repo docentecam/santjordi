@@ -79,20 +79,17 @@
 
 		</div>
 					
-			<div id="desgAlumAni1" class="mostraDivAlumne">
-						
+			<div id="desgAlumAni1" class="mostraDiv">
 				<div class="row">	
-					
 				  	<div class="col-12 col-md-6 offset-md-3">
-				  		
-				  		<div class="">
-						  	<a href="javascript:tancarDesglossament('desgAlumAni1');"><img src="img/cartells/proposta2TancarReduida.png"></a>
+				  		<div class="row">
+							<div class="col-10 embed-responsive embed-responsive-16by9">
+					  			<iframe class="embed-responsive-item" src="img/animacions/animacioAlumne1_lg.mp4" allowfullscreen></iframe>
+							</div>
+							<div class="col-1">
+							  	<a href="javascript:tancarDesglossament('desgAlumAni1');"><img  src="img/cartells/proposta2TancarReduida.png"></a>
+							</div>
 						</div>
-
-					  	<div class="embed-responsive embed-responsive-16by9">
-			  				<iframe class="embed-responsive-item mt-5" src="img/animacions/animacioAlumne1_lg.mp4" allowfullscreen></iframe>
-						</div>
-						
 					</div>
 				</div>
 				
@@ -100,7 +97,7 @@
 					    <div class="col-4 col-md-2 offset-md-3">
 					    	<img class="img-fluid mt-3" src="img/animacions/retrat1_lg.jpg" alt="" title="">
 					    </div>
-						<div class="col-8 col-md-3 col-xl-4  mt-4 mt-md-2 mt-lg-4 mt-xl-4">
+						<div class="col-8 col-md-3  mt-4 mt-md-2 mt-lg-4 mt-xl-4">
 							<span><h5> Nom Alumne Primer Cognom 1 </h5></span>
 							<span class="idioma">
 								<span>
@@ -118,10 +115,13 @@
 				</div>
 						
 			</div>
-			<div id="desgAlumAni2" class="mostraDivAlumne">
+			<div id="desgAlumAni2" class="mostraDiv">
 				<div class="row">
 					
 				  	<div class="col-sm-12 col-md-6 offset-md-3">
+				  		<div class="col-md-1">
+							<a href="javascript:tancarDesglossament('desgAlumAni2');"><img src="img/cartells/proposta2TancarReduida.png"></a>
+						</div>
 					  	<div class="embed-responsive embed-responsive-16by9">
 			  				<iframe class="embed-responsive-item" src="img/animacions/animacioAlumne2_lg.mp4" allowfullscreen></iframe>
 						</div>
@@ -145,16 +145,19 @@
 						      proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></span>
 						      <span></span>
 							</span>
-					 </div>
+					   </div>
 
 				</div>
 	 
 					
 					 
 			</div>
-			<div id="desgAlumAni3" class="mostraDivAlumne">
+			<div id="desgAlumAni3" class="mostraDiv">
 				<div class="row">
 				  	<div class="col-sm-12 col-md-6 offset-md-3">
+				  		<div class="col-2">
+							<a href="javascript:tancarDesglossament('desgAlumAni3');"><img src="img/cartells/proposta2TancarReduida.png"></a>
+						</div>
 					  	<div class="embed-responsive embed-responsive-16by9">
 			  				<iframe class="embed-responsive-item" src="img/animacions/animacioAlumne3_lg.mp4" allowfullscreen></iframe>
 						</div>
@@ -163,34 +166,29 @@
 
 				<div class="row">
 					    <div class="col-4 col-md-2 offset-md-3">
-					    	<img  class="img-fluid" src="img/animacions/retrat3_lg.jpg" alt="" title="">
+					    	<img  class="img-fluid mt-3" src="img/animacions/retrat3_lg.jpg" alt="" title="">
 					    </div>
-						<div class="col-6 mt-5">
+						<div class="col-8 col-md-3 col-xl-4  mt-4 mt-md-2 mt-lg-4 mt-xl-4">
 							<span><h5> Nom Alumne Primer Cognom 3</h5></span>
+							<span class="idioma">
+								  <span><p class="mt-sm-2 mt-md-3 mt-lg-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+							      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+							      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+							      consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+							      cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+							      proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></span>
+							      <span><p></p></span>
+						  	</span>
 						</div>
 				</div>
 	 
-				<div class="row">
-					<div class=" col-12 col-md-6 col-lg-6 offset-md-3">
-						<span class="idioma">
-							  <span><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-						      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-						      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-						      consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-						      cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-						      proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></span>
-						      <span><p></p></span>
-					  	</span>
-						
-					 </div>
-					 <div class="col-2">
-						<a href="javascript:tancarDesglossament('desgAlumAni3');">Tancar</a>
-					</div>
-				</div>
 			</div>
-			<div id="desgAlumAni4" class="mostraDivAlumne">
+			<div id="desgAlumAni4" class="mostraDiv">
 				<div class="row">
 				  	<div class="col-sm-12 col-md-6 offset-md-3">
+				  		<div class="col-2">
+							<a href="javascript:tancarDesglossament('desgAlumAni4');"><img src="img/cartells/proposta2TancarReduida.png"></a>
+						</div>
 					  	<div class="embed-responsive embed-responsive-16by9">
 			  				<iframe class="embed-responsive-item" src="img/animacions/animacioAlumne4_lg.mp4" allowfullscreen></iframe>
 						</div>
@@ -201,69 +199,59 @@
 					    <div class="col-4 col-md-2 offset-md-3">
 					    	<img  class="img-fluid" src="img/animacions/retrat4_lg.jpg" alt="" title="">
 					    </div>
-						<div class="col-6 mt-5">
+						<div class="col-8 col-md-3 col-xl-4  mt-4 mt-md-2 mt-lg-4 mt-xl-4">
 							<span> Nom Alumne Primer Cognom  4</span>
-						</div>
-				</div>
-	 
-				<div class="row">
-					<div class="col-12 col-md-6 col-lg-6 offset-md-3">
 						<span class="idioma">
-							<span><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+							<span><p class="mt-sm-2 mt-md-3 mt-lg-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 						      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 						      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
 						      consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
 						      cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 						      proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></span>
-					      	
-					     </span><p></p><span>
-					  </span>
-					 </div>
-					 <div class="col-2">
-						<a href="javascript:tancarDesglossament('desgAlumAni4');">Tancar</a>
-					</div>
+					      	<span><p class=""></p></span>
+					    </span>
+					  
+						</div>
 				</div>
+	 
 			</div>
-			<div id="desgAlumAni5" class="mostraDivAlumne">
+			<div id="desgAlumAni5" class="mostraDiv">
 				<div class="row">
-				  	<div class="col-sm-12 col-md-6 offset-md-3">
+				  	<div class="col-sm-12 col-md-6 offset-md-3"> 
+				  		<div class="">
+							<a href="javascript:tancarDesglossament('desgAlumAni5');"><img src="img/cartells/proposta2TancarReduida.png"></a>
+						</div>
 					  	<div class="embed-responsive embed-responsive-16by9">
 			  				<iframe class="embed-responsive-item" src="img/animacions/animacioAlumne5_lg.mp4" allowfullscreen></iframe>
 						</div>
 					</div>
 				</div>
 
-
 				<div class="row">
 					    <div class="col-4 col-md-2 offset-md-3">
-					    	<img  class="img-fluid" src="img/animacions/retrat5_lg.jpg" alt="" title="">
+					    	<img  class="img-fluid mt-3" src="img/animacions/retrat5_lg.jpg" alt="" title="">
 					    </div>
-						<div class="col-6 mt-5">
+						<div class="col-8 col-md-3 col-xl-4  mt-4 mt-md-2 mt-lg-4 mt-xl-4">
 							<span><h5> Nom Alumne Primer Cognom 5</h5></span>
-						</div>
-				</div>
-	 
-				<div class="row">
-					<div class=" col-12 col-md-6 col-lg-6 offset-md-3">
-						<span>
-							<span><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+							<span class="idioma">
+							<span><p class="mt-sm-2 mt-md-3 mt-lg-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 						      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 						      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
 						      consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
 						      cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 						      proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></span>
 						      <span><p></p></span>
-					    </span>
-					
-					 </div>
-					 <div class="col-2">
-						<a href="javascript:tancarDesglossament('desgAlumAni5');">Tancar</a>
-					</div>
+							
+					   		</span>
+						</div>
 				</div>
 			</div>
-			<div id="desgAlumAni6" class="mostraDivAlumne">
+			<div id="desgAlumAni6" class="mostraDiv">
 				<div class="row">
 				  	<div class="col-sm-12 col-md-6 offset-md-3">
+				  		<div class="col-2">
+							<a href="javascript:tancarDesglossament('desgAlumAni6');"><img src="img/cartells/proposta2TancarReduida.png"></a>
+						</div>
 					  	<div class="embed-responsive embed-responsive-16by9">
 			  				<iframe class="embed-responsive-item" src="img/animacions/animacioAlumne6_lg.mp4" allowfullscreen></iframe>
 						</div>
@@ -272,33 +260,29 @@
 
 				<div class="row">
 					    <div class="col-4 col-md-2 offset-md-3">
-					    	<img  class="img-fluid" src="img/animacions/retrat6_lg.jpg" alt="" title="">
+					    	<img  class="img-fluid mt-3" src="img/animacions/retrat6_lg.jpg" alt="" title="">
 					    </div>
-						<div class="col-6 mt-5">
+						<div class="col-8 col-md-3 col-xl-4  mt-4 mt-md-2 mt-lg-4 mt-xl-4">
 							<span><h5> Nom Alumne Primer Cognom  6</h5></span>
+					        <span class="idioma">
+						     <span><p class="mt-sm-2 mt-md-3 mt-lg-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+						      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+						      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+						      consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+						      cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+						      proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></span>
+					        <span><p></p></span>
+					      </span>
 						</div>
 				</div>
-	 
-				<div class="row">
-					<div class=" col-12 col-md-6 col-lg-6 offset-md-3">
-					  <span class="idioma">
-						<span><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-					      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-					      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-					      consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-					      cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-					      proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></span>
-					      <span><p></p></span>
-					  </span>
-					 </div>
-					 <div class="col-2">
-						<a href="javascript:tancarDesglossament('desgAlumAni6');">Tancar</a>
-					</div>
-				</div>
 			</div>
-			<div id="desgAlumAni7" class="mostraDivAlumne">
+
+			<div id="desgAlumAni7" class="mostraDiv">
 				<div class="row">
 				  	<div class="col-12 col-md-6 offset-md-3">
+				  		<div class="">
+							<a href="javascript:tancarDesglossament('desgAlumAni7');"><img src="img/cartells/proposta2TancarReduida.png"></a>
+						</div>
 					  	<div class="embed-responsive embed-responsive-16by9">
 			  				<iframe class="embed-responsive-item" src="img/animacions/animacioAlumne7_lg.mp4" allowfullscreen></iframe>
 						</div>
@@ -307,30 +291,29 @@
 
 				<div class="row">
 					    <div class="col-4 col-md-2 offset-md-3">
-					    	<img  class="img-fluid" src="img/animacions/retrat7_lg.jpg" alt="" title="">
+					    	<img  class="img-fluid mt-3" src="img/animacions/retrat7_lg.jpg" alt="" title="">
 					    </div>
-						<div class="col-6 mt-5">
+						<div class="col-8 col-md-3 col-xl-4  mt-4 mt-md-2 mt-lg-4 mt-xl-4">
 							<span> Nom Alumne Primer Cognom  7</span>
+							<span class="idioma">
+								<span><p class="mt-sm-2 mt-md-3 mt-lg-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+						      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+						      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+						      consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+						      cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+						      proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></span>
+					      	<span><p></p></span>
+							</span>
 						</div>
 				</div>
 	 
-				<div class="row">
-					<div class=" col-12 col-md-6 col-lg-6 offset-md-3">
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-					      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-					      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-					      consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-					      cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-					      proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-					 </div>
-					 <div class="col-2">
-						<a href="javascript:tancarDesglossament('desgAlumAni7');">Tancar</a>
-					</div>
-				</div>
 			</div>
-			<div id="desgAlumAni8" class="mostraDivAlumne">
+			<div id="desgAlumAni8" class="mostraDiv">
 				<div class="row">
-				  	<div class="col-12 col-md-6 offset-md-3">
+				  	<div class="col-12 col-md-6 offset-md-3"> 
+				  		<div class="col-2">
+							<a href="javascript:tancarDesglossament('desgAlumAni8');"><img src="img/cartells/proposta2TancarReduida.png"></a>
+						</div>
 					  	<div class="embed-responsive embed-responsive-16by9">
 			  				<iframe class="embed-responsive-item" src="img/animacions/animacioAlumne8_lg.mp4" allowfullscreen></iframe>
 						</div>
@@ -341,25 +324,23 @@
 					    <div class="col-4 col-md-2 offset-md-3">
 					    	<img  class="img-fluid" src="img/animacions/retrat8_lg.jpg" alt="" title="">
 					    </div>
-						<div class="col-6 mt-5">
+						<div class="col-8 col-md-3 col-xl-4  mt-4 mt-md-2 mt-lg-4 mt-xl-4">
 							<span> Nom Alumne Primer Cognom 8</span>
+							<span class="idoma">
+								<span><p class="mt-sm-2 mt-md-3 mt-lg-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+							      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+							      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+							      consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+							      cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+							      proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></span>
+								<span><p></p><span>
+							</span>
 						</div>
 				</div>
 	 
-				<div class="row">
-					<div class=" col-12 col-md-6 col-lg-6 offset-md-3">
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-					      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-					      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-					      consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-					      cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-					      proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-					 </div>
-					 <div class="col-2">
-						<a href="javascript:tancarDesglossament('desgAlumAni8');">Tancar</a>
-					</div>
-				</div>
-			</div>
+				
+					
+				
 
 <?php include("inc/footer.php");?>
 
