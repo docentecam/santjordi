@@ -1,18 +1,11 @@
 </div>
-	<div class="mt-2 d-md-none">
-			<!-- <img src="img/ajuntament.png" class="img-fluid col-3 offset-1">
-			<img src="img/Barcelona-Activa.png" class="img-fluid col-3">
-			<img src="img/generalitat.png" class="img-fluid col-3">
-			<img src="img/soc.png" class="img-fluid col-3 offset-2">
-			<img src="img/ministerio.png" class="img-fluid col-3"> -->
-			<img src="img/footer_web.jpg" class="img-fluid">
+	<div class="d-lg-none">
+			<img src="img/footer_web.jpg" class="img-fluid p-0 col-9">
+			<a href="http://hooooooooo.com/" target="blank_" class="col-1 p-0 ml-md-5"><img src="img/23px-Flag_of_Catalonia.png"></a>
+			<a href="http://www.eelslap.com/" target="blank_" class="col-1 p-0"><img src="img/23px-Flag_of_Spain.png"></a>
+			
 	</div>
-	<div class="mt-2 d-none d-md-block">
-		<!-- <img src="img/ajuntament.png" class="img-fluid col-2 offset-1">
-		<img src="img/Barcelona-Activa.png" class="img-fluid col-2">
-		<img src="img/generalitat.png" class="img-fluid col-2">
-		<img src="img/soc.png" class="img-fluid col-2">
-		<img src="img/ministerio.png" class="img-fluid col-2"> -->
+	<div class="d-none d-lg-block">
 		<img src="img/footer_web.jpg" class="img-fluid">
 	</div>
 
