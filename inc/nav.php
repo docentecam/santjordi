@@ -5,7 +5,7 @@
 		
 		<div class="mx-lg-5">	
 	  		
-	  		<a class="navbar-brand iconoss mx-lg-4" href="index.php">
+	  		<a class="navbar-brand iconoss mx-lg-4" href="index.php" alt="Sant Jordi Home">
 	  	 		
 	  	 		<i class="fab fa-2x fa-fort-awesome"></i> 
 	   		
