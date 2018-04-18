@@ -15,7 +15,6 @@ h1{
 nav{
 	background-image: url("../img/navbar_old.jpg")!important;
 	font-weight: bold;
-	/*background-repeat: no-repeat!important;*/
 }
 nav a.iconoss{
 	padding-top: 0rem!important;
