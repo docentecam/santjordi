@@ -136,7 +136,9 @@ a.noLink:link, a.noLink:visited,a.noLink:hover,a.noLink:active{
 .imgfestivitats{
 	border-radius: 5px;
 }
-
+.borderFooter{
+	border-top: 2px solid #C1C1C1;
+}
 
 @media (max-width: 575px){
 	nav{
