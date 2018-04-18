@@ -21,7 +21,9 @@ nav a.iconoss{
 	padding-top: 0rem!important;
     padding-bottom: 0rem!important;
 }
-
+nav a{
+    cursor: pointer!important;
+}
 .carousel-indicators > li {
 	border-radius: 50%;
 	width: 12px;
@@ -132,6 +134,7 @@ a.noLink:link, a.noLink:visited,a.noLink:hover,a.noLink:active{
 	border-radius: 10px;
 }
 
+
 #gifStjordi{
 	border-radius: 5px;
 }
@@ -139,7 +142,9 @@ a.noLink:link, a.noLink:visited,a.noLink:hover,a.noLink:active{
 .imgfestivitats{
 	border-radius: 5px;
 }
-
+.borderFooter{
+	border-top: 2px solid #C1C1C1;
+}
 
 @media (max-width: 575px){
 	nav{
