@@ -21,7 +21,9 @@ nav a.iconoss{
 	padding-top: 0rem!important;
     padding-bottom: 0rem!important;
 }
-
+nav a{
+    cursor: pointer!important;
+}
 .carousel-indicators > li {
 	border-radius: 50%;
 	width: 12px;
