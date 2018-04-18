@@ -1,10 +1,5 @@
 <?php include("inc/head.php");?>
 	<div class="row">
-<!-- 
-		<span id="prueba">texto</span>
-		<script type="text/javascript">
-			document.getElementById("prueba").style.color="red";
-		</script> -->
 
 		<div  class="col-12 d-none d-sm-block txtTitles text-center mb-3"><h1><span class="CA">Les Animacions</span><span class="ES">Las Animaciones</span></h1></div>
 	</div>
