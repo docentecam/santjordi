@@ -99,4 +99,4 @@
 
 </nav>
 
-<div id="container" class="container-fluid">
+<div id="container" class="container-fluid p-0 px-md-4">

@@ -1,6 +1,6 @@
 <?php include("inc/head.php");?>
-	<div class="d-sm-none">&nbsp;</div>
-	<div id="carouselSantJordi" class="carousel slide my-5 my-sm-0 " data-ride="carousel">
+	<!-- <div class="d-sm-none">&nbsp;</div> -->
+	<div id="carouselSantJordi" class="carousel slide" data-ride="carousel">
 		<ol class="carousel-indicators">
 			<li data-target="#carouselSantJordi" data-slide-to="0" class="active"></li>
 			<li data-target="#carouselSantJordi" data-slide-to="1"></li>
@@ -45,5 +45,5 @@
 		 	<span class="sr-only">Endavant</span>
 		 </a>
 	</div>
-	<div class="d-sm-none">&nbsp;</div>
+	<!-- <div class="d-sm-none">&nbsp;</div> -->
 <?php include("inc/footer.php");?>
