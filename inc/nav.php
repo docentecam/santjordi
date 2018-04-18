@@ -37,7 +37,13 @@
 						  		
 						  			</a>
 						      
-						      		<a class="dropdown-item" href="festivitat.php">Festivitat</a>
+						      		<a class="dropdown-item" href="festivitat.php">
+
+						      			<span class="CA">Festivitat</span>
+
+										<span class="ES">Festividad</span>
+
+						      		</a>
 						   
 						    	</div>
 						
