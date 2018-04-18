@@ -1,11 +1,11 @@
 
-<nav id="navbgimg" class="navbar navbar-expand-lg navbar-dark bg-primary mb-2">
+<nav id="navbgimg" class="navbar navbar-expand-lg navbar-dark bg-primary mb-md-2">
 	
 	<div class="container">
 		
 		<div class="mx-lg-5">	
 	  		
-	  		<a class="navbar-brand iconoss mx-lg-4" href="index.php">
+	  		<a class="navbar-brand iconoss mx-lg-4" href="index.php" alt="Sant Jordi Home">
 	  	 		
 	  	 		<i class="fab fa-2x fa-fort-awesome"></i> 
 	   		
@@ -30,18 +30,20 @@
 						    	<div class="dropdown-menu">
 						      
 						      		<a class="dropdown-item" href="llegenda.php">
-
-						      			<span class="idiomes">
 						      	
-						      				<span>Llegenda</span>
+						      				<span class="CA">Llegenda</span>
 						      	
-						      					<!-- <span>Leyenda</span> -->
-						      	
-						      			</span>
+						      				<span class="ES">Leyenda</span>
 						  		
 						  			</a>
 						      
-						      		<a class="dropdown-item" href="festivitat.php">Festivitat</a>
+						      		<a class="dropdown-item" href="festivitat.php">
+
+						      			<span class="CA">Festivitat</span>
+
+										<span class="ES">Festividad</span>
+
+						      		</a>
 						   
 						    	</div>
 						
@@ -51,13 +53,9 @@
 							
 							<a class="nav-link text-white" href="cartells.php">
 
-								<span class="idiomes">
+									<span class="CA">Els Cartells</span>
 
-									<span>Els Cartells</span>
-
-										<!-- <span>Los Carteles</span> -->
-							
-								</span>
+									<span class="ES">Los Carteles</span>
 
 							</a>
 						
@@ -66,14 +64,12 @@
 						<li class="nav-item mx-lg-4">
 				   			
 				   			<a class="nav-link text-white" href="animacions.php">
-
-				   				<span class="idiomes">
 				   				
-				   					<span>Les Animacions</span>
+				   					<span class="CA">Les Animacions</span>
 
-				   						<!-- <span>Las Animaciones</span> -->
+				   					<span class="ES">Las Animaciones</span>
 
-				   				</span></a>
+				   				</a>
 				  		
 				  		</li>
 				  		
@@ -85,15 +81,13 @@
 				  		
 				  		<li class="nav-item mt-lg-1 ml-lg-5 mr-lg-2 d-none d-lg-block">
 				   			
-				   			<!-- poner url original y borrar target  -->
-				   			<a href="aun no esta?"><img src="img/23px-Flag_of_Catalonia.png"></a>
+				   			<a onclick="canviaIdioma(false)"><img src="img/23px-Flag_of_Catalonia.png"></a>
 				  		
 				  		</li>
 						
 						<li class="nav-item mt-lg-1 d-none d-lg-block">
 				   			
-				   			<!-- poner url original y borrar target  -->
-				   			<a href="aun o esta?"><img src="img/23px-Flag_of_Spain.png"></a>
+				   			<a onclick="canviaIdioma(true)"><img src="img/23px-Flag_of_Spain.png"></a>
 				  		
 				  		</li>	
 				 	
@@ -105,4 +99,4 @@
 
 </nav>
 
-<div id="container" class="container-fluid">
+<div id="container" class="container-fluid p-0 px-md-4">

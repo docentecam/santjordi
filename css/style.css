@@ -15,13 +15,14 @@ h1{
 nav{
 	background-image: url("../img/navbar_old.jpg")!important;
 	font-weight: bold;
-	/*background-repeat: no-repeat!important;*/
 }
 nav a.iconoss{
 	padding-top: 0rem!important;
     padding-bottom: 0rem!important;
 }
-
+nav a{
+    cursor: pointer!important;
+}
 .carousel-indicators > li {
 	border-radius: 50%;
 	width: 12px;
@@ -142,10 +143,17 @@ a.noLink:link, a.noLink:visited,a.noLink:hover,a.noLink:active{
 	border-radius: 10px;
 }
 
-.imgfestivitats{
+
+#gifStjordi{
 	border-radius: 5px;
 }
 
+.imgfestivitats{
+	border-radius: 5px;
+}
+.borderFooter{
+	border-top: 2px solid #E2E2E2;
+}
 
 @media (max-width: 575px){
 	nav{
@@ -176,6 +184,9 @@ a.noLink:link, a.noLink:visited,a.noLink:hover,a.noLink:active{
 	.santmt3{
 		margin-top: 1rem!important;
 	}
+		.txtBorders{
+		font-size:12px;
+	}
 }
 @media (min-width: 576px) and (max-width: 767px){
 	nav{
@@ -205,6 +216,9 @@ a.noLink:link, a.noLink:visited,a.noLink:hover,a.noLink:active{
 	}
 	.santmt3{
 		margin-top: 1rem!important;
+	}
+	.txtBorders{
+		font-size:13px;
 	}	
 }
 @media (min-width: 768px) and (max-width: 991px){
@@ -235,6 +249,9 @@ a.noLink:link, a.noLink:visited,a.noLink:hover,a.noLink:active{
 	}
 	.santmt3{
 		margin-top: 1rem!important;
+	}
+		.txtBorders{
+		font-size:13px;
 	}
 }
 @media (min-width: 992px) and (max-width: 1199px){

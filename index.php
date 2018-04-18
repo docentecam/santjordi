@@ -1,6 +1,6 @@
 <?php include("inc/head.php");?>
-	<div class="d-sm-none">&nbsp;</div>
-	<div id="carouselSantJordi" class="carousel slide my-5 my-sm-0 " data-ride="carousel">
+	<!-- <div class="d-sm-none">&nbsp;</div> -->
+	<div id="carouselSantJordi" class="carousel slide" data-ride="carousel">
 		<ol class="carousel-indicators">
 			<li data-target="#carouselSantJordi" data-slide-to="0" class="active"></li>
 			<li data-target="#carouselSantJordi" data-slide-to="1"></li>
@@ -21,10 +21,8 @@
 		      <a href="llegenda.php"><img class="img-fluid" src="img/carousel_lleg.jpg" alt="Accès a la llegenda"></a>
 		      <div class="carousel-caption d-none d-md-block">
 			    <h5>
-			    	<span class="idiomes">
-			    		<span>Llegenda de Sant Jordi</span>
-			    		<span>Leyenda de Sant Jordi</span>
-			    	</span>
+			    		<span class="CA">Llegenda de Sant Jordi</span>
+			    		<span class="ES">Leyenda de Sant Jordi</span>
 			    </h5>
 			  </div> 
 		    </div>
@@ -32,10 +30,8 @@
 		     <a href="festivitat.php"><img class="img-fluid" src="img/carousel_fest.jpg" alt="Accès a la festivitat"></a>
 		      <div class="carousel-caption d-none d-md-block">
 			      <h5>
-			    	<span class="idiomes">
-			    		<span>Festivitad de Sant Jordi</span>
-			    		<span>Festividad de Sant Jordi</span>
-			    	</span>
+			    		<span class="CA">Festivitat de Sant Jordi</span>
+			    		<span class="ES">Festividad de Sant Jordi</span>
 			    </h5>
 			  </div>  
 		    </div>
@@ -49,5 +45,5 @@
 		 	<span class="sr-only">Endavant</span>
 		 </a>
 	</div>
-	<div class="d-sm-none">&nbsp;</div>
+	<!-- <div class="d-sm-none">&nbsp;</div> -->
 <?php include("inc/footer.php");?>
