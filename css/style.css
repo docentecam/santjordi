@@ -50,17 +50,27 @@ a.noLink:link, a.noLink:visited,a.noLink:hover,a.noLink:active{
 }
 .mostraDiv{
 	display:none; 
-	position: fixed;
-	top:0; 
-	left:0; 
-	bottom:0;
 	width: 100%;
+	position: fixed;
+	margin:0;
+	top:0%; 
+	bottom:0%;
 	z-index: 10; 
-	background-color:  #f0cbd8;
+	background-color: #0A0A0A;
 	/*opacity: 0.5;*/
+	/*background-color:  #f0cbd8;*/
+	/*background-color:#FDF4E3;*/
+	/**/
 	/*font-family: 'Open Sans', sans-serif;*/
 }
-.noOpacity{/*opacity: 0!important;*/}
+.mostrarDiv2
+{
+	z-index: 11; 
+	width: 60%!important;
+	margin-left: 10%!important;
+	background-color: yellow!important; 
+	opacity: 1!important;
+}
 .imgSize{
 	padding: 10px;
 	position: relative;
