@@ -86,14 +86,14 @@
 				  		<li class="nav-item mt-lg-1 ml-lg-5 mr-lg-2 d-none d-lg-block">
 				   			
 				   			<!-- poner url original y borrar target  -->
-				   			<a href="http://hooooooooo.com/" target="blank_"><img src="img/23px-Flag_of_Catalonia.png"></a>
+				   			<a href="aun no esta?"><img src="img/23px-Flag_of_Catalonia.png"></a>
 				  		
 				  		</li>
 						
 						<li class="nav-item mt-lg-1 d-none d-lg-block">
 				   			
 				   			<!-- poner url original y borrar target  -->
-				   			<a href="http://www.eelslap.com/" target="blank_"><img src="img/23px-Flag_of_Spain.png"></a>
+				   			<a href="aun o esta?"><img src="img/23px-Flag_of_Spain.png"></a>
 				  		
 				  		</li>	
 				 	
