@@ -111,7 +111,12 @@
 	</div>
 </div>	
 
-
+<div id="demoLightbox" class="lightbox hide fade"  tabindex="-1" role="dialog" aria-hidden="true">
+	<div class='lightbox-content'>
+		<img src="img/23px-Flag_of_Catalonia.png">
+		<div class="lightbox-caption"><p>Your caption here</p></div>
+	</div>
+</div>
 
 
 
