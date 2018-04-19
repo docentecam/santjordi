@@ -7,9 +7,12 @@
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 		<script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
 		<link rel="stylesheet" type="text/css" href="css/style.css">
+		<link rel="stylesheet" type="text/css" href="css/bootstrap-lightbox.css">
 		<link rel="icon" href="img/favicon.png" type="image/x-icon">
 		<script type="text/javascript">
-			
+			$('#myModal').on('shown.bs.modal', function () {
+  				$('#myInput').trigger('focus')
+			})
 			function mostrarDesglossament(idDiv) {
 	            divMostrar = document.getElementById(idDiv);
 	            divMostrar.style.display = 'block';
@@ -27,10 +30,10 @@
 					
 					if(idioma) {
 						ocultaCA="none";
-						ocultaES="inline";
+						ocultaES="block";
 					}
 					else{
-						ocultaCA="inline";
+						ocultaCA="block";
 						ocultaES="none";
 					}
 						objetosCA=document.getElementsByClassName("CA");

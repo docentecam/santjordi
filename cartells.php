@@ -87,8 +87,24 @@
 			</div>		
 		</div>
 	</div>
-		<!-- TODO:cambiar el color de fondo por css con la clase mostraDiv...style="background-color: #FFB1AB"-->
-		<div id="desgAlum1" class="mostraDiv">
+		<!-- TODO:"window layer" por bootstrap -->
+		<!-- Trigger the Modal -->
+		<img id="myImg" src="img/cartells/cartellAlumne1.png" alt="Marina Aguiló" width="300" height="200">
+
+		<!-- The Modal -->
+		<div id="myModal" class="modal">
+
+		  <!-- The Close Button -->
+		  <span class="close">&times;</span>
+
+		  <!-- Modal Content (The Image) -->
+		  <img class="modal-content" id="img01">
+
+		  <!-- Modal Caption (Image Text) -->
+		  <div id="caption"></div>
+		</div>
+		<!-- TODO:version div de prueba-->
+		<!-- <div id="desgAlum1" class="mostraDiv">
 			<div class="mostraDiv2">
 			<div class="row">
 				<div class="col-lg-12 " >
@@ -123,9 +139,8 @@
 						</div>
 					</div>
 				</div>
-				<!-- <div class="col-lg-2 " style="background-color: #0A0A0A; opacity: 0.5"></div> -->
 			</div>	
-		</div>
+		</div> -->
 		<!-- TODO:style="background-color: #c2ffc2" -->
 		<div id="desgAlum2" class="mostraDiv">
 			<div class="row">
