@@ -140,12 +140,19 @@
 
 
 <diV class="row mx-0">
-<div class="col-lg-8 offset-lg-2 mt-lg-3 mb-3 px-md-5 py-md-2" id="nosaltres">
+<div class="col-lg-8 offset-lg-2 mb-3 px-5 py-2" id="nosaltres">
 		<div class="row">	
-		<div class="col-lg-3 pr-lg-5">
-
-
-
+		<div class="col-lg-3">
+			<div class="CREAR_CLASE_QUE_SEA_PARA_LA_WEB_LOS_DIVS_INDIVIDUALES">
+				<img src="img/avatars/img_cla.png">
+				<p>
+					nombre apellido
+					</br>
+					"mote en cursiva"
+					</br>
+					las funciones en general
+				</p>
+			</div>
 		</div>
 		</div>
 </div>
