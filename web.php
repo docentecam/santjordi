@@ -154,8 +154,8 @@
 			<span class="ES" style="display:none;">Finalización del proyecto</span></h1>
 		</div>
 	<div class="row">	
-		<div id="textoFinal" class="col-lg-4 offset-2 text-center mt-5">
-			<div class="mt-5">
+		<div id="textoFinal" class="col-lg-8 offset-2 text-center mt-4">
+			<div>
 				<p>
 					<span class="CA" style="display:none;">
 						Després de moltes setmanes de treball, arriba el moment de penjar la web a internet. Per fer-ho, fem servir el programa Filezilla, que permet que ens connectem a un servidor web. A través d’aquest programa, pengem els arxius i el codi que formen la web al hosting, és a dir, a un servei d’emmagatzematge online. Aquest pas ens permet accedir a la web en qualsevol moment a través d’internet.
@@ -166,12 +166,13 @@
 				</p>
 			</div>
 		</div>
-		<div class=" col-lg-4 mt-4">
-			<img src="img/Capturafilezila4.JPG" class="img-fluid borderRound mb-5">
-		</div>
+		
 		<div class="row">
-			<div class=" col-lg-4 offset-6">
+			<div class=" col-lg-4 offset-2 mt-4">
 				<img src="img/CapturaParaWeb.JPG" class="img-fluid borderRound">
+			</div>
+			<div class=" col-lg-4 mt-4">
+				<img src="img/Capturafilezila4.JPG" class="img-fluid borderRound mb-5">
 			</div>
 		</div>
 	</div>
