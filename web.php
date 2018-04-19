@@ -1,7 +1,6 @@
 <?php include ("inc/head.php");?>
 
 <div class="row">
-<<<<<<< HEAD
 	<div class="col-12 d-none d-sm-block txtTitles text-center mb-5"><h1><span class="CA">Procés de creació de la pàgina</span></h1>
 	<h1><span class="ES">Proceso de creación de la página</span></h1>
 	</div>
