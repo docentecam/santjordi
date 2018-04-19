@@ -168,16 +168,16 @@
 </div>	
 
 <diV class="row mx-0">
-<div class="col-lg-10 offset-lg-1 mt-3 mb-3 px-5 py-2" id="nosaltres">
+	<div class="col-lg-10 offset-lg-1 mt-3 mb-3 px-5 py-2" id="nosaltres">
 		<div class="row">
 
-			<div class="col-lg-3">
+			<div class="col-md-6 col-lg-3">
 				<div class="web_persona_arriba">
 					<img src="img/avatars/img_rau.png" class="img-fluid">
 					<p>
 						<b>Raúl Torrico</b>
 						</br>
-						<i>"El boss"</i>
+						<i>"El segurata"</i>
 						</br>
 						<span class="CA">Cap de projecte + index</span>
 						<span class="ES">Jefe de proyecto + index</span>
@@ -197,7 +197,7 @@
 			</div>
 
 
-			<div class="col-lg-3">
+			<div class="col-md-6 col-lg-3">
 				<div class="web_persona_arriba">
 					<img src="img/avatars/img_raq.png" class="img-fluid">
 					<p>
@@ -223,7 +223,7 @@
 			</div>
 
 
-			<div class="col-lg-3">
+			<div class="col-md-6 col-lg-3">
 				<div class="web_persona_arriba">
 					<img src="img/avatars/img_ali.png" class="img-fluid">
 					<p>
@@ -249,7 +249,7 @@
 			</div>
 
 
-			<div class="col-lg-3">
+			<div class="col-md-6 col-lg-3">
 				<div class="web_persona_arriba">
 					<img src="img/avatars/img_osc.png" class="img-fluid">
 					<p>
@@ -275,7 +275,7 @@
 			</div>
 
 		</div>
-</div>
+	</div>
 </diV>
 
 
