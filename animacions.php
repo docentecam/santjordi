@@ -4,7 +4,7 @@
 		<div  class="col-12 d-none d-sm-block txtTitles text-center mb-3"><h1><span class="CA">Les Animacions</span><span class="ES">Las Animaciones</span></h1></div>
 	</div>
 
-		<div class="row"> 
+		<div class="row mx-0"> 
 		    <div class="col-sm-12 col-md-4 col-lg-3">
 				<a class="noLink" href="javascript:mostrarDesglossament('desgAlumAni1');">
 			    	<img class=" col-12 img-fluid" src="img/animacions/animacio1_lg.jpg" alt="" title="">

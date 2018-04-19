@@ -5,7 +5,7 @@
 			<h1>Els cartells</h1>
 		</div>
 	</div>
-	<div class="row">
+	<div class="row mx-0">
 		<div class="col-12 col-md-4 col-lg-3">
 			<a class="noLink" href="javascript:mostrarDesglossament('desgAlum1');">
 				<div class="col-md-8 text-center offset-2">
