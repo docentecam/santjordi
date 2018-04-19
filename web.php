@@ -139,6 +139,18 @@
 </div>
 
 
+<diV class="row mx-0">
+<div class="col-lg-8 offset-lg-2 mt-lg-3 mb-3 px-md-5 py-md-2" id="nosaltres">
+		<div class="row">	
+		<div class="col-lg-3 pr-lg-5">
+
+
+
+		</div>
+		</div>
+</div>
+</diV>
+
 
 <?php include("inc/footer.php");?>
 

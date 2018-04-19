@@ -149,10 +149,16 @@ a.noLink:link, a.noLink:visited,a.noLink:hover,a.noLink:active{
 }
 
 .imgfestivitats{
-	border-radius: 5px;
+	border-radius: 10px;
 }
+
 .borderFooter{
 	border-top: 2px solid #E2E2E2;
+}
+
+#nosaltres {
+	background-color: green;
+	border-radius: 10px;
 }
 
 @media (max-width: 575px){
