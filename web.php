@@ -179,7 +179,8 @@
 						</br>
 						<i>"El boss"</i>
 						</br>
-						Cap de projecte + index
+						<span class="CA">Cap de projecte + index</span>
+						<span class="ES">Jefe de proyecto + index</span>
 					</p>
 				</div>
 				<div class="web_persona_abajo">
@@ -189,7 +190,8 @@
 						</br>
 						<i>"El becario"</i>
 						</br>
-						Barra de navegació
+						<span class="CA">Barra de navegació</span>
+						<span class="ES">Barra de navegación</span>
 					</p>
 				</div>
 			</div>
@@ -203,7 +205,8 @@
 						</br>
 						<i>"La cucu"</i>
 						</br>
-						Pàgina Les Festivitats
+						<span class="CA">Pàgina Festivitat</span>
+						<span class="ES">Página Festividad</span>
 					</p>
 				</div>
 				<div class="web_persona_abajo">
@@ -213,7 +216,8 @@
 						</br>
 						<i>"El amigo"</i>
 						</br>
-						Pàgina La Llegenda
+						<span class="CA">Pàgina Llegenda</span>
+						<span class="ES">Página Leyenda</span>
 					</p>
 				</div>
 			</div>
@@ -227,7 +231,8 @@
 						</br>
 						<i>"The freshman"</i>
 						</br>
-						Support
+						<span class="CA">Ajudant de projecte</span>
+						<span class="ES">Ayudante de proyecto</span>
 					</p>
 				</div>
 				<div class="web_persona_abajo">
@@ -237,7 +242,8 @@
 						</br>
 						<i>"El pro"</i>
 						</br>
-						Pàgina Els Cartells
+						<span class="CA">Pàgina Els Cartells</span>
+						<span class="ES">Página Los Carteles</span>
 					</p>
 				</div>
 			</div>
@@ -251,7 +257,8 @@
 						</br>
 						<i>"El healthy"</i>
 						</br>
-						Pàgina La Web
+						<span class="CA">Pàgina La Web</span>
+						<span class="ES">Página La Web</span>
 					</p>
 				</div>
 				<div class="web_persona_abajo">
@@ -261,7 +268,8 @@
 						</br>
 						<i>"The lovable"</i>
 						</br>
-						Pàgina Les Animacions
+						<span class="CA">Pàgina Les Animacions</span>
+						<span class="ES">Página Las Animaciones</span>
 					</p>
 				</div>
 			</div>
