@@ -4,8 +4,10 @@
 	<div class="col-12 d-none d-sm-block txtTitles text-center mb-5"><h1>Procés de creació de la pàgina</h1></div>
 </div>
 	<div class="col-lg-8 offset-lg-2 mb-5 ">
-		<img class="img-fluid borderRound" src="img/fotoEnGrupoPaint.jpg">
-		<h5 class="text-center ml-3 mr-3"><span class="CA">Hello world! Som el Rafat, <b>l’Andrea, el Raúl, la Raquel, l’Oscar, el Santi i la Clàudia</b>, els creadors d’aquesta pàgina web. Formem part de l'especialitat de desenvolupament d'app i web apps, dins del projecte de Treballs als barris de la Casa d’Oficis de Barcelona Activa.</h5></span>
+		<div>
+		<a href="alumnesWeb.php" target="_blank"><img class="img-fluid borderRound  mt-2 mb-1" src="img/fotoEnGrupoPaint.jpg"></a>
+		</div>
+		<h5 class="text-center ml-3 mr-3"><span class="CA">¡Hello world! <b>Som el Rafat, l’Andrea, el Raúl, la Raquel, l’Oscar, el Santi i la Clàudia</b>, els creadors d’aquesta pàgina web. Formem part de l'especialitat de desenvolupament d'app i web apps, dins del projecte de Treballs als barris de la Casa d’Oficis de <b>Barcelona Activa.</b></h5></span>
 	</div>
 	<div class="col-lg-8 offset-lg-2">  
 		<div class="row">
