@@ -1,5 +1,5 @@
 <?php include("inc/head.php");?>
-	<diV class="row">
+	<diV class="row mx-0">
 
 		<div class="col-12 col-lg-8 offset-lg-2 mt-lg-3 mb-3 px-md-5 py-md-2" id="festivitats">
 

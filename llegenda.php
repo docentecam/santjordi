@@ -1,5 +1,5 @@
 <?php include("inc/head.php");?>
-	<div class="row row-eq-height row1">
+	<div class="row row-eq-height row1 mx-0">
 		<div class="col-lg-10 col-xl-8 offset-lg-1 offset-xl-2 mt-3 mb-3 px-5 py-2" id="llegenda">
 			<span class="ES"><h1 class="txtTitles">La leyenda de Sant Jordi</h1></span>
 			<span class="CA"><h1 class="txtTitles">La llegenda de Sant Jordi</h1></span>

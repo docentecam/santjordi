@@ -158,7 +158,7 @@ a.noLink:link, a.noLink:visited,a.noLink:hover,a.noLink:active{
 @media (max-width: 575px){
 	nav{
 	background-repeat: no-repeat!important;
-}
+	}
 	.txtWeb{
 		font-size: 17px;
 	}
@@ -184,7 +184,7 @@ a.noLink:link, a.noLink:visited,a.noLink:hover,a.noLink:active{
 	.santmt3{
 		margin-top: 1rem!important;
 	}
-		.txtBorders{
+	.txtBorders{
 		font-size:12px;
 	}
 }
@@ -250,7 +250,7 @@ a.noLink:link, a.noLink:visited,a.noLink:hover,a.noLink:active{
 	.santmt3{
 		margin-top: 1rem!important;
 	}
-		.txtBorders{
+	.txtBorders{
 		font-size:13px;
 	}
 }
@@ -278,8 +278,8 @@ a.noLink:link, a.noLink:visited,a.noLink:hover,a.noLink:active{
 		font-weight: 500;
 	}
 	.cartellEspai{
-	margin-top:20px;
-}
+		margin-top:20px;
+	}
 }
 @media (min-width: 1200px){
 	.txtWeb{
@@ -306,5 +306,5 @@ a.noLink:link, a.noLink:visited,a.noLink:hover,a.noLink:active{
 	}	
 	.cartellEspai{
 		margin-top:20px;
-}
+	}
 }
