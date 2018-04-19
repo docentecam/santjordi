@@ -5,34 +5,42 @@
 </div>
 	<div class="col-lg-8 offset-lg-2 mb-5 ">
 		<div>
-		<a href="alumnesWeb.php" target="_blank"><img class="img-fluid borderRound  mt-2 mb-1" src="img/fotoEnGrupoPaint.jpg"></a>
+			<a href=""><img class="img-fluid borderRound  mt-2 mb-1" src="img/fotoEnGrupoPaint.jpg"></a>
 		</div>
 		<h5 class="text-center ml-3 mr-3"><span class="CA">¡Hello world! <b>Som el Rafat, l’Andrea, el Raúl, la Raquel, l’Oscar, el Santi i la Clàudia</b>, els creadors d’aquesta pàgina web. Formem part de l'especialitat de desenvolupament d'app i web apps, dins del projecte de Treballs als barris de la Casa d’Oficis de <b>Barcelona Activa.</b></h5></span>
 	</div>
 	<div class="col-lg-8 offset-lg-2">  
 		<div class="row">
-			<div class="col-lg-5 mb-4 mt-2">
+			<div class="col-12 col-lg-5 mb-4 mt-2">
 				<a href="javascript:mostrarDesglossament('desgWeb1');">
 					<img src="img/definicióProjecteoriginal.jpg" class="img-fluid borderRound"></a>
-					<h5 class="text-center">1-Iniciar el projecte</h5>
+					<h5 class="text-center"><span class="CA">1-Iniciar el projecte</span></h5>
 			</div>
 			
+
+			
+
 			<div class="col-lg-5 offset-lg-2 mt-2">
+
 				<a href="javascript:mostrarDesglossament('desgWeb2');">
 					<img src="img/Capturamockingboot2.JPG" class="img-fluid borderRound"></a>
-					<h5 class="text-center">2-Crear una estructura</h5>	
+					<h5 class="text-center"><span class="CA">2-Crear una estructura</h5></span>	
 			</div>
 		</div>
 		<div class="row">
-			<div class="col-lg-5 mt-3">
+			<div class="col-12 col-lg-5 mt-3">
 			<a href="javascript:mostrarDesglossament('desgWeb3');">
 				<img src="img/Capturahangoutconferencia2.JPG" class="img-fluid borderRound"></a>
-					<h5 class="text-center">3-Posar en comú</h5>
+					<h5 class="text-center"><span class="CA">3-Posar en comú</h5></span>
 			</div>
+
+			
+
 			<div class="col-lg-5 offset-lg-2 mt-3">
+
 			<a href="javascript:mostrarDesglossament('desgWeb4');">	
 				<img src="img/Capturafilezila4.JPG" class="img-fluid borderRound"></a>
-					<h5 class="text-center">4-Finalitzar el projecte</h5>
+					<h5 class="text-center"><span class="CA">4-Finalitzar el projecte</h5></span>
 			</div>
 		</div>
 	</div>
@@ -45,9 +53,8 @@
 	</div>
 
 <div class="row">
-	<div class="row">
-		
-		<div class="col-12 offset-10 d-none d-sm-block txtTitles text-center mb-5"><h1>Inici del projecte</h1></div>
+	<div class="col-12 d-none d-sm-block txtTitles text-center ">
+			<h1>Inici del projecte</h1>
 	</div>
 	<div class="row">	
 		<div class="col-lg-4 offset-2 mt-5 text-center">
@@ -69,18 +76,29 @@
 			<img src="img/definicióProjecteoriginal.jpg" class="img-fluid borderRound">
 		</div>
 	</div>
-</div>
-<div class="row">
-	
+
 </div>
 </div>	
 <div id=desgWeb2 class="row mostraDiv">
 	<div class="col-12">
 			<a href="javascript:tancarDesglossament('desgWeb2');"><img src="img/cartells/proposta2TancarReduida.png" class="img-fluid"></a>
 	</div>
-	<p>
-		A l’hora de fer un esquema de com volem que sigui la pàgina, fem servir el programa Mockingbot un dels programas més utilizats pels maquetadors i disenyadors. Aquest programa ens dóna eines que ens faciliten crear l’estructura o wireframe, on apareixeran tots els elements visuals de la web. Els elements poden anar des d’un menú a la capçalera amb opcions de navegació, a un peu de pàgina amb els logotips corporatius, entre altres. En altres paraules l'aplicació Moockingbot ens permet visualitzar gràficament com quedaria la pàgina web (l'estructura) en aquest la web de Sant Jordi.
-	</p>
+	<div class="col-12 d-none d-sm-block txtTitles text-center ">
+			<h1>Creció de la estructura</h1>
+	</div>
+<div class="row">
+	<div class="col-lg-7 offset-3 mt-5 text-center">
+		<p>
+			A l’hora de fer un esquema de com volem que sigui la pàgina, fem servir el programa Mockingbot un dels programas més utilizats pels maquetadors i disenyadors. Aquest programa ens dóna eines que ens faciliten crear l’estructura o wireframe, on apareixeran tots els elements visuals de la web. Els elements poden anar des d’un menú a la capçalera amb opcions de navegació, a un peu de pàgina amb els logotips corporatius, entre altres. En altres paraules l'aplicació Mockingbot ens permet visualitzar gràficament com quedaria la pàgina web (l'estructura) en aquest la web de Sant Jordi.
+		</p>
+	</div>
+	<div class="col-lg-4 offset-3 mt-3 text-center">
+		<img src="img/Capturamockingboot2.JPG" class="img-fluid borderRound">
+	</div>	
+	<div class="col-lg-3  mt-3 text-center">
+		<img src="img/Capturamockingbot4.JPG" class="img-fluid borderRound">
+	</div>	
+</div>
 </div>
 <div id="desgWeb3" class="row mostraDiv">
 	<div class="col-12 ">
@@ -113,7 +131,12 @@
 	</div>
 </div>	
 
-
+<div id="demoLightbox" class="lightbox hide fade"  tabindex="-1" role="dialog" aria-hidden="true">
+	<div class='lightbox-content'>
+		<img src="img/23px-Flag_of_Catalonia.png">
+		<div class="lightbox-caption"><p>Your caption here</p></div>
+	</div>
+</div>
 
 
 
