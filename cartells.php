@@ -13,6 +13,103 @@
 		</div>
 	</div>
 	<div class="row">
+
+		<div class="col-12 col-md-4 col-lg-3">
+			<div class="col-md-8 text-center offset-2"> <img src="img/cartells/cartell1.png" class="img-fluid" onclick="agrandaDiv(1);"> </div>
+			<div class="col-10 text-center mx-2 "> Marina Aguiló </div>
+			<div id="myModal1" class="modal">
+			  	<div class="close col-12 d-flex justify-content-end">
+					<img src="img/cartells/proposta2TancarReduida.png" class="img-fluid" onclick="tancaDiv(1);">
+			 	</div>
+			  	<!-- <img class="modal-content" id="img01"> -->
+			  	<div class="row">
+					<div class="col-12 col-md-4 col-lg-4 offset-lg-1 mt-lg-4"><img src="img/cartells/cartellAlumne1.png" class="img-fluid"></div>
+					<div class="col-12 col-lg-4 mt-lg-4 ml-lg-3">
+						<div class="col-12 col-lg-12 d-flex align-items-end"><img src="img/cartells/cartellFoto1.png" class="img-fluid " >&nbsp;&nbsp;&nbsp;Marina Aguiló</div>
+						<div class="col-12 col-lg-12 mt-lg-4 textWhite">
+							<p>
+									<span class="CA textWhite">
+										Els llibres et transporten a un món de fantasia i imaginació al mateix temps que et permeten viure mil històries. 
+										El meu pòster de Sant Jordi representa una nena llegint.La nena es troba pujada a una escala tan llarga que arriba als núvols.Durant la lectura, un dels núvols es transforma en un drac. Els núvols estan fets amb plastilina i posteriorment fotografiats.
+									</span>
+									<span class="ES textWhite">
+										Los libros te transportan a un mundo de fantasía e imaginación al mismo tiempo que te permiten vivir mil historias. Mi póster de Sant Jordi representa una niña leyendo.La niña se encuentra subida en una escalera tan larga que llega a las nubes.Durante la lectura, una de las nubes se transforma en un dragón. 
+										Las nubes están hechas con plastilina y posteriormente fotografiadas.
+									</span>
+								</p>
+						</div>
+					</div>	
+				</div>
+			</div>
+		</div>
+
+		<div class="col-12 col-md-4 col-lg-3">
+			<div class="col-md-8 text-center offset-2"> <img src="img/cartells/cartell2.png" class="img-fluid" onclick="agrandaDiv(2);"> </div>
+			<div class="col-10 text-center mx-2 "> Rebeca Burgos </div>
+			<div id="myModal2" class="modal">
+			  	<div class="close col-12 d-flex justify-content-end">
+					<img src="img/cartells/proposta2TancarReduida.png" class="img-fluid" onclick="tancaDiv(2);">
+			 	</div>
+			  	<!-- <img class="modal-content" id="img01"> -->
+			  	<div class="row">
+					<div class="col-12 col-md-4 col-lg-4 offset-lg-1 mt-lg-4"><img src="img/cartells/cartellAlumne2.png" class="img-fluid"></div>
+					<div class="col-12 col-lg-4 mt-lg-4 ml-lg-3">
+						<div class="col-12 col-lg-12 d-flex align-items-end"><img src="img/cartells/cartellFoto2.png" class="img-fluid " >&nbsp;&nbsp;&nbsp;Rebeca Burgos</div>
+						<div class="col-12 col-lg-12 mt-lg-4 textWhite">
+							<p>
+								<span class="CA textWhite">
+									El drac petit, fet de plastilina, intenta acostar als nens als llibres i veure que els monstres poden ser adorables.La resta del cartell està realitzat amb Photoshop i Illustrator, donant l'efecte de plastilina per unificar-ho tot.
+								</span>
+								<span class="ES textWhite">
+									El dragón pequeño, hecho de plastilina, intenta acercar a los niños a los libros y ver que los monstruos pueden ser monos.El resto del cartel está realizado con Photoshop e Illustrator, dando efecto de plastilina para unificarlo todo.
+								</span> 
+							</p>
+						</div>
+					</div>	
+				</div>
+			</div>
+		</div>
+
+		<div class="col-12 col-md-4 col-lg-3">
+			<div class="col-md-8 text-center offset-2"> <img src="img/cartells/cartell3.png" class="img-fluid" onclick="agrandaDiv(3);"> </div>
+			<div class="col-10 text-center mx-2 "> Mari Cazorla </div>
+			<div id="myModal3" class="modal">
+			  	<div class="close col-12 d-flex justify-content-end">
+					<img src="img/cartells/proposta2TancarReduida.png" class="img-fluid" onclick="tancaDiv(3);">
+			 	</div>
+			  	<!-- <img class="modal-content" id="img01"> -->
+			  	<div class="row">
+					<div class="col-12 col-md-4 col-lg-4 offset-lg-1 mt-lg-4"><img src="img/cartells/cartellAlumne3.png" class="img-fluid"></div>
+					<div class="col-12 col-lg-4 mt-lg-4 ml-lg-3">
+						<div class="col-12 col-lg-12 d-flex align-items-end"><img src="img/cartells/cartellFoto3.png" class="img-fluid " >&nbsp;&nbsp;&nbsp;Mari Cazorla</div>
+						<div class="col-12 col-lg-12 mt-lg-4 textWhite">
+							<p>
+								<span class="CA textWhite">
+									Amb aquest projecte artístic volia barrejar una tècnica digital juntament amb una tècnica molt més manual, 
+									representant la cua del drac de Sant Jordi que s'acaba transformant en una rosa. M'interessava fer una transició d'ambdues tècniques jugant amb els colors, textures i ombres.
+								</span>
+								<span class="ES textWhite">
+									Con este proyecto artístico quería mezclar una técnica digital junto con una técnica mucho más manual, representando la cola del dragón de Sant Jordi que se acaba transformando en una rosa. 
+									Me interesaba hacer una transición de ambas técnicas jugando con los colores, texturas y sombras.
+								</span>
+							</p>
+						</div>
+					</div>	
+				</div>
+			</div>
+		</div>
+
+
+
+
+
+		<!-- TODO QUITAR SALTO LÍNEA UNA VEZ IMPLEMENTADO TODO EN MODAL'S. -->
+		<div class="row"><div class="col-12">&nbsp;</div></div>
+
+
+
+
+
 		<!-- TODO:opacitat w3school estructura-->
 		<div class="col-12 col-md-4 col-lg-3">
 			<div class="col-md-8 text-center offset-2">
