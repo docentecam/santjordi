@@ -21,7 +21,7 @@
 		      	<a href="llegenda.php"><img class="img-fluid" src="img/carousel_lleg.jpg" alt="Accès a la llegenda"></a>
 		    </div>
 		    <div id="carouselImg3" class="carousel-item">
-		     	<a href="festivitat.php"><img class="img-fluid" src="img/carousel_fest.jpg" alt="Accès a la festivitat"></a> 
+		     	<a href="festivitat.php"><img class="img-fluid" src="img/carousel_fest.png" alt="Accès a la festivitat"></a> 
 		    </div>
 		 </div>
 		 <a class="carousel-control-prev" href="#carouselSantJordi" role="button" data-slide="prev">

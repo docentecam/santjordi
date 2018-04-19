@@ -31,16 +31,13 @@
 					<!-- TODO: copy -->
 					<div class="col-12 col-lg-4 mt-lg-4 ml-lg-3">
 							<!-- TODO: copy -->
-							<div class="col-12 col-lg-12 d-flex align-items-end">
-								<img src="img/cartells/cartellFoto1.png" class="img-fluid " ><span class="textWhite">&nbsp;&nbsp;&nbsp;Marina Aguiló</span>
+							<div class="col-12 col-lg-12 d-flex align-items-end" style="color:#FFFFFF;">
+								<img src="img/cartells/cartellFoto1.png" class="img-fluid " >&nbsp;&nbsp;&nbsp;Marina Aguiló
 							</div>
-							<div class="col-12 col-lg-12 mt-lg-4">
+							<div class="col-12 col-lg-12 mt-lg-4" style="color:#FFFFFF;">
 								<p>
-									<span class="textWhite">
-										Els llibres et transporten a un món de fantasia i imaginació al mateix temps que et permeten viure mil històries. 
-										El meu pòster de Sant Jordi representa una nena llegint.La nena es troba pujada a una escala tan llarga que arriba als núvols.Durant la lectura, un dels núvols es transforma en un drac. Els núvols estan fets amb plastilina i posteriorment fotografiats.
-									</span>
-										
+									Els llibres et transporten a un món de fantasia i imaginació al mateix temps que et permeten viure mil històries. 
+									El meu pòster de Sant Jordi representa una nena llegint.La nena es troba pujada a una escala tan llarga que arriba als núvols.Durant la lectura, un dels núvols es transforma en un drac. Els núvols estan fets amb plastilina i posteriorment fotografiats.
 								</p>
 							</div>
 					</div>	
