@@ -1,6 +1,7 @@
 <?php include ("inc/head.php");?>
 
 <div class="row">
+<<<<<<< HEAD
 	<div class="col-12 d-none d-sm-block txtTitles text-center mb-5"><h1><span class="CA">Procés de creació de la pàgina</span></h1>
 	<h1><span class="ES">Proceso de creación de la página</span></h1>
 	</div>
@@ -8,7 +9,6 @@
 	<div class="col-lg-8 offset-lg-2 mb-5 ">
 		<img class="img-fluid borderRound" src="img/fotoEnGrupoPaint.jpg">
 		<h5 class="text-center ml-3 mr-3"><span class="CA">Hello world! Som el Rafat, <b>l’Andrea, el Raúl, la Raquel, l’Oscar, el Santi i la Clàudia</b>, els creadors d’aquesta pàgina web. Formem part de l'especialitat de desenvolupament d'app i web apps, dins del projecte de Treballs als barris de la Casa d’Oficis de Barcelona Activa.</h5></span><h5><span class="ES">Hello world! Somos  <b>Rafat, Andrea, Raúl, Raquel, Oscar, Santi y Clàudia</b>, los creadores de esta página web. Formamos parte de la especialidad de desarrollo de app y web apps, dentro del proyecto de Treballs als barris de la Casa d’Oficis de Barcelona Activa.</span></h5>
-
 	</div>
 	<div class="col-lg-8 offset-lg-2">  
 		<div class="row">
@@ -168,13 +168,24 @@
 	</div>
 </div>	
 
-<div id="demoLightbox" class="lightbox hide fade"  tabindex="-1" role="dialog" aria-hidden="true">
-	<div class='lightbox-content'>
-		<img src="img/23px-Flag_of_Catalonia.png">
-		<div class="lightbox-caption"><p>Your caption here</p></div>
-	</div>
+<diV class="row mx-0">
+<div class="col-lg-8 offset-lg-2 mb-3 px-5 py-2" id="nosaltres">
+		<div class="row">	
+		<div class="col-lg-3">
+			<div class="CREAR_CLASE_QUE_SEA_PARA_LA_WEB_LOS_DIVS_INDIVIDUALES">
+				<img src="img/avatars/img_cla.png">
+				<p>
+					nombre apellido
+					</br>
+					"mote en cursiva"
+					</br>
+					las funciones en general
+				</p>
+			</div>
+		</div>
+		</div>
 </div>
-
+</diV>
 
 
 <?php include("inc/footer.php");?>
