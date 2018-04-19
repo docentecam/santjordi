@@ -31,9 +31,9 @@
 						      
 						      		<a class="dropdown-item" href="llegenda.php">
 						      	
-						      				<span class="CA">Llegenda</span>
+						      				<span class="CA" style="display: none">Llegenda</span>
 						      	
-						      				<span class="ES">Leyenda</span>
+						      				<span class="ES" style="display: none">Leyenda</span>
 						  		
 						  			</a>
 						      
@@ -65,9 +65,9 @@
 				   			
 				   			<a class="nav-link text-white" href="animacions.php">
 				   				
-				   					<span class="CA">Les Animacions</span>
+				   					<span class="CA" style="display: none">Les Animacions</span>
 
-				   					<span class="ES">Las Animaciones</span>
+				   					<span class="ES" style="display: none">Las Animaciones</span>
 
 				   				</a>
 				  		
