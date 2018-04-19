@@ -11,6 +11,10 @@
 }
 #myImg:hover {opacity: 0.7;}
 
+span.textWhite{
+	color:#FFFFFF;
+}
+
 .modal {
     display: none; /* Hidden by default */
     position: fixed; /* Stay in place */
