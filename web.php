@@ -131,14 +131,6 @@
 	</div>
 </div>	
 
-<div id="demoLightbox" class="lightbox hide fade"  tabindex="-1" role="dialog" aria-hidden="true">
-	<div class='lightbox-content'>
-		<img src="img/23px-Flag_of_Catalonia.png">
-		<div class="lightbox-caption"><p>Your caption here</p></div>
-	</div>
-</div>
-<a data-toggle="lightbox" href="#demoLightbox">Open Lightbox</a>
-
 <diV class="row mx-0">
 <div class="col-lg-8 offset-lg-2 mt-lg-3 mb-3 px-md-5 py-md-2" id="nosaltres">
 		<div class="row">	
