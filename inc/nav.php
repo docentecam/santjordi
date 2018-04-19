@@ -39,9 +39,9 @@
 						      
 						      		<a class="dropdown-item" href="festivitat.php">
 
-						      			<span class="CA">Festivitat</span>
+						      			<span class="CA" style="display: none">Festivitat</span>
 
-										<span class="ES">Festividad</span>
+										<span class="ES" style="display: none">Festividad</span>
 
 						      		</a>
 						   
@@ -53,9 +53,9 @@
 							
 							<a class="nav-link text-white" href="cartells.php">
 
-									<span class="CA">Els Cartells</span>
+									<span class="CA" style="display: none">Els Cartells</span>
 
-									<span class="ES">Los Carteles</span>
+									<span class="ES" style="display: none">Los Carteles</span>
 
 							</a>
 						

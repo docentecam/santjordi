@@ -7,6 +7,8 @@ $( document ).ready(function() {
    	{
    		console.log("Hay cookie");
    	}
+   	objetosCA=document.getElementsByClassName("CA");
+	objetosES=document.getElementsByClassName("ES");
    	mostrarIdiomes();
    	//document.cookie = 'selIdi' +  '=; expires=Thu, 01-Jan-70 00:00:01 GMT;';
 });
