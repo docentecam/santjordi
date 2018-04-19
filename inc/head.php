@@ -9,7 +9,9 @@
 		<link rel="stylesheet" type="text/css" href="css/style.css">
 		<link rel="icon" href="img/favicon.png" type="image/x-icon">
 		<script type="text/javascript">
-			
+			$('#myModal').on('shown.bs.modal', function () {
+  				$('#myInput').trigger('focus')
+			})
 			function mostrarDesglossament(idDiv) {
 	            divMostrar = document.getElementById(idDiv);
 	            divMostrar.style.display = 'block';
