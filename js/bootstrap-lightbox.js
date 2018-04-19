@@ -6,7 +6,6 @@
 !function ($) {
 	"use strict";
 
-
 /* LIGHTBOX CLASS DEFINITION
  * ========================= */
 
@@ -37,7 +36,7 @@
 			}
 		});
 	};
-
+	$('#myLightbox').lightbox(options)
 	// We have to have a copy of this since we are tweaking it a bit
 	Lightbox.prototype.show = function()
 	{
