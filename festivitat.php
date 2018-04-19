@@ -44,16 +44,16 @@
 
 						<span class="ES">
 						La fiesta de Sant Jordi se celebra el 23 de abril en Cataluña. La tradición indica que durante este día se debe regalar una rosa o un libro a la persona de la que estés enamorada.</br></br>
-						Esta festividad se aprecia notablemente en las calles; estas se llenan de paraditas donde venden libros y rosas, así como también se convocan actividades al aire libre (sardanas, castellers, exposiciones, entre otros).</br></br>
+						Esta festividad se aprecia notablemente en las calles; éstas se llenan de paraditas donde venden libros y rosas, así como también se convocan actividades al aire libre (sardanas, castellers, exposiciones, entre otros).</br></br>
 						El 23 de abril también es considerado como el día internacional del libro, por lo cual muchos escritores firman sus libros durante este día.
 						</span>
 					</p>
 				</div>	
-				<div class="col-12 col-lg-6 pr-lg-5 imgSize fill mb-2 order-1 d-lg-none"><br/><img src="img/santJordiEscola_movil.jpg" class="imgfestivitats img-fluid"></div>
-				<div class="col-12 col-lg-6 pr-lg-5 imgSize fill mb-2 order-1 order-lg-4 d-none d-lg-block"><br/><img src="img/santJordiEscola.jpg" class="imgfestivitats img-fluid"></div>
-
-				<div class="col-12 col-lg-6 pl-lg-5 imgSize fill order-4 d-lg-none"><br/><img src="img/santJordiCarrer_movil.jpg" class="imgfestivitats img-fluid"></div>
-				<div class="col-12 col-lg-6 pl-lg-5 imgSize fill order-4 order-lg-5 d-none d-lg-block"><br/><img src="img/santJordiCarrer.jpg" class="imgfestivitats img-fluid"></div>
+				<br/><div class="col-12 col-lg-6 pr-lg-5 imgSize fill mb-2 order-1 d-lg-none"><img src="img/santJordiEscola_movil.jpg" class="imgfestivitats img-fluid"></div>
+				<div class="col-12 col-lg-6 pr-lg-5 imgSize fill mb-2 order-1 order-lg-4 d-none d-lg-block"><img src="img/santJordiEscola.jpg" class="imgfestivitats img-fluid"></div>
+				<br/>
+				<div class="col-12 col-lg-6 pl-lg-5 imgSize fill mb-2 order-4 d-lg-none"><img src="img/santJordiCarrer_movil.jpg" class="imgfestivitats img-fluid"></div>
+				<div class="col-12 col-lg-6 pl-lg-5 imgSize fill mb-2 order-4 order-lg-5 d-none d-lg-block"><img src="img/santJordiCarrer.jpg" class="imgfestivitats img-fluid"></div>
 			</div>
 		</div>
 	</diV>		

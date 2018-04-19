@@ -135,20 +135,20 @@ a.noLink:link, a.noLink:visited,a.noLink:hover,a.noLink:active{
 	top:0%; 
 	bottom:0%;
 	z-index: 10; 
-	background-color: #0A0A0A;
+	background-color: #00BFFF;
 	/*opacity: 0.5;*/
 	/*background-color:  #f0cbd8;*/
 	/*background-color:#FDF4E3;*/
 	/**/
 	/*font-family: 'Open Sans', sans-serif;*/
 }
-.mostrarDiv2
+/*.mostrarDiv2
 {
 	z-index: 11; 
 	width: 60%!important;
 	margin-left: 10%!important;
 	background-color: yellow!important; 
-	opacity: 1!important;
+	opacity: 1!important;*/
 }
 .imgSize{
 	padding: 10px;
@@ -227,11 +227,31 @@ a.noLink:link, a.noLink:visited,a.noLink:hover,a.noLink:active{
 }
 
 .imgfestivitats{
-	border-radius: 5px;
+	border-radius: 10px;
 }
+
 .borderFooter{
 	border-top: 2px solid #E2E2E2;
 }
+
+#nosaltres {
+	background-color: #E7F3E3;
+	border-radius: 10px;
+}
+
+.web_persona_arriba {
+	align-items: center;
+	text-align: center;
+	margin-bottom: 70px;
+	margin-top: 30px;
+}
+
+.web_persona_abajo {
+	align-items: center;
+	text-align: center;
+	margin-bottom: 20px;
+}
+
 
 @media (max-width: 575px){
 	nav{

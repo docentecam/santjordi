@@ -1,15 +1,15 @@
 <?php include("inc/head.php");?>
 	<div class="row">
 
-		<div  class="col-12 d-none d-sm-block txtTitles text-center mb-3"><h1><span class="CA">Les Animacions</span><span class="ES">Las Animaciones</span></h1></div>
+		<div  class="col-12 d-none d-sm-block txtTitles text-center mb-3"><h1><span class="CA" style="display:none;">Les Animacions</span><span class="ES" style="display:none;">Las Animaciones</span></h1></div>
 	</div>
 
-		<div class="row"> 
+		<div class="row mx-0"> 
 		    <div class="col-sm-12 col-md-4 col-lg-3">
 				<a class="noLink" href="javascript:mostrarDesglossament('desgAlumAni1');">
 			    	<img class=" col-12 img-fluid" src="img/animacions/animacio1_lg.jpg" alt="" title="">
 			    </a>
-				  	<div  class="col-12 text-center"><span class="CA"><b>Titol animaciò</b></span><span class="ES"><b>tìtulo animaciones</b></span></div>
+				  	<div  class="col-12 text-center"><span class="CA" style="display:none;"><b>Titol animaciò</b></span><span class="ES" style="display:none;"><b>tìtulo animaciones</b></span></div>
 				    <div class="col-12 text-center mb-4">Nom Alumne Primer Cognom 1</div>
 				
 		    </div>
@@ -17,7 +17,7 @@
 				<a class="noLink" href="javascript:mostrarDesglossament('desgAlumAni2');">
 			    	<img class=" col-12 img-fluid" src="img/animacions/animacio2_lg.jpg" alt="" title="">
 			    </a>
-				  	<div class="col-12 text-center"><span class="CA"><b>Titol Animació</b></span><span class="ES"><b>tìtulo animaciones</b></span></div>
+				  	<div class="col-12 text-center"><span class="CA" style="display:none;"><b>Titol Animació</b></span><span class="ES" style="display:none;"><b>tìtulo animaciones</b></span></div>
 				    <div class="col-12 text-center mb-4">Nom Alumne Primer Cognom 2</div>
 				
 		    </div>
@@ -25,7 +25,7 @@
 				<a class="noLink" href="javascript:mostrarDesglossament('desgAlumAni3');">
 			    	<img class=" col-12 img-fluid" src="img/animacions/animacio3_lg.jpg" alt="" title="">
 			    </a>
-				  	<div class="col-12 text-center "><span class="CA"><b>Titol Animació</b></span><span class="ES"><b>tìtulo animaciones</b></span></div>
+				  	<div class="col-12 text-center "><span class="CA" style="display:none;"><b>Titol Animació</b></span><span class="ES" style="display:none;"><b>tìtulo animaciones</b></span></div>
 				    <div class="col-12 text-center mb-4">Nom Alumne Primer Cognom 3</div>
 				
 		    </div>
@@ -33,7 +33,7 @@
 				<a class="noLink" href="javascript:mostrarDesglossament('desgAlumAni4');">
 			    	<img class=" col-12 img-fluid" src="img/animacions/animacio4_lg.jpg" alt="" title="">
 			    </a>
-				  	<div class="col-12 text-center"><span class="CA"><b>Titol Animació</b></span><span class="ES"><b>tìtulo animaciones</b></span></div>
+				  	<div class="col-12 text-center"><span class="CA" style="display:none;"><b>Titol Animació</b></span><span class="ES" style="display:none;"><b>tìtulo animaciones</b></span></div>
 				    <div class="col-12 text-center mb-4">Nom Alumne Primer Cognom 4</div>
 				
 		    </div>
@@ -41,7 +41,7 @@
 				<a class="noLink" href="javascript:mostrarDesglossament('desgAlumAni5');">
 			    	<img class=" col-12 img-fluid" src="img/animacions/animacio5_lg.jpg" alt="" title="">
 			    </a>
-				  	<div class="col-12 text-center"><span class="CA"><b>Titol Animació</b></span><span class="ES"><b>tìtulo animaciones</b></span></div>
+				  	<div class="col-12 text-center"><span class="CA" style="display:none;"><b>Titol Animació</b></span><span class="ES" style="display:none;"><b>tìtulo animaciones</b></span></div>
 				    <div class="col-12 text-center mb-4">Nom Alumne Primer Cognom 5</div>
 				
 		    </div>
@@ -49,7 +49,7 @@
 				<a class="noLink" href="javascript:mostrarDesglossament('desgAlumAni6');">
 			    	<img class=" col-12 img-fluid" src="img/animacions/animacio6_lg.jpg" alt="" title="">
 			    </a>
-				  	<div class="col-12 text-center"><span class="CA"><b>Titol Animació</b></span><span class="ES"><b>tìtulo animaciones</b></span></div>
+				  	<div class="col-12 text-center"><span class="CA" style="display:none;"><b>Titol Animació</b></span><span class="ES" style="display:none;"><b>tìtulo animaciones</b></span></div>
 				    <div class="col-12 text-center mb-4">Nom Alumne Primer Cognom 6</div>
 				
 		    </div>
@@ -57,7 +57,7 @@
 				<a class="noLink" href="javascript:mostrarDesglossament('desgAlumAni7');">
 			    	<img class=" col-12 img-fluid" src="img/animacions/animacio7_lg.jpg" alt="" title="">
 			    </a>
-				  	<div class="col-12 text-center"><span class="CA"><b>Titol Animació</b></span><span class="ES"><b>tìtulo animaciones</b></span></div>
+				  	<div class="col-12 text-center"><span class="CA" style="display:none;"><b>Titol Animació</b></span><span class="ES" style="display:none;"><b>tìtulo animaciones</b></span></div>
 				    <div class="col-12 text-center">Nom Alumne Primer Cognom  7</div>
 				
 		    </div>
@@ -65,7 +65,7 @@
 				<a class="noLink" href="javascript:mostrarDesglossament('desgAlumAni8');">
 			    	<img class=" col-12 img-fluid" src="img/animacions/animacio8_lg.jpg" alt="" title="">
 			    </a>
-				  	<div class="col-12 text-center"><span class="CA"><b>Titol Animació</b></span><span class="ES"><b>tìtulo animaciones</b></span></div>
+				  	<div class="col-12 text-center"><span class="CA" style="display:none;"><b>Titol Animació</b></span><span class="ES" style="display:none;"><b>tìtulo animaciones</b></span></div>
 				    <div class="col-12 text-center mb-4">Nom Alumne Primer Cognom 8</div>
 				
 		    </div>
@@ -92,12 +92,12 @@
 					    </div>
 						<div class="col-8 col-md-3 mt-4 mt-md-2 mt-lg-4 mt-xl-4">
 							<span><h5><b> Nom Alumne Primer Cognom 1 </h5></b></span>
-								<span class="CA">
-								  <p class="mt-sm-2 mt-md-3 mt-lg-5">catalan sit amet, consectetur adipisicing elit, sed do eiusmod
+								<span class="CA" style="display:none;">
+								  <p class="mt-sm-2 mt-md-3 mt-lg-4">catalan sit amet, consectetur adipisicing elit, sed do eiusmod
 								  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 								  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo</p>
 								</span>
-								<span class="ES"><p class="mt-sm-2 mt-md-3 mt-lg-5"></p></span>
+								<span class="ES" style="display:none;"><p class="mt-sm-2 mt-md-3 mt-lg-4"></p></span>
 						</div>  
 				</div>		
 			</div>	
@@ -123,14 +123,14 @@
 					    </div>
 						<div class="col-8 col-md-3 mt-4 mt-md-2 mt-lg-4 mt-xl-4">
 							<span><h5><b>Nom Alumne Primer Cognom 2</h5></b> </span>
-								<span class="CA"><p class="mt-sm-2 mt-md-3 mt-lg-5">
+								<span class="CA" style="display:none;"><p class="mt-sm-2 mt-md-3 mt-lg-4">
 								catalan sit amet, consectetur adipisicing elit, sed do eiusmod
 						      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 						      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
 						      consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
 						      cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 						      proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></span>
-						      <span class="ES"><p class="mt-sm-2 mt-md-3 mt-lg-5"></p></span>
+						      <span class="ES" style="display:none;"><p class="mt-sm-2 mt-md-3 mt-lg-4"></p></span>
 						</div>
 				</div>	 
 			</div>
@@ -155,13 +155,13 @@
 					    </div>
 						<div class="col-8 col-md-3 mt-4 mt-md-2 mt-lg-4 mt-xl-4">
 							<span><h5><b> Nom Alumne Primer Cognom 3</b></h5></span>
-								  <span class="CA"><p class="mt-sm-2 mt-md-3 mt-lg-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+								  <span class="CA" style="display:none;"><p class="mt-sm-2 mt-md-3 mt-lg-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 							      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 							      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
 							      consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
 							      cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 							      proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></span>
-							<span class="ES"><p class="mt-sm-2 mt-md-3 mt-lg-5"></p></span>
+							<span class="ES" style="display:none;"><p class="mt-sm-2 mt-md-3 mt-lg-4"></p></span>
 						</div>
 				</div>
 			</div>
@@ -185,13 +185,13 @@
 					    </div>
 						<div class="col-8 col-md-3  mt-4 mt-md-2 mt-lg-4 mt-xl-4">
 							<span><h5><b> Nom Alumne Primer Cognom  4</b></h5></span>
-							<span><p class="mt-sm-2 mt-md-3 mt-lg-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+							<span><p class="mt-sm-2 mt-md-3 mt-lg-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 						      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 						      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
 						      consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
 						      cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 						      proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></span>
-					      	<span><p class="mt-sm-2 mt-md-3 mt-lg-5"></p></span>
+					      	<span><p class="mt-sm-2 mt-md-3 mt-lg-4"></p></span>
 						</div>
 				</div>
 			</div>
@@ -215,13 +215,13 @@
 					    </div>
 						<div class="col-8 col-md-3  mt-4 mt-md-2 mt-lg-4 mt-xl-4">
 							<span><h5><b> Nom Alumne Primer Cognom 5</b></h5></span>
-							<span class="CA"><p class="mt-sm-2 mt-md-3 mt-lg-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+							<span class="CA" style="display:none;"><p class="mt-sm-2 mt-md-3 mt-lg-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 						      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 						      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
 						      consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
 						      cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 						      proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></span>
-						      <span class="ES"><p class="mt-sm-2 mt-md-3 mt-lg-5"></p></span>
+						      <span class="ES" style="display:none;"><p class="mt-sm-2 mt-md-3 mt-lg-4"></p></span>
 						</div>
 				</div>
 			</div>
@@ -245,13 +245,13 @@
 					    </div>
 						<div class="col-8 col-md-3 mt-4 mt-md-2 mt-lg-4 mt-xl-4">
 							<span><h5><b> Nom Alumne Primer Cognom  6</b></h5></span>
-						     <span class="CA"><p class="mt-sm-2 mt-md-3 mt-lg-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+						     <span class="CA" style="display:none;"><p class="mt-sm-2 mt-md-3 mt-lg-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 						      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 						      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
 						      consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
 						      cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 						      proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></span>
-					        <span class="ES"><p class="mt-sm-2 mt-md-3 mt-lg-5"></p></span>
+					        <span class="ES" style="display:none;"><p class="mt-sm-2 mt-md-3 mt-lg-4"></p></span>
 						</div>
 				</div>
 			</div>
@@ -277,14 +277,14 @@
 					    </div>
 						<div class="col-8 col-md-3  mt-4 mt-md-2 mt-lg-4 mt-xl-4">
 							<span><h5><b> Nom Alumne Primer Cognom  7</b></h5></span>
-								<span class="CA"><p class="mt-sm-2 mt-md-3 mt-lg-5">
+								<span class="CA" style="display:none;"><p class="mt-sm-2 mt-md-3 mt-lg-4">
 								Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 						      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 						      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
 						      consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
 						      cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 						      proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></span>
-					      	<span class="ES"><p class="mt-sm-2 mt-md-3 mt-lg-5"></p></span>
+					      	<span class="ES" style="display:none;"><p class="mt-sm-2 mt-md-3 mt-lg-4"></p></span>
 						</div>
 				</div>
 			</div>
@@ -309,13 +309,13 @@
 						    </div>
 							<div class="col-8 col-md-3  mt-4 mt-md-2 mt-lg-4 mt-xl-4">
 								<span><h5><b> Nom Alumne Primer Cognom 8</b></h5></span>
-									<span class="CA"><p class="mt-sm-2 mt-md-3 mt-lg-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+									<span class="CA" style="display:none;"><p class="mt-sm-2 mt-md-3 mt-lg-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 								      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 								      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
 								      consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
 								      cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 								      proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></span>
-									<span class="ES"><p class="mt-sm-2 mt-md-3 mt-lg-5"></p></span>
+									<span class="ES" style="display:none;"><p class="mt-sm-2 mt-md-3 mt-lg-4"></p></span>
 							</div>
 					</div>
 				</div>

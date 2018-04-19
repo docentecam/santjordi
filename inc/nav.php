@@ -31,17 +31,17 @@
 						      
 						      		<a class="dropdown-item" href="llegenda.php">
 						      	
-						      				<span class="CA">Llegenda</span>
+						      				<span class="CA" style="display: none">Llegenda</span>
 						      	
-						      				<span class="ES">Leyenda</span>
+						      				<span class="ES" style="display: none">Leyenda</span>
 						  		
 						  			</a>
 						      
 						      		<a class="dropdown-item" href="festivitat.php">
 
-						      			<span class="CA">Festivitat</span>
+						      			<span class="CA" style="display: none">Festivitat</span>
 
-										<span class="ES">Festividad</span>
+										<span class="ES" style="display: none">Festividad</span>
 
 						      		</a>
 						   
@@ -53,9 +53,9 @@
 							
 							<a class="nav-link text-white" href="cartells.php">
 
-									<span class="CA">Els Cartells</span>
+									<span class="CA" style="display: none">Els Cartells</span>
 
-									<span class="ES">Los Carteles</span>
+									<span class="ES" style="display: none">Los Carteles</span>
 
 							</a>
 						
@@ -65,9 +65,9 @@
 				   			
 				   			<a class="nav-link text-white" href="animacions.php">
 				   				
-				   					<span class="CA">Les Animacions</span>
+				   					<span class="CA" style="display: none">Les Animacions</span>
 
-				   					<span class="ES">Las Animaciones</span>
+				   					<span class="ES" style="display: none">Las Animaciones</span>
 
 				   				</a>
 				  		
@@ -81,13 +81,13 @@
 				  		
 				  		<li class="nav-item mt-lg-1 ml-lg-5 mr-lg-2 d-none d-lg-block">
 				   			
-				   			<a onclick="canviaIdioma(false)"><img src="img/23px-Flag_of_Catalonia.png"></a>
+				   			<a onclick="canviaIdioma('CA')"><img src="img/23px-Flag_of_Catalonia.png"></a>
 				  		
 				  		</li>
 						
 						<li class="nav-item mt-lg-1 d-none d-lg-block">
 				   			
-				   			<a onclick="canviaIdioma(true)"><img src="img/23px-Flag_of_Spain.png"></a>
+				   			<a onclick="canviaIdioma('ES')"><img src="img/23px-Flag_of_Spain.png"></a>
 				  		
 				  		</li>	
 				 	

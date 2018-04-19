@@ -231,7 +231,7 @@
 						</div>
 						<div class="col-12 col-lg-12 mt-lg-4">
 							<p>
-								En mi póster quería recrear una rosa en su maceta. Para eso, utilizando plastilina, he creado la rosa pétalo a pétalo, intentado que parezca lo más realista posible. Luego, continué con las hojas buscando la textura perfecta con luces y cambié la maceta por un libro echo en plastilina. Por último usando Illustrator substituí el tallo de la rosa por la frase "Sant Jordi 2018".
+								En mi póster quería recrear una rosa en su maceta. Para eso, utilizando plastilina, he creado la rosa pétalo a pétalo, intentado que parezca lo más realista posible. Luego, continué con las hojas buscando la textura perfecta con luces y cambié la maceta por un libro hecho en plastilina. Por último usando Illustrator substituí el tallo de la rosa por la frase "Sant Jordi 2018".
 							</p>
 						</div>
 					</div>	
