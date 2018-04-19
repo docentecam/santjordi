@@ -29,10 +29,10 @@
 					
 					if(idioma) {
 						ocultaCA="none";
-						ocultaES="inline";
+						ocultaES="block";
 					}
 					else{
-						ocultaCA="inline";
+						ocultaCA="block";
 						ocultaES="none";
 					}
 						objetosCA=document.getElementsByClassName("CA");
