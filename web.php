@@ -3,11 +3,11 @@
 <div class="row">
 	<div class="col-12 d-none d-sm-block txtTitles text-center mb-5"><h1>Procés de creació de la pàgina</h1></div>
 </div>
-	<div class="col-lg-8 offset-2 mb-5 ">
+	<div class="col-lg-8 offset-lg-2 mb-5 ">
 		<img class="img-fluid borderRound" src="img/fotoEnGrupoPaint.jpg">
-		<h5 class="text-center ml-3 mr-3"><span class="CA">Hello world! Som el Rafat, l’Andrea, el Raúl, la Raquel, l’Oscar, el Santi i la Clàudia, els creadors d’aquesta pàgina web. Formem part de l'especialitat de desenvolupament d'app i web apps, dins del projecte de Treballs als barris de la Casa d’Oficis de Barcelona Activa.</h5></span>
+		<h5 class="text-center ml-3 mr-3"><span class="CA">Hello world! Som el Rafat, <b>l’Andrea, el Raúl, la Raquel, l’Oscar, el Santi i la Clàudia</b>, els creadors d’aquesta pàgina web. Formem part de l'especialitat de desenvolupament d'app i web apps, dins del projecte de Treballs als barris de la Casa d’Oficis de Barcelona Activa.</h5></span>
 	</div>
-	<div class="col-8 offset-2">
+	<div class="col-lg-8 offset-lg-2">  
 		<div class="row">
 			<div class="col-lg-5 mb-4 mt-2">
 				<a href="javascript:mostrarDesglossament('desgWeb1');">
@@ -15,7 +15,7 @@
 					<h5 class="text-center">1-Iniciar el projecte</h5>
 			</div>
 			
-			<div class="col-lg-5 offset-2 mt-2">
+			<div class="col-lg-5 offset-lg-2 mt-2">
 				<a href="javascript:mostrarDesglossament('desgWeb2');">
 					<img src="img/Capturamockingboot2.JPG" class="img-fluid borderRound"></a>
 					<h5 class="text-center">2-Crear una estructura</h5>	
@@ -27,7 +27,7 @@
 				<img src="img/Capturahangoutconferencia2.JPG" class="img-fluid borderRound"></a>
 					<h5 class="text-center">3-Posar en comú</h5>
 			</div>
-			<div class="col-lg-5 offset-2 mt-3">
+			<div class="col-lg-5 offset-lg-2 mt-3">
 			<a href="javascript:mostrarDesglossament('desgWeb4');">	
 				<img src="img/Capturafilezila4.JPG" class="img-fluid borderRound"></a>
 					<h5 class="text-center">4-Finalitzar el projecte</h5>
