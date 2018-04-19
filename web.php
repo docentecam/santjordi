@@ -1,6 +1,7 @@
 <?php include ("inc/head.php");?>
 
 <div class="row">
+
 	<div class="col-12 d-none d-sm-block txtTitles text-center mb-5">
 		<h1><span class="CA" style="display:none;">Procés de creació de la pàgina</span>
 		<span class="ES" style="display:none;">Proceso de creación de la página</span></h1>
@@ -9,31 +10,40 @@
 	<div class="col-lg-8 offset-lg-2 mb-5 ">
 		<img class="img-fluid borderRound" src="img/fotogrupo2.jpg">
 		<h5 class="text-center ml-3 mr-3"><span class="CA" style="display:none;">Hello world! Som el Rafat, <b>l’Andrea, el Raúl, la Raquel, l’Oscar, el Santi i la Clàudia</b>, els creadors d’aquesta pàgina web. Formem part de l'especialitat de desenvolupament d'app i web apps, dins del projecte de Treballs als barris de la Casa d’Oficis de Barcelona Activa.</span><span class="ES" style="display:none;">Hello world! Somos  <b>Rafat, Andrea, Raúl, Raquel, Oscar, Santi y Clàudia</b>, los creadores de esta página web. Formamos parte de la especialidad de desarrollo de app y web apps, dentro del proyecto de Treballs als barris de la Casa d’Oficis de Barcelona Activa.</span></h5>
+
+	
 	</div>
 	<div class="col-lg-8 offset-lg-2">  
 		<div class="row">
 			<div class="col-12 col-lg-5 mb-4 mt-2">
 				<a href="javascript:mostrarDesglossament('desgWeb1');">
+
 					<img src="img/fotoReunion.JPG" class="img-fluid borderRound"></a>
 					<h5 class="text-center"><span class="CA" style="display:none;">1-Iniciar el projecte</span><span class="ES" style="display:none;">1-Iniciar el proyecto</span></h5>
+
+					
 			</div>
 			<div class="col-lg-5 offset-lg-2 mt-2">
 
 				<a href="javascript:mostrarDesglossament('desgWeb2');">
 					<img src="img/Capturamockingboot2.JPG" class="img-fluid borderRound"></a>
-					<h5 class="text-center"><span class="CA" style="display:none;">2-Crear una estructura</span><span class="ES" style="display:none;">2-Crear una estructura</h5></span>	
+					<h5 class="text-center"><span class="CA" style="display:none;">2-Crear una estructura</span><span class="ES" style="display:none;">2-Crear una estructura</h5></span>		
 			</div>
 		</div>
 		<div class="row">
 			<div class="col-12 col-lg-5 mt-3">
 			<a href="javascript:mostrarDesglossament('desgWeb3');">
+
 				<img src="img/CapturaHangout.JPG" class="img-fluid borderRound"></a>
 					<h5 class="text-center"><span class="CA" style="display:none;">3-Posar en comú</span><span class="ES" style="display:none;">3-Poner en común</span></h5>
+
+				
 			</div>
 
 			
 
 			<div class="col-lg-5 offset-lg-2 mt-3">
+
 
 				<a href="javascript:mostrarDesglossament('desgWeb4');">	
 					<img src="img/Capturafilezila4.JPG" class="img-fluid borderRound"></a>
@@ -168,22 +178,114 @@
 </div>	
 
 <diV class="row mx-0">
-<div class="col-lg-8 offset-lg-2 mb-3 px-5 py-2" id="nosaltres">
-		<div class="row">	
-		<div class="col-lg-3">
-			<div class="CREAR_CLASE_QUE_SEA_PARA_LA_WEB_LOS_DIVS_INDIVIDUALES">
-				<img src="img/avatars/img_cla.png">
-				<p>
-					nombre apellido
-					</br>
-					"mote en cursiva"
-					</br>
-					las funciones en general
-				</p>
+	<div class="col-lg-10 offset-lg-1 mt-3 mb-3 px-5 py-2" id="nosaltres">
+		<div class="row">
+
+			<div class="col-md-6 col-lg-3">
+				<div class="web_persona_arriba">
+					<img src="img/avatars/img_rau.png" class="img-fluid">
+					<p>
+						<b>Raúl Torrico</b>
+						</br>
+						<i>"El segurata"</i>
+						</br>
+						<span class="CA">Cap de projecte + index</span>
+						<span class="ES">Jefe de proyecto + index</span>
+					</p>
+				</div>
+				<div class="web_persona_abajo">
+					<img src="img/avatars/img_san.png" class="img-fluid">
+					<p>
+						<b>Santi Anton</b>
+						</br>
+						<i>"El becario"</i>
+						</br>
+						<span class="CA">Barra de navegació</span>
+						<span class="ES">Barra de navegación</span>
+					</p>
+				</div>
 			</div>
+
+
+			<div class="col-md-6 col-lg-3">
+				<div class="web_persona_arriba">
+					<img src="img/avatars/img_raq.png" class="img-fluid">
+					<p>
+						<b>Raquel Acosta</b>
+						</br>
+						<i>"La cucu"</i>
+						</br>
+						<span class="CA">Pàgina Festivitat</span>
+						<span class="ES">Página Festividad</span>
+					</p>
+				</div>
+				<div class="web_persona_abajo">
+					<img src="img/avatars/img_cla.png" class="img-fluid">
+					<p>
+						<b>Clàudia del Barrio</b>
+						</br>
+						<i>"El amigo"</i>
+						</br>
+						<span class="CA">Pàgina Llegenda</span>
+						<span class="ES">Página Leyenda</span>
+					</p>
+				</div>
+			</div>
+
+
+			<div class="col-md-6 col-lg-3">
+				<div class="web_persona_arriba">
+					<img src="img/avatars/img_ali.png" class="img-fluid">
+					<p>
+						<b>Alix Delcour</b>
+						</br>
+						<i>"The freshman"</i>
+						</br>
+						<span class="CA">Ajudant de projecte</span>
+						<span class="ES">Ayudante de proyecto</span>
+					</p>
+				</div>
+				<div class="web_persona_abajo">
+					<img src="img/avatars/img_raf.png" class="img-fluid">
+					<p>
+						<b>Rafat Alam Durjoy</b>
+						</br>
+						<i>"El pro"</i>
+						</br>
+						<span class="CA">Pàgina Els Cartells</span>
+						<span class="ES">Página Los Carteles</span>
+					</p>
+				</div>
+			</div>
+
+
+			<div class="col-md-6 col-lg-3">
+				<div class="web_persona_arriba">
+					<img src="img/avatars/img_osc.png" class="img-fluid">
+					<p>
+						<b>Oscar Moreno</b>
+						</br>
+						<i>"El healthy"</i>
+						</br>
+						<span class="CA">Pàgina La Web</span>
+						<span class="ES">Página La Web</span>
+					</p>
+				</div>
+				<div class="web_persona_abajo">
+					<img src="img/avatars/img_and.png" class="img-fluid">
+					<p>
+						<b>Andrea Sánchez</b>
+						</br>
+						<i>"The lovable"</i>
+						</br>
+						<span class="CA">Pàgina Les Animacions</span>
+						<span class="ES">Página Las Animaciones</span>
+					</p>
+				</div>
+			</div>
+
 		</div>
-		</div>
-</div>
+	</div>
 </diV>
 
 

@@ -5,7 +5,50 @@
 			<h1>Els cartells</h1>
 		</div>
 	</div>
-	<div class="row mx-0">
+	<div class="row">
+		<!-- TODO:opacitat w3school estructura-->
+		<div class="col-12 col-md-4 col-lg-3">
+			<div class="col-md-8 text-center offset-2">
+				<img id="myImg" src="img/cartells/cartell1.png" class="img-fluid">
+			</div>
+			<div class="col-10 text-center mx-2 ">
+				Marina Aguiló
+			</div>
+			<!-- TODO:opacitat w3school -->
+			<div id="myModal" class="modal">
+			  <!-- The Close Button -->
+			  	<div class="close col-12 d-flex justify-content-end">
+					<img src="img/cartells/proposta2TancarReduida.png" class="img-fluid">
+			 	</div>
+			  <!-- Modal Content (The Image) -->
+			  <img class="modal-content" id="img01">
+			  <!-- Modal Caption (Image Text) -->
+			  	<div class="row">
+					<!-- TODO: copy -->
+					<div class="col-12 col-md-4 col-lg-4 offset-lg-1 mt-lg-4">
+						<img src="img/cartells/cartellAlumne1.png" class="img-fluid">
+					</div>
+					<!-- TODO: copy -->
+					<div class="col-12 col-lg-4 mt-lg-4 ml-lg-3">
+							<!-- TODO: copy -->
+							<div class="col-12 col-lg-12 d-flex align-items-end" style="color:#FFFFFF;">
+								<img src="img/cartells/cartellFoto1.png" class="img-fluid " >&nbsp;&nbsp;&nbsp;Marina Aguiló
+							</div>
+							<div class="col-12 col-lg-12 mt-lg-4" style="color:#FFFFFF;">
+								<p>
+									Els llibres et transporten a un món de fantasia i imaginació al mateix temps que et permeten viure mil històries. 
+									El meu pòster de Sant Jordi representa una nena llegint.La nena es troba pujada a una escala tan llarga que arriba als núvols.Durant la lectura, un dels núvols es transforma en un drac. Els núvols estan fets amb plastilina i posteriorment fotografiats.
+								</p>
+							</div>
+					</div>	
+				</div>
+			</div>
+		</div>
+
+	</div>	
+	
+
+	<div class="row">
 		<div class="col-12 col-md-4 col-lg-3">
 			<a class="noLink" href="javascript:mostrarDesglossament('desgAlum1');">
 				<div class="col-md-8 text-center offset-2">
@@ -87,60 +130,34 @@
 			</div>		
 		</div>
 	</div>
-		<!-- TODO:"window layer" por bootstrap -->
-		<!-- Trigger the Modal -->
-		<img id="myImg" src="img/cartells/cartellAlumne1.png" alt="Marina Aguiló" width="300" height="200">
-
-		<!-- The Modal -->
-		<div id="myModal" class="modal">
-
-		  <!-- The Close Button -->
-		  <span class="close">&times;</span>
-
-		  <!-- Modal Content (The Image) -->
-		  <img class="modal-content" id="img01">
-
-		  <!-- Modal Caption (Image Text) -->
-		  <div id="caption"></div>
-		</div>
 		<!-- TODO:version div de prueba-->
-		<!-- <div id="desgAlum1" class="mostraDiv">
-			<div class="mostraDiv2">
+		<div id="desgAlum1" class="mostraDiv">
 			<div class="row">
-				<div class="col-lg-12 " >
-					
-						<div class="row">
-							<div class="col-md-4 col-lg-4  mt-lg-4" >			
-								<div class="col-12 ">
-									<img src="img/cartells/cartellAlumne1.png" class="img-fluid">
-								</div>
-							</div> 
-							
-							<div class="col-12 col-lg-7  mt-lg-4">
-								<div class="row">
-									
-									<div class="col-12 col-lg-8 d-flex align-items-end">
-										<img src="img/cartells/cartellFoto1.png" class="img-fluid ">&nbsp;&nbsp;&nbsp;Marina Aguiló
-									</div>
-									<div class="col-12 col-lg-4 d-flex justify-content-end">
-										<a href="javascript:tancarDesglossament('desgAlum1');"><img src="img/cartells/proposta2TancarReduida.png" class="img-fluid"></a>
-									</div>
-									<div class="col-12 col-lg-8 mt-lg-4">
-										<p>
-											Els llibres et transporten a un món de fantasia i imaginació al mateix temps que et permeten viure mil històries. 
-											El meu pòster de Sant Jordi representa una nena llegint.
-											La nena es troba pujada a una escala tan llarga que arriba als núvols.
-											Durant la lectura, un dels núvols es transforma en un drac. 
-											Els núvols estan fets amb plastilina i posteriorment fotografiats.
-										</p>
-									</div>
-								</div>	
-							</div>	
-						</div>
-					</div>
+				<!-- TODO: copy -->
+				<div class="col-12 col-md-4 col-lg-4 offset-lg-1 mt-lg-4 noOpacity">
+					<img src="img/cartells/cartellAlumne1.png" class="img-fluid">
 				</div>
-			</div>	
-		</div> -->
+				<!-- TODO: copy -->
+				<div class="col-12 col-lg-4 mt-lg-4 ml-lg-3">
+					<div class="row">
+						<!-- TODO: copy -->
+						<div class="col-12 d-flex justify-content-end">
+							<a href="javascript:tancarDesglossament('desgAlum1');"><img src="img/cartells/proposta2TancarReduida.png" class="img-fluid"></a>
+						</div>
+						<!-- TODO: copy -->
+						<div class="col-12 col-lg-12 d-flex align-items-end">
+							<img src="img/cartells/cartellFoto1.png" class="img-fluid ">&nbsp;&nbsp;&nbsp;Marina Aguiló
+						</div>
+						<div class="col-12 col-lg-12 mt-lg-4">
+							<p>
+								Els llibres et transporten a un món de fantasia i imaginació al mateix temps que et permeten viure mil històries. 
+								El meu pòster de Sant Jordi representa una nena llegint.La nena es troba pujada a una escala tan llarga que arriba als núvols.Durant la lectura, un dels núvols es transforma en un drac. Els núvols estan fets amb plastilina i posteriorment fotografiats.
+							</p>
+						</div>
+					</div>	
+				</div>	
+			</div>
+		</div>
 		<!-- TODO:style="background-color: #c2ffc2" -->
 		<div id="desgAlum2" class="mostraDiv">
 			<div class="row">
@@ -214,7 +231,7 @@
 						</div>
 						<div class="col-12 col-lg-12 mt-lg-4">
 							<p>
-								En mi póster quería recrear una rosa en su maceta. Para eso, utilizando plastilina, he creado la rosa pétalo a pétalo, intentado que parezca lo más realista posible. Luego, continué con las hojas buscando la textura perfecta con luces y cambié la maceta por un libro echo en plastilina. Por último usando Illustrator substituí el tallo de la rosa por la frase "Sant Jordi 2018".
+								En mi póster quería recrear una rosa en su maceta. Para eso, utilizando plastilina, he creado la rosa pétalo a pétalo, intentado que parezca lo más realista posible. Luego, continué con las hojas buscando la textura perfecta con luces y cambié la maceta por un libro hecho en plastilina. Por último usando Illustrator substituí el tallo de la rosa por la frase "Sant Jordi 2018".
 							</p>
 						</div>
 					</div>	

@@ -44,7 +44,7 @@
 
 						<span class="ES">
 						La fiesta de Sant Jordi se celebra el 23 de abril en Cataluña. La tradición indica que durante este día se debe regalar una rosa o un libro a la persona de la que estés enamorada.</br></br>
-						Esta festividad se aprecia notablemente en las calles; estas se llenan de paraditas donde venden libros y rosas, así como también se convocan actividades al aire libre (sardanas, castellers, exposiciones, entre otros).</br></br>
+						Esta festividad se aprecia notablemente en las calles; éstas se llenan de paraditas donde venden libros y rosas, así como también se convocan actividades al aire libre (sardanas, castellers, exposiciones, entre otros).</br></br>
 						El 23 de abril también es considerado como el día internacional del libro, por lo cual muchos escritores firman sus libros durante este día.
 						</span>
 					</p>
