@@ -2,7 +2,14 @@
 	<div class="row">
 		<!-- TODO: aplicar mx a los titulos y a los carteles -->
 		<div class="col-10 d-none d-sm-block txtTitles text-center mx-2">
-			<h1>Els cartells</h1>
+			<h1>
+				<span class="CA">
+					Els cartells	
+				</span>
+				<span class="ES">
+					Los carteles
+				</span>
+			</h1>
 		</div>
 	</div>
 	<div class="row">
