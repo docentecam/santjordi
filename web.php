@@ -168,20 +168,104 @@
 </div>	
 
 <diV class="row mx-0">
-<div class="col-lg-8 offset-lg-2 mb-3 px-5 py-2" id="nosaltres">
-		<div class="row">	
-		<div class="col-lg-3">
-			<div class="CREAR_CLASE_QUE_SEA_PARA_LA_WEB_LOS_DIVS_INDIVIDUALES">
-				<img src="img/avatars/img_cla.png">
-				<p>
-					nombre apellido
-					</br>
-					"mote en cursiva"
-					</br>
-					las funciones en general
-				</p>
+<div class="col-lg-10 offset-lg-1 mt-3 mb-3 px-5 py-2" id="nosaltres">
+		<div class="row">
+
+			<div class="col-lg-3">
+				<div class="web_persona_arriba">
+					<img src="img/avatars/img_rau.png" class="img-fluid">
+					<p>
+						<b>Raúl Torrico</b>
+						</br>
+						<i>"El boss"</i>
+						</br>
+						Cap de projecte + index
+					</p>
+				</div>
+				<div class="web_persona_abajo">
+					<img src="img/avatars/img_san.png" class="img-fluid">
+					<p>
+						<b>Santi Anton</b>
+						</br>
+						<i>"El becario"</i>
+						</br>
+						Barra de navegació
+					</p>
+				</div>
 			</div>
-		</div>
+
+
+			<div class="col-lg-3">
+				<div class="web_persona_arriba">
+					<img src="img/avatars/img_raq.png" class="img-fluid">
+					<p>
+						<b>Raquel Acosta</b>
+						</br>
+						<i>"La cucu"</i>
+						</br>
+						Pàgina Les Festivitats
+					</p>
+				</div>
+				<div class="web_persona_abajo">
+					<img src="img/avatars/img_cla.png" class="img-fluid">
+					<p>
+						<b>Clàudia del Barrio</b>
+						</br>
+						<i>"El amigo"</i>
+						</br>
+						Pàgina La Llegenda
+					</p>
+				</div>
+			</div>
+
+
+			<div class="col-lg-3">
+				<div class="web_persona_arriba">
+					<img src="img/avatars/img_ali.png" class="img-fluid">
+					<p>
+						<b>Alix Delcour</b>
+						</br>
+						<i>"The freshman"</i>
+						</br>
+						Support
+					</p>
+				</div>
+				<div class="web_persona_abajo">
+					<img src="img/avatars/img_raf.png" class="img-fluid">
+					<p>
+						<b>Rafat Alam Durjoy</b>
+						</br>
+						<i>"El pro"</i>
+						</br>
+						Pàgina Els Cartells
+					</p>
+				</div>
+			</div>
+
+
+			<div class="col-lg-3">
+				<div class="web_persona_arriba">
+					<img src="img/avatars/img_osc.png" class="img-fluid">
+					<p>
+						<b>Oscar Moreno</b>
+						</br>
+						<i>"El healthy"</i>
+						</br>
+						Pàgina La Web
+					</p>
+				</div>
+				<div class="web_persona_abajo">
+					<img src="img/avatars/img_and.png" class="img-fluid">
+					<p>
+						<b>Andrea Sánchez</b>
+						</br>
+						<i>"The lovable"</i>
+						</br>
+						Pàgina Les Animacions
+					</p>
+				</div>
+			</div>
+
 		</div>
 </div>
 </diV>

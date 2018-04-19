@@ -157,9 +157,23 @@ a.noLink:link, a.noLink:visited,a.noLink:hover,a.noLink:active{
 }
 
 #nosaltres {
-	background-color: green;
+	background-color: #E7F3E3;
 	border-radius: 10px;
 }
+
+.web_persona_arriba {
+	align-items: center;
+	text-align: center;
+	margin-bottom: 70px;
+	margin-top: 30px;
+}
+
+.web_persona_abajo {
+	align-items: center;
+	text-align: center;
+	margin-bottom: 20px;
+}
+
 
 @media (max-width: 575px){
 	nav{
