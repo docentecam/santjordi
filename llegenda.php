@@ -4,7 +4,7 @@
 			<span class="ES"><h1 class="txtTitles">La leyenda de Sant Jordi</h1></span>
 			<span class="CA"><h1 class="txtTitles">La llegenda de Sant Jordi</h1></span>
 			<div class="row">
-				<div class="col-sm-12 col-md pr-5 order-2 order-md-0 mt-3">
+				<div class="col-sm-12 col-md order-2 order-md-0 mt-3">
 					<p class="txtBorders">
 						<span class="ES"><span class="firstcharacter">L</span>eyendas de Sant Jordi hay muchas, y todas muy distintas, pero a nuestros oídos ha llegado una muy peculiar. Cuenta la leyenda que en las afueras de una pequeña aldea acechaba un terrible dragón que atemorizaba a todos los habitantes. Con sus grandes colmillos era capaz de devorar a todo el que se le pusiera por delante. Al pueblo se le ocurrió hacer un sorteo diario entre todos los habitantes y la persona que saliera sería la presa del dragón, para que así, a cambio de sacrificar a alguien, dejara a todos tranquilos. Y así se hizo durante mucho tiempo, hasta que un día la elegida en el sorteo fue la hija del rey. </span>
 
