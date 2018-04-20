@@ -12,21 +12,22 @@
 			</h1>
 		</div>
 	</div>
-	<div class="row mx-0">
+	<div class="row mx-0 mt-4 mt-md-0">
 		<div class="col-12 col-md-4 col-lg-3">
 			<div class="col-md-8 text-center offset-md-2 cursorPC"> <img src="img/cartells/cartell1.png" class="img-fluid" onclick="agrandaDiv(1);"> </div>
-			<div class="col-10 text-center mx-2 "> Marina Aguiló </div>
+			<div class="col-10 text-center mx-2 mt-1 mb-3"> Marina Aguiló </div>
 			<div id="myModal1" class="modal">
 			  	<div class="close col-12 d-flex justify-content-end">
 					<img src="img/btnCloseDiv.png" class="img-fluid" onclick="tancaDiv(1);">
 			 	</div>
 			  	<!-- <img class="modal-content" id="img01"> -->
-			  	<div class="row">
-					<div class="col-12 col-md-4 col-lg-4 offset-lg-1 mt-lg-4"><img src="img/cartells/cartellAlumne1.png" class="img-fluid"></div>
-					<div class="col-12 col-lg-4 mt-lg-4 ml-lg-3">
-						<div class="col-12 col-lg-12 d-flex align-items-end"><img src="img/cartells/cartellFoto1.png" class="img-fluid " >&nbsp;&nbsp;&nbsp;<span class="textWhite">Marina Aguiló</span></div>
-						<div class="col-12 col-lg-12 mt-lg-4 textWhite">
-							<p>
+			  	<div class="row mx-4">
+					<div class="col-12 col-md offset-lg-1 mt-lg-4"><img src="img/cartells/cartellAlumne1.png" class="img-fluid"></div>
+					<div class="col-12 col-md mt-lg-4 ml-lg-3">
+						<div class="row">
+							<div class="col col-md-12 offset-1 offset-md-0 d-flex align-items-end my-3"><img src="img/cartells/cartellFoto1.png" class="img-fluid " >&nbsp;&nbsp;&nbsp;<span class="textWhite"><b>Marina Aguiló</b></span></div>
+							<div class="col-12 col-lg-12 mt-lg-4 textWhite">
+								<p>
 									<span class="CA textWhite">
 										Els llibres et transporten a un món de fantasia i imaginació al mateix temps que et permeten viure mil històries. 
 										El meu pòster de Sant Jordi representa una nena llegint.La nena es troba pujada a una escala tan llarga que arriba als núvols.Durant la lectura, un dels núvols es transforma en un drac. Els núvols estan fets amb plastilina i posteriorment fotografiats.
@@ -36,6 +37,7 @@
 										Las nubes están hechas con plastilina y posteriormente fotografiadas.
 									</span>
 								</p>
+							</div>
 						</div>
 					</div>	
 				</div>
@@ -44,16 +46,16 @@
 
 		<div class="col-12 col-md-4 col-lg-3">
 			<div class="col-md-8 text-center offset-md-2 cursorPC"> <img src="img/cartells/cartell2.png" class="img-fluid" onclick="agrandaDiv(2);"> </div>
-			<div class="col-10 text-center mx-2 "> Rebeca Burgos </div>
+			<div class="col-10 text-center mx-2 mt-1 mb-3"> Rebeca Burgos </div>
 			<div id="myModal2" class="modal">
 			  	<div class="close col-12 d-flex justify-content-end">
 					<img src="img/btnCloseDiv.png" class="img-fluid" onclick="tancaDiv(2);">
 			 	</div>
 			  	<!-- <img class="modal-content" id="img01"> -->
-			  	<div class="row">
-					<div class="col-12 col-md-4 col-lg-4 offset-lg-1 mt-lg-4"><img src="img/cartells/cartellAlumne2.png" class="img-fluid"></div>
-					<div class="col-12 col-lg-4 mt-lg-4 ml-lg-3">
-						<div class="col-12 col-lg-12 d-flex align-items-end"><img src="img/cartells/cartellFoto2.png" class="img-fluid " >&nbsp;&nbsp;&nbsp;<span class="textWhite">Rebeca Burgos</span></div>
+			  	<div class="row mx-4">
+					<div class="col-12 col-md  offset-lg-1 mt-lg-4"><img src="img/cartells/cartellAlumne2.png" class="img-fluid"></div>
+					<div class="col-12 col-md mt-lg-4 ml-lg-3">
+						<div class="col col-md-12 offset-1 offset-md-0 my-3 d-flex align-items-end"><img src="img/cartells/cartellFoto2.png" class="img-fluid " >&nbsp;&nbsp;&nbsp;<span class="textWhite"><b>Rebeca Burgos</b></span></div>
 						<div class="col-12 col-lg-12 mt-lg-4 textWhite">
 							<p>
 								<span class="CA textWhite">
@@ -71,18 +73,18 @@
 
 		<div class="col-12 col-md-4 col-lg-3">
 			<div class="col-md-8 text-center offset-md-2 cursorPC"> <img src="img/cartells/cartell3.png" class="img-fluid" onclick="agrandaDiv(3);"> </div>
-			<div class="col-10 text-center mx-2 "> Mari Cazorla </div>
+			<div class="col-10 text-center mx-2 mt-1 mb-3"> Mari Cazorla </div>
 			<div id="myModal3" class="modal">
 			  	<div class="close col-12 d-flex justify-content-end">
 					<img src="img/btnCloseDiv.png" class="img-fluid" onclick="tancaDiv(3);">
 			 	</div>
 			  	<!-- <img class="modal-content" id="img01"> -->
-			  	<div class="row">
-					<div class="col-12 col-md-4 col-lg-4 offset-lg-1 mt-lg-4"><img src="img/cartells/cartellAlumne3.png" class="img-fluid"></div>
-					<div class="col-12 col-lg-4 mt-lg-4 ml-lg-3">
-						<div class="col-12 col-lg-12 d-flex align-items-end"><img src="img/cartells/cartellFoto3.png" class="img-fluid " >&nbsp;&nbsp;&nbsp;
+			  	<div class="row mx-4">
+					<div class="col-12 col-md  offset-lg-1 mt-lg-4"><img src="img/cartells/cartellAlumne3.png" class="img-fluid"></div>
+					<div class="col-12 col-md  mt-lg-4 ml-lg-3">
+						<div class="col col-md-12 offset-1 offset-md-0 my-3 d-flex align-items-end"><img src="img/cartells/cartellFoto3.png" class="img-fluid " >&nbsp;&nbsp;&nbsp;
 							<span class="textWhite">
-								Mari Cazorla
+								<b>Mari Cazorla</b>
 							</span>
 						</div>
 						<div class="col-12 col-lg-12 mt-lg-4 textWhite">
@@ -104,18 +106,18 @@
 
 		<div class="col-12 col-md-4 col-lg-3">
 			<div class="col-md-8 text-center offset-md-2 cursorPC"> <img src="img/cartells/cartell4.png" class="img-fluid" onclick="agrandaDiv(4);"> </div>
-			<div class="col-10 text-center mx-2 "> Ana Del Campo </div>
+			<div class="col-10 text-center mx-2 mt-1 mb-3"> Ana Del Campo </div>
 			<div id="myModal4" class="modal">
 			  	<div class="close col-12 d-flex justify-content-end">
 					<img src="img/btnCloseDiv.png" class="img-fluid" onclick="tancaDiv(4);">
 			 	</div>
 			  	<!-- <img class="modal-content" id="img01"> -->
-			  	<div class="row">
-					<div class="col-12 col-md-4 col-lg-4 offset-lg-1 mt-lg-4"><img src="img/cartells/cartellAlumne4.png" class="img-fluid"></div>
-					<div class="col-12 col-lg-4 mt-lg-4 ml-lg-3">
-						<div class="col-12 col-lg-12 d-flex align-items-end"><img src="img/cartells/cartellFoto4.png" class="img-fluid " >&nbsp;&nbsp;&nbsp;
+			  	<div class="row mx-4">
+					<div class="col-12 col-md  offset-lg-1 mt-lg-4"><img src="img/cartells/cartellAlumne4.png" class="img-fluid"></div>
+					<div class="col-12 col-md  mt-lg-4 ml-lg-3">
+						<div class="col col-md-12 offset-1 offset-md-0 my-3 d-flex align-items-end"><img src="img/cartells/cartellFoto4.png" class="img-fluid " >&nbsp;&nbsp;&nbsp;
 							<span class="textWhite">
-								Ana Del Campo
+								<b>Ana Del Campo</b>
 							</span>
 						</div>
 						<div class="col-12 col-lg-12 mt-lg-4 textWhite">
@@ -135,18 +137,18 @@
 
 		<div class="col-12 col-md-4 col-lg-3">
 			<div class="col-md-8 text-center offset-md-2 cursorPC"> <img src="img/cartells/cartell5.png" class="img-fluid" onclick="agrandaDiv(5);"> </div>
-			<div class="col-10 text-center mx-2 "> Sara Garcimartín</div>
+			<div class="col-10 text-center mx-2 mt-1 mb-3"> Sara Garcimartín</div>
 			<div id="myModal5" class="modal">
 			  	<div class="close col-12 d-flex justify-content-end">
 					<img src="img/btnCloseDiv.png" class="img-fluid" onclick="tancaDiv(5);">
 			 	</div>
 			  	<!-- <img class="modal-content" id="img01"> -->
-			  	<div class="row">
-					<div class="col-12 col-md-4 col-lg-4 offset-lg-1 mt-lg-4"><img src="img/cartells/cartellAlumne5.png" class="img-fluid"></div>
-					<div class="col-12 col-lg-4 mt-lg-4 ml-lg-3">
-						<div class="col-12 col-lg-12 d-flex align-items-end"><img src="img/cartells/cartellFoto5.png" class="img-fluid " >&nbsp;&nbsp;&nbsp;
+			  	<div class="row mx-4">
+					<div class="col-12 col-md  offset-lg-1 mt-lg-4"><img src="img/cartells/cartellAlumne5.png" class="img-fluid"></div>
+					<div class="col-12 col-md  mt-lg-4 ml-lg-3">
+						<div class="col col-md-12 offset-1 offset-md-0 my-3 d-flex align-items-end"><img src="img/cartells/cartellFoto5.png" class="img-fluid " >&nbsp;&nbsp;&nbsp;
 							<span class="textWhite">
-								Sara Garcimartín
+								<b>Sara Garcimartín</b>
 							</span>
 						</div>
 						<div class="col-12 col-lg-12 mt-lg-4 textWhite">
@@ -166,18 +168,18 @@
 
 		<div class="col-12 col-md-4 col-lg-3">
 			<div class="col-md-8 text-center offset-md-2 cursorPC"> <img src="img/cartells/cartell6.png" class="img-fluid" onclick="agrandaDiv(6);"> </div>
-			<div class="col-10 text-center mx-2 "> Belén Garrido</div>
+			<div class="col-10 text-center mx-2 mt-1 mb-3"> Belén Garrido</div>
 			<div id="myModal6" class="modal">
 			  	<div class="close col-12 d-flex justify-content-end">
 					<img src="img/btnCloseDiv.png" class="img-fluid" onclick="tancaDiv(6);">
 			 	</div>
 			  	<!-- <img class="modal-content" id="img01"> -->
-			  	<div class="row">
-					<div class="col-12 col-md-4 col-lg-4 offset-lg-1 mt-lg-4"><img src="img/cartells/cartellAlumne6.png" class="img-fluid"></div>
-					<div class="col-12 col-lg-4 mt-lg-4 ml-lg-3">
-						<div class="col-12 col-lg-12 d-flex align-items-end"><img src="img/cartells/cartellFoto6.png" class="img-fluid " >&nbsp;&nbsp;&nbsp;
+			  	<div class="row mx-4">
+					<div class="col-12 col-md  offset-lg-1 mt-lg-4"><img src="img/cartells/cartellAlumne6.png" class="img-fluid"></div>
+					<div class="col-12 col-md  mt-lg-4 ml-lg-3">
+						<div class="col col-md-12 offset-1 offset-md-0 my-3 d-flex align-items-end"><img src="img/cartells/cartellFoto6.png" class="img-fluid " >&nbsp;&nbsp;&nbsp;
 							<span class="textWhite">
-								Belén Garrido
+								<b>Belén Garrido</b>
 							</span>
 						</div>
 						<div class="col-12 col-lg-12 mt-lg-4 textWhite">
@@ -198,18 +200,18 @@
 
 		<div class="col-12 col-md-4 col-lg-3">
 			<div class="col-md-8 text-center offset-md-2 cursorPC"> <img src="img/cartells/cartell7.png" class="img-fluid" onclick="agrandaDiv(7);"> </div>
-			<div class="col-10 text-center mx-2 "> Rosa Gilibert</div>
+			<div class="col-10 text-center mx-2 mt-1 mb-3"> Rosa Gilibert</div>
 			<div id="myModal7" class="modal">
 			  	<div class="close col-12 d-flex justify-content-end">
 					<img src="img/btnCloseDiv.png" class="img-fluid" onclick="tancaDiv(7);">
 			 	</div>
 			  	<!-- <img class="modal-content" id="img01"> -->
-			  	<div class="row">
-					<div class="col-12 col-md-4 col-lg-4 offset-lg-1 mt-lg-4"><img src="img/cartells/cartellAlumne7.png" class="img-fluid"></div>
-					<div class="col-12 col-lg-4 mt-lg-4 ml-lg-3">
-						<div class="col-12 col-lg-12 d-flex align-items-end"><img src="img/cartells/cartellFoto7.png" class="img-fluid " >&nbsp;&nbsp;&nbsp;
+			  	<div class="row mx-4">
+					<div class="col-12 col-md  offset-lg-1 mt-lg-4"><img src="img/cartells/cartellAlumne7.png" class="img-fluid"></div>
+					<div class="col-12 col-md  mt-lg-4 ml-lg-3">
+						<div class="col col-md-12 offset-1 offset-md-0 my-3 d-flex align-items-end"><img src="img/cartells/cartellFoto7.png" class="img-fluid " >&nbsp;&nbsp;&nbsp;
 							<span class="textWhite">
-								Rosa Gilibert
+								<b>Rosa Gilibert</b>
 							</span>
 						</div>
 						<div class="col-12 col-lg-12 mt-lg-4 textWhite">
@@ -230,18 +232,18 @@
 
 		<div class="col-12 col-md-4 col-lg-3">
 			<div class="col-md-8 text-center offset-md-2 cursorPC"> <img src="img/cartells/cartell8.png" class="img-fluid" onclick="agrandaDiv(8);"> </div>
-			<div class="col-10 text-center mx-2 "> Pol Viñas</div>
+			<div class="col-10 text-center mx-2 mt-1 mb-3"> Pol Viñas</div>
 			<div id="myModal8" class="modal">
 			  	<div class="close col-12 d-flex justify-content-end">
 					<img src="img/btnCloseDiv.png" class="img-fluid" onclick="tancaDiv(8);">
 			 	</div>
 			  	<!-- <img class="modal-content" id="img01"> -->
-			  	<div class="row">
-					<div class="col-12 col-md-4 col-lg-4 offset-lg-1 mt-lg-4"><img src="img/cartells/cartellAlumne8.png" class="img-fluid"></div>
-					<div class="col-12 col-lg-4 mt-lg-4 ml-lg-3">
-						<div class="col-12 col-lg-12 d-flex align-items-end"><img src="img/cartells/cartellFoto8.png" class="img-fluid " >&nbsp;&nbsp;&nbsp;
+			  	<div class="row mx-4">
+					<div class="col-12 col-md  offset-lg-1 mt-lg-4"><img src="img/cartells/cartellAlumne8.png" class="img-fluid"></div>
+					<div class="col-12 col-md  mt-lg-4 ml-lg-3">
+						<div class="col col-md-12 offset-1 offset-md-0 my-3 d-flex align-items-end"><img src="img/cartells/cartellFoto8.png" class="img-fluid " >&nbsp;&nbsp;&nbsp;
 							<span class="textWhite">
-								Pol Viñas
+								<b>Pol Viñas</b>
 							</span>
 						</div>
 						<div class="col-12 col-lg-12 mt-lg-4 textWhite">
