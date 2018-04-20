@@ -98,26 +98,25 @@
 			<a href="javascript:tancarDesglossament('desgWeb2');"><img src="img/cartells/proposta2TancarReduida.png" class="img-fluid"></a>
 	</div>
 	<div class="col-12 d-none d-sm-block txtTitles text-center ">
-			<h1><span class="CA" style="display:none;">Creació de la estructura</span></h1>
-			<h1><span class="ES" style="display:none;">Creación de la estructura</span></h1>
+		<h1><span class="CA" style="display:none;">Creació de la estructura</span><span class="ES" style="display:none;">Creación de la estructura</span></h1>
+	</div>
+	<div class="col-lg-7 text-center offset-3 mt-5">
+		<p>
+			<span class="CA" style="display:none;">
+				A l'hora de fer un esquema de com volem que sigui la pàgina, fem servir el programa Mockingbot un dels programes més utilitzats pels programadors i dissenyadors. Aquest programa ens dóna eines que ens faciliten crear l'estructura o wireframe, on apareixeran tots els elements visuals de la web. Els elements poden anar des d'un menú a la capçalera amb opcions de navegació, a un peu de pàgina amb els logotips corporatius, entre altres. En altres paraules l'aplicació Mockingbot ens permet visualitzar gràficament com quedaria la pàgina web (l'estructura) en aquest cas la web de Sant Jordi.
+			</span>	
+			<span class="ES" style="display:none;">
+				A la hora de hacer un esquema de cómo queremos que sea la página, usamos el programa Mockingbot uno de los programas más utilizados por los programadores y diseñadores. Este programa nos da herramientas que nos facilitan crear la estructura o wireframe, donde aparecerán todos los elementos visuales de la web. Los elementos pueden ir desde un menú a la cabecera con opciones de navegación, a un pie de página con los logotipos corporativos, entre otros. En otras palabras la aplicación Mockingbot nos permite visualizar gráficamente como quedaría la página web (la estructura) en este caso la web de Sant Jordi.
+			</span>
+		</p>
 	</div>
 	<div class="row">
-		<div class="col-lg-7 offset-3 mt-5 text-center">
-			<p>
-				<span class="CA" style="display:none;">
-					A l'hora de fer un esquema de com volem que sigui la pàgina, fem servir el programa Mockingbot un dels programes més utilitzats pels programadors i dissenyadors. Aquest programa ens dóna eines que ens faciliten crear l'estructura o wireframe, on apareixeran tots els elements visuals de la web. Els elements poden anar des d'un menú a la capçalera amb opcions de navegació, a un peu de pàgina amb els logotips corporatius, entre altres. En altres paraules l'aplicació Mockingbot ens permet visualitzar gràficament com quedaria la pàgina web (l'estructura) en aquest cas la web de Sant Jordi.
-				</span>
-				<span class="ES" style="display:none;">
-					A la hora de hacer un esquema de cómo queremos que sea la página, usamos el programa Mockingbot uno de los programas más utilizados por los programadores y diseñadores. Este programa nos da herramientas que nos facilitan crear la estructura o wireframe, donde aparecerán todos los elementos visuales de la web. Los elementos pueden ir desde un menú a la cabecera con opciones de navegación, a un pie de página con los logotipos corporativos, entre otros. En otras palabras la aplicación Mockingbot nos permite visualizar gráficamente como quedaría la página web (la estructura) en este caso la web de Sant Jordi.
-				</span>
-			</p>
-		</div>
-		<div class="col-lg-4 offset-3 mt-5 text-center">
-			<img src="img/Capturamockingboot2.JPG" class="img-fluid borderRound">
-		</div>	
-		<div class="col-lg-3  mt-5 text-center">
-			<img src="img/Capturamockingbot4.JPG" class="img-fluid borderRound">
-		</div>	
+			<div class="col-lg-4 offset-3 mt-5 text-center">
+				<img src="img/Capturamockingboot2.JPG" class="img-fluid borderRound">
+			</div>
+			<div class="col-lg-3  mt-5 text-center">
+				<img src="img/Capturamockingbot4.JPG" class="img-fluid borderRound">
+			</div>
 	</div>
 </div>
 <div id="desgWeb3" class="row mostraDiv">
@@ -128,7 +127,7 @@
 		<h1><span class="CA" style="display:none;">Posada en comú</span>
 		<span class="ES" style="display:none;">Puesta en común</span></h1>
 	</div>
-	<div class="col-lg-6 text-center offset-3">
+	<div class="col-lg-6 text-center offset-3 mt-5">
 		<p>
 			<span class="CA" style="display:none;">
 				Per poder crear una pàgina web, és indispensable tenir un equip de disseny. En el nostre cas, dins del projecte Treballs als barris, col·laborem amb les especialitats de Disseny 2D/3D i amb Animació de productes audiovisuals 2D/3D. En conseqüència necessitem l'ajuda de tot l'equip digital i una eina idònia per comunicar-nos entre tots a través de l'aplicació gratuïta de Google hangouts(una aplicació web per fer videoconferències i xatejar), necessària per aclarir dubtes, conceptes i aspectes sobre la web i engegar les tasques que ha de dur a terme cada especialitat.
@@ -139,7 +138,7 @@
 		</p>
 	</div>
 	<div class="col-12 col-lg-6 offset-3">
-		<img src="img/CapturaHangout.JPG" class="img-fluid borderRound">
+		<img src="img/CapturaHangout2.JPG" class="img-fluid borderRound">
 	</div>
 </div>
 <div id="desgWeb4" class="row mostraDiv">
@@ -151,7 +150,7 @@
 			<span class="ES" style="display:none;">Finalización del proyecto</span></h1>
 		</div>
 	<div class="row">	
-		<div id="textoFinal" class="col-lg-8 offset-2 text-center mt-4">
+		<div id="textoFinal" class="col-lg-8 offset-2 text-center mt-5">
 			<div>
 				<p>
 					<span class="CA" style="display:none;">
