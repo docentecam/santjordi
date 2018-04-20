@@ -46,17 +46,15 @@
 				
 		    </div>
 		    <div class="col-sm-12 col-md-4 col-lg-3">
-				<a class="noLink" href="javascript:mostrarDesglossament('desgAlumAni6');">
+				
 			    	<img class=" col-12 img-fluid" src="img/animacions/animacio6.png" alt="" title="">
-			    </a>
 				  	<div class="col-12 text-center"><span class="CA" style="display:none;"><b>Un final inesperat</b></span><span class="ES" style="display:none;"><b>Un final inesperado</b></span></div>
 				    <div class="col-12 text-center mb-4">Jose Muñoz </div>
 				
 		    </div>
 		    <div class="col-sm-12 col-md-4 col-lg-3">
-				<a class="noLink" href="javascript:mostrarDesglossament('desgAlumAni7');">
+				
 			    	<img class=" col-12 img-fluid" src="img/animacions/animacio7.png" alt="" title="">
-			    </a>
 				  	<div class="col-12 text-center"><span class="CA" style="display:none;"><b>La llegenda del misteriós llibre per Sant Jordi</b></span><span class="ES" style="display:none;"><b>La leyenda del misterioso libro para Sant Jordi</b></span></div>
 				    <div class="col-12 text-center mb-4">Jordi Pecellin </div>
 				
@@ -250,7 +248,7 @@
 						</div>
 				</div>
 			</div>
-			<div id="desgAlumAni6" class="mostraDiv">
+			<!-- <div id="desgAlumAni6" class="mostraDiv">
 				<div class="row">
 				  	<div class="col-sm-12 col-md-6 offset-md-3">
 					  	<div class="row">
@@ -338,7 +336,7 @@
 						  	
 						</div>
 					</div>
-				</div>
+				</div> -->
 
 			<!-- 		<div class="row">
 						    <div class="col-4 col-md-2 offset-md-3">
