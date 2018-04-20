@@ -12,27 +12,26 @@
 
 	</div>
 	<div class="row">
-		<!-- offset-lg-4 col-12 id="myModal1"-->
-		<div  class=" offset-lg-2 col-12 col-lg-3 col-12  mb-5 mt-1">
+		<div  class="cursorPC offset-lg-2 col-12 col-lg-4 col-12  mb-5 mt-1">
 			<img src="img/fotoReunion.JPG" class="img-fluid borderRound" onclick="agrandaDiv(1)">
-			<h5 class="text-center ">
+			<h5 class="text-center">
 				<span class="CA" style="display:none;">1-Iniciar el projecte</span><span class="ES" style="display:none;">
 					1-Iniciar el proyecto
 				</span>
 			</h5>			
 		</div>
-		<div class="col-12 col-lg-3 offset-lg-2 mt-2 col-12">
-				<img src="img/Capturamockingboot2.JPG" class="img-fluid borderRound" onclick="agrandaDiv(2)">
+		<div class="col-12 col-lg-4  mt-2 col-12">
+				<img src="img/Capturamockingboot2.JPG" class="img-fluid borderRound cursorPC" onclick="agrandaDiv(2)">
 				<h5 class="text-center"><span class="CA" style="display:none;">2-Crear una estructura</span><span class="ES" style="display:none;">2-Crear una estructura</span></h5>		
 		</div>
 	</div>
 	<div class="row">
-		<div class="offset-lg-2 col-12 col-lg-3 col-12  mb-5 mt-1">
-			<img src="img/CapturaHangout.JPG" class="img-fluid borderRound" onclick="agrandaDiv(3)">
+		<div class="offset-lg-2 col-12 col-lg-4 mb-5 mt-1">
+			<img src="img/CapturaHangout.JPG" class="img-fluid borderRound cursorPC" onclick="agrandaDiv(3)">
 				<h5 class="text-center"><span class="CA" style="display:none;">3-Posar en comú</span><span class="ES" style="display:none;">3-Poner en común</span></h5>
 		</div>
-		<div class="col-12 col-lg-3 offset-lg-2 mt-2 col-12">
-			<img src="img/Capturafilezila4.JPG" class="img-fluid borderRound" onclick="agrandaDiv(4)">
+		<div class="col-12 col-lg-4  mt-2 col-12">
+			<img src="img/Capturafilezila4.JPG" class="img-fluid borderRound cursorPC" onclick="agrandaDiv(4)">
 				<h5 class="text-center"><span class="CA" style="display:none;">4-Finalitzar el projecte</span><span class="ES" style="display:none;">4-Finalizar el proyecto</span></h5>
 		</div>
 	</div>
@@ -45,10 +44,8 @@
 
 <div id="myModal1" class="row mostraDiv modal">
 	<div class="row">
-		<div class="col-lg-12">
-				<!-- <a href="javascript:tancarDesglossament('desgWeb1');"> -->
-					<img src="img/btnCloseDiv" class="img-fluid" onclick="tancaDiv(1)">
-				<!-- </a> -->
+		<div class="close col-12 d-flex justify-content-end">
+					<img src="img/btnCloseDiv.png" class="img-fluid" onclick="tancaDiv(1)">
 		</div>
 
 		<div class="col-12 d-none d-sm-block txtTitles text-center textWhite">
@@ -89,8 +86,8 @@
 </div>
 	
 <div id=myModal2 class="row mostraDiv modal">
-	<div class="col-12 ">
-		<img src="img/btnCloseDiv" class="img-fluid" onclick="tancaDiv(2)">
+	<div class="close col-12 d-flex justify-content-end">
+		<img src="img/btnCloseDiv.png" class="img-fluid" onclick="tancaDiv(2)">
 	</div>
 	<div class="col-12 d-none d-sm-block txtTitles text-center textWhite">
 		<h1><span class="CA" style="display:none;">Creació de la estructura</span><span class="ES" style="display:none;">Creación de la estructura</span></h1>
@@ -115,8 +112,8 @@
 	</div>
 </div>
 <div id="myModal3" class="row mostraDiv modal">
-	<div class="col-12 ">
-		<img src="img/btnCloseDiv" class="img-fluid" onclick="tancaDiv(3)">
+	<div class="close col-12 d-flex justify-content-end">
+		<img src="img/btnCloseDiv.png" class="img-fluid" onclick="tancaDiv(3)">
 	</div>
 	<div class="col-12 d-none d-sm-block txtTitles text-center textWhite">
 		<h1><span class="CA" style="display:none;">Posada en comú</span>
@@ -137,8 +134,8 @@
 	</div>
 </div>
 <div id="myModal4" class="row mostraDiv modal">
-	<div class="col-lg-12 ">
-		<img src="img/btnCloseDiv" class="img-fluid" onclick="tancaDiv(4)">
+	<div class="close col-12 d-flex justify-content-end">
+		<img src="img/btnCloseDiv.png" class="img-fluid" onclick="tancaDiv(4)">
 	</div>
 		<div class="col-12 d-none d-sm-block txtTitles text-center textWhite">
 			<h1><span class="CA" style="display:none;">Finalització del projecte</span>
@@ -284,7 +281,6 @@
 		</div>
 	</div>
 </div>
-
 
 <?php include("inc/footer.php");?>
 
