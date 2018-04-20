@@ -1,6 +1,6 @@
 <?php include ("inc/head.php");?>
 
-<div class="row">
+<div class="row mx-0 mt-4 mt-md-0">
 	<div class="col-12 d-none d-sm-block txtTitles text-center mb-3">
 		<h1><span class="CA" style="display:none;">Procés de creació de la pàgina</span>
 		<span class="ES" style="display:none;">Proceso de creación de la página</span></h1>
@@ -8,11 +8,11 @@
 </div>
 	<div class="col-lg-8 offset-lg-2 mb-5">
 		<a href="#movimientoDiv"><img class="img-fluid borderRound" src="img/fotoGrupo.jpg"></a>
-		<p class="text-center ml-3 mr-3 mt-2"><span class="CA" style="display:none;">Hello world! Som <b>el Rafat, l’Andrea, el Raúl, la Raquel, l’Oscar, el Santi, la Clàudia i la Alix</b>, els creadors d’aquesta pàgina web. Formem part de l'especialitat de desenvolupament d'app i web apps, dins del projecte de Treballs als barris de la Casa d’Oficis de Barcelona Activa.</span><span class="ES" style="display:none;">Hello world! Somos  <b>Rafat, Andrea, Raúl, Raquel, Oscar, Santi, Clàudia y Alix</b>, los creadores de esta página web. Formamos parte de la especialidad de desarrollo de app y web apps, dentro del proyecto de Treballs als barris de la Casa d’Oficis de Barcelona Activa.</span></p>
+		<p class="text-center ml-3 mr-3 mt-2"><span class="CA" style="display:none;">Hello world! Som <b>el Rafat, l’Andrea, el Raúl, la Raquel, l’Oscar, el Santi, la Clàudia i l'Alix</b>, els creadors d’aquesta pàgina web. Formem part de l'especialitat de desenvolupament d'app i web apps, dins del projecte de Treballs als barris de la Casa d’Oficis de Barcelona Activa.</span><span class="ES" style="display:none;">Hello world! Somos  <b>Rafat, Andrea, Raúl, Raquel, Oscar, Santi, Clàudia y Alix</b>, los creadores de esta página web. Formamos parte de la especialidad de desarrollo de app y web apps, dentro del proyecto de Treballs als barris de la Casa d’Oficis de Barcelona Activa.</span></p>
 
 	</div>
 	<div class="row">
-		<div  class="cursorPC offset-lg-2 col-12 col-lg-4 col-12  mb-5 mt-1">
+		<div  class="cursorPC offset-lg-2 col-12 col-lg-4 col-12  mb-3 mt-1">
 			<img src="img/fotoReunion.JPG" class="img-fluid borderRound" onclick="agrandaDiv(1)">
 			<h5 class="text-center">
 				<span class="CA" style="display:none;">1-Iniciar el projecte</span><span class="ES" style="display:none;">
@@ -20,17 +20,17 @@
 				</span>
 			</h5>			
 		</div>
-		<div class="col-12 col-lg-4  mt-2 col-12">
+		<div class="col-12 col-lg-4 mb-3 mt-2 col-12">
 				<img src="img/Capturamockingboot2.JPG" class="img-fluid borderRound cursorPC" onclick="agrandaDiv(2)">
 				<h5 class="text-center"><span class="CA" style="display:none;">2-Crear una estructura</span><span class="ES" style="display:none;">2-Crear una estructura</span></h5>		
 		</div>
 	</div>
 	<div class="row">
-		<div class="offset-lg-2 col-12 col-lg-4 mb-5 mt-1">
+		<div class="offset-lg-2 col-12 col-lg-4 mb-3 mt-1">
 			<img src="img/CapturaHangout.JPG" class="img-fluid borderRound cursorPC" onclick="agrandaDiv(3)">
 				<h5 class="text-center"><span class="CA" style="display:none;">3-Posar en comú</span><span class="ES" style="display:none;">3-Poner en común</span></h5>
 		</div>
-		<div class="col-12 col-lg-4  mt-2 col-12">
+		<div class="col-12 col-lg-4 mb-3 mt-2 col-12">
 			<img src="img/Capturafilezila4.JPG" class="img-fluid borderRound cursorPC" onclick="agrandaDiv(4)">
 				<h5 class="text-center"><span class="CA" style="display:none;">4-Finalitzar el projecte</span><span class="ES" style="display:none;">4-Finalizar el proyecto</span></h5>
 		</div>
@@ -43,7 +43,7 @@
 
 
 <div id="myModal1" class="row mostraDiv modal">
-	<div class="row">
+	<div class="row mx-0">
 		<div class="close col-12 d-flex justify-content-end">
 					<img src="img/btnCloseDiv.png" class="img-fluid" onclick="tancaDiv(1)">
 		</div>
@@ -52,7 +52,7 @@
 			<h1><span class="CA" style="display:none;">Inici del projecte</span><span class="ES" style="display:none;">Inicio del proyecto</span></h1>
 		</div>
 	<div class="row">	
-		<div class="col-lg-6 offset-3 mt-5 text-center textWhite">
+		<div class="col-10 col-lg-6 offset-1 offset-lg-3 text-center textWhite order-1 order-md-0 mt-4 mt-md-0">
 			<p>
 				<span class="CA" style="display:none;">
 					Per començar el projecte, tots els components del grup ens vam reunir per fer una pluja d'idees o brainstorming. Dins d'aquesta primera part es plantegen les característiques de la pàgina web que volem crear, des de la seva finalitat (explicar la llegenda de Sant Jordi, la festivitat, etc.) fins a la quantitat d'informació que volem afegir (imatges, textos, etc). Més tard ens repartim els apartats establerts de la pàgina.
@@ -73,45 +73,43 @@
 				</span>
 			</p>
 		</div>
-	</div>
-		<div class="row">
-			<div class=" col-lg-3 offset-3 mt-5">
+			<div class="col-lg-3 offset-lg-3 mt-3 order-0 order-md-1">
 				<img src="img/fotoTrabajandoSinRecortar.JPG" class="img-fluid borderRound">
 			</div>
-			<div class="col-lg-3 mt-5">
+			<div class="col-lg-3 mt-3 order-2">
 				<img src="img/fotoTrabajando.JPG" class="img-fluid borderRound">
 			</div>
 		</div>
 	</div>
 </div>
 	
-<div id=myModal2 class="row mostraDiv modal">
+<div id=myModal2 class="row mostraDiv modal mx-0">
 	<div class="close col-12 d-flex justify-content-end">
 		<img src="img/btnCloseDiv.png" class="img-fluid" onclick="tancaDiv(2)">
 	</div>
-	<div class="col-12 d-none d-sm-block txtTitles text-center textWhite">
+	<div class="col-12 d-none d-sm-block txtTitles text-center textWhite order-1">
 		<h1><span class="CA" style="display:none;">Creació de la estructura</span><span class="ES" style="display:none;">Creación de la estructura</span></h1>
 	</div>
-	<div class="col-lg-7 text-center offset-3 mt-5 textWhite">
-		<p>
-			<span class="CA" style="display:none;">
-				A l'hora de fer un esquema de com volem que sigui la pàgina, fem servir el programa Mockingbot un dels programes més utilitzats pels programadors i dissenyadors. Aquest programa ens dóna eines que ens faciliten crear l'estructura o wireframe, on apareixeran tots els elements visuals de la web. Els elements poden anar des d'un menú a la capçalera amb opcions de navegació, a un peu de pàgina amb els logotips corporatius, entre altres. En altres paraules l'aplicació Mockingbot ens permet visualitzar gràficament com quedaria la pàgina web (l'estructura) en aquest cas la web de Sant Jordi.
-			</span>	
-			<span class="ES" style="display:none;">
-				A la hora de hacer un esquema de cómo queremos que sea la página, usamos el programa Mockingbot uno de los programas más utilizados por los programadores y diseñadores. Este programa nos da herramientas que nos facilitan crear la estructura o wireframe, donde aparecerán todos los elementos visuales de la web. Los elementos pueden ir desde un menú a la cabecera con opciones de navegación, a un pie de página con los logotipos corporativos, entre otros. En otras palabras la aplicación Mockingbot nos permite visualizar gráficamente como quedaría la página web (la estructura) en este caso la web de Sant Jordi.
-			</span>
-		</p>
-	</div>
 	<div class="row">
-			<div class="col-lg-4 offset-3 mt-5 text-center">
-				<img src="img/Capturamockingboot2.JPG" class="img-fluid borderRound">
-			</div>
-			<div class="col-lg-3  mt-5 text-center">
-				<img src="img/Capturamockingbot4.JPG" class="img-fluid borderRound">
-			</div>
+		<div class="col-10 col-lg-6 offset-1 offset-lg-3 text-center textWhite order-1 order-md-0 mt-4 mt-md-0">
+			<p>
+				<span class="CA" style="display:none;">
+					A l'hora de fer un esquema de com volem que sigui la pàgina, fem servir el programa Mockingbot un dels programes més utilitzats pels programadors i dissenyadors. Aquest programa ens dóna eines que ens faciliten crear l'estructura o wireframe, on apareixeran tots els elements visuals de la web. Els elements poden anar des d'un menú a la capçalera amb opcions de navegació, a un peu de pàgina amb els logotips corporatius, entre altres. En altres paraules l'aplicació Mockingbot ens permet visualitzar gràficament com quedaria la pàgina web (l'estructura) en aquest cas la web de Sant Jordi.
+				</span>	
+				<span class="ES" style="display:none;">
+					A la hora de hacer un esquema de cómo queremos que sea la página, usamos el programa Mockingbot uno de los programas más utilizados por los programadores y diseñadores. Este programa nos da herramientas que nos facilitan crear la estructura o wireframe, donde aparecerán todos los elementos visuales de la web. Los elementos pueden ir desde un menú a la cabecera con opciones de navegación, a un pie de página con los logotipos corporativos, entre otros. En otras palabras la aplicación Mockingbot nos permite visualizar gráficamente como quedaría la página web (la estructura) en este caso la web de Sant Jordi.
+				</span>
+			</p>
+		</div>	
+		<div class="col-lg-3 offset-lg-3 mt-3 order-0 order-md-1 text-center">
+			<img src="img/Capturamockingboot2.JPG" class="img-fluid borderRound">
+		</div>
+		<div class="col-lg-3 mt-3 order-2 text-center">
+			<img src="img/Capturamockingbot4.JPG" class="img-fluid borderRound">
+		</div>
 	</div>
 </div>
-<div id="myModal3" class="row mostraDiv modal">
+<div id="myModal3" class="row mostraDiv modal mx-0">
 	<div class="close col-12 d-flex justify-content-end">
 		<img src="img/btnCloseDiv.png" class="img-fluid" onclick="tancaDiv(3)">
 	</div>
@@ -119,7 +117,7 @@
 		<h1><span class="CA" style="display:none;">Posada en comú</span>
 		<span class="ES" style="display:none;">Puesta en común</span></h1>
 	</div>
-	<div class="col-lg-6 text-center offset-3 mt-5 textWhite">
+	<div class="col-10 col-lg-6 offset-1 offset-lg-3 text-center textWhite order-1 order-md-0 mt-4 mt-md-0">
 		<p>
 			<span class="CA" style="display:none;">
 				Per poder crear una pàgina web, és indispensable tenir un equip de disseny. En el nostre cas, dins del projecte Treballs als barris, col·laborem amb les especialitats de Disseny 2D/3D i amb Animació de productes audiovisuals 2D/3D. En conseqüència necessitem l'ajuda de tot l'equip digital i una eina idònia per comunicar-nos entre tots a través de l'aplicació gratuïta de Google hangouts(una aplicació web per fer videoconferències i xatejar), necessària per aclarir dubtes, conceptes i aspectes sobre la web i engegar les tasques que ha de dur a terme cada especialitat.
@@ -129,11 +127,11 @@
 			</span>
 		</p>
 	</div>
-	<div class="col-12 col-lg-6 offset-3">
+	<div class="col-lg-3 offset-lg-3 mt-3 order-0 order-md-1 ">
 		<img src="img/CapturaHangout2.JPG" class="img-fluid borderRound">
 	</div>
 </div>
-<div id="myModal4" class="row mostraDiv modal">
+<div id="myModal4" class="row mostraDiv modal mx-0">
 	<div class="close col-12 d-flex justify-content-end">
 		<img src="img/btnCloseDiv.png" class="img-fluid" onclick="tancaDiv(4)">
 	</div>
@@ -142,7 +140,7 @@
 			<span class="ES" style="display:none;">Finalización del proyecto</span></h1>
 		</div>
 	<div class="row">	
-		<div id="textoFinal" class="col-lg-8 offset-2 text-center mt-5 textWhite">
+		<div id="textoFinal" class="col-10 col-lg-6 offset-1 offset-lg-3 text-center textWhite order-1 order-md-0 mt-4 mt-md-0">
 			<div>
 				<p>
 					<span class="CA" style="display:none;">
@@ -154,15 +152,12 @@
 				</p>
 			</div>
 		</div>
-		
-		<div class="row">
-			<div class=" col-lg-4 offset-2 mt-4">
+			<div class="col-lg-3 offset-lg-3 mt-3 order-0">
 				<img src="img/CapturaParaWeb.JPG" class="img-fluid borderRound">
 			</div>
-			<div class=" col-lg-4 mt-4">
+			<div class="col-lg-3 mt-3 order-2">
 				<img src="img/CapturaFilezila4.JPG" class="img-fluid borderRound mb-5">
 			</div>
-		</div>
 	</div>
 </div>	
 
