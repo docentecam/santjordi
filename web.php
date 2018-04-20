@@ -7,7 +7,7 @@
 	</div>
 </div>
 	<div class="col-lg-8 offset-lg-2 mb-5 ">
-		<img class="img-fluid borderRound" src="img/fotoGrupo.jpg">
+		<a href="#movimientoDiv"><img class="img-fluid borderRound" src="img/fotoGrupo.jpg"></a>
 		<h5 class="text-center ml-3 mr-3"><span class="CA" style="display:none;">Hello world! Som el Rafat, <b>l’Andrea, el Raúl, la Raquel, l’Oscar, el Santi i la Clàudia</b>, els creadors d’aquesta pàgina web. Formem part de l'especialitat de desenvolupament d'app i web apps, dins del projecte de Treballs als barris de la Casa d’Oficis de Barcelona Activa.</span><span class="ES" style="display:none;">Hello world! Somos  <b>Rafat, Andrea, Raúl, Raquel, Oscar, Santi y Clàudia</b>, los creadores de esta página web. Formamos parte de la especialidad de desarrollo de app y web apps, dentro del proyecto de Treballs als barris de la Casa d’Oficis de Barcelona Activa.</span></h5>
 	</div>
 	<div class="col-lg-8 offset-lg-2">  
@@ -174,7 +174,7 @@
 	</div>
 </div>	
 
-<diV class="row mx-0">
+<a name="movimientoDiv"><diV class="row mx-0"></a>
 	<div class="col-lg-10 offset-lg-1 mt-3 mb-3 px-5 py-2" id="nosaltres">
 		<div class="row">
 
