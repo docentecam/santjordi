@@ -6,61 +6,82 @@
 		<span class="ES" style="display:none;">Proceso de creación de la página</span></h1>
 	</div>
 </div>
+
+<div class="row">
 	<div class="col-lg-8 offset-lg-2 mb-5 ">
 		<img class="img-fluid borderRound" src="img/fotoGrupo.jpg">
 		<h5 class="text-center ml-3 mr-3"><span class="CA" style="display:none;">Hello world! Som el Rafat, <b>l’Andrea, el Raúl, la Raquel, l’Oscar, el Santi i la Clàudia</b>, els creadors d’aquesta pàgina web. Formem part de l'especialitat de desenvolupament d'app i web apps, dins del projecte de Treballs als barris de la Casa d’Oficis de Barcelona Activa.</span><span class="ES" style="display:none;">Hello world! Somos  <b>Rafat, Andrea, Raúl, Raquel, Oscar, Santi y Clàudia</b>, los creadores de esta página web. Formamos parte de la especialidad de desarrollo de app y web apps, dentro del proyecto de Treballs als barris de la Casa d’Oficis de Barcelona Activa.</span></h5>
 	</div>
-	<div class="col-lg-8 offset-lg-2">  
-		<div class="row">
-			<div class="col-12 col-lg-5 mb-4 mt-2">
-				<a href="javascript:mostrarDesglossament('desgWeb1');">
-
-					<img src="img/fotoReunion.JPG" class="img-fluid borderRound"></a>
-					<h5 class="text-center"><span class="CA" style="display:none;">1-Iniciar el projecte</span><span class="ES" style="display:none;">1-Iniciar el proyecto</span></h5>
-
-					
-			</div>
-			<div class="col-lg-5 offset-lg-2 mt-2">
-
-				<a href="javascript:mostrarDesglossament('desgWeb2');">
-					<img src="img/Capturamockingboot2.JPG" class="img-fluid borderRound"></a>
-					<h5 class="text-center"><span class="CA" style="display:none;">2-Crear una estructura</span><span class="ES" style="display:none;">2-Crear una estructura</h5></span>		
-			</div>
+	<div class="row">
+		<!-- offset-lg-4 col-12 id="myModal1"-->
+		<div  class=" offset-lg-2 col-12 col-lg-3 col-12  mb-5 mt-1">
+			<img src="img/fotoReunion.JPG" class="img-fluid borderRound" onclick="agrandaDiv(1)">
+			<h5 class="text-center ">
+				<span class="CA" style="display:none;">1-Iniciar el projecte</span><span class="ES" style="display:none;">
+					1-Iniciar el proyecto
+				</span>
+			</h5>			
 		</div>
-		<div class="row">
-			<div class="col-12 col-lg-5 mt-3">
-			<a href="javascript:mostrarDesglossament('desgWeb3');">
+		<div class="col-12 col-lg-3 offset-lg-2 mt-2 col-12">
+				<img src="img/Capturamockingboot2.JPG" class="img-fluid borderRound" onclick="agrandaDiv(2)">
+				<h5 class="text-center"><span class="CA" style="display:none;">2-Crear una estructura</span><span class="ES" style="display:none;">2-Crear una estructura</span></h5>		
+		</div>
+	</div>
+	<div class="row">
+		<div class="offset-lg-2 col-12 col-lg-3 col-12  mb-5 mt-1">
+			<img src="img/CapturaHangout.JPG" class="img-fluid borderRound" onclick="agrandaDiv(3)">
+				<h5 class="text-center"><span class="CA" style="display:none;">3-Posar en comú</span><span class="ES" style="display:none;">3-Poner en común</span></h5>
+		</div>
+		<div class="col-12 col-lg-3 offset-lg-2 mt-2 col-12">
+			<img src="img/Capturafilezila4.JPG" class="img-fluid borderRound" onclick="agrandaDiv(4)">
+				<h5 class="text-center"><span class="CA" style="display:none;">4-Finalitzar el projecte</span><span class="ES" style="display:none;">4-Finalizar el proyecto</span></h5>
+		</div>
+	</div>
 
-				<img src="img/CapturaHangout.JPG" class="img-fluid borderRound"></a>
-					<h5 class="text-center"><span class="CA" style="display:none;">3-Posar en comú</span><span class="ES" style="display:none;">3-Poner en común</span></h5>
+</div>
 
-				
-			</div>
 
+
+
+
+
+
+
+
+
+
+
+
+
+		
+		
 			
+			
+	
 
-			<div class="col-lg-5 offset-lg-2 mt-3">
 
 
-				<a href="javascript:mostrarDesglossament('desgWeb4');">	
-					<img src="img/Capturafilezila4.JPG" class="img-fluid borderRound"></a>
-					<h5 class="text-center"><span class="CA" style="display:none;">4-Finalitzar el projecte</span><span class="ES" style="display:none;">4-Finalizar el proyecto</span></h5>
-			</div>
+
+
+
+
+
+
+
+
+<div id="myModal1" class="row mostraDiv modal">
+	<div class="row">
+		<div class="col-lg-12">
+				<!-- <a href="javascript:tancarDesglossament('desgWeb1');"> -->
+					<img src="img/btnCloseDiv" class="img-fluid" onclick="tancaDiv(1)">
+				<!-- </a> -->
 		</div>
-	</div>
 
-
-<div id="desgWeb1" class="row mostraDiv">
-	<div class="col-lg-12">
-			<a href="javascript:tancarDesglossament('desgWeb1');"><img src="img/cartells/proposta2TancarReduida.png" class="img-fluid"></a>
-	</div>
-
-<div class="row">
-	<div class="col-12 d-none d-sm-block txtTitles text-center ">
-		<h1><span class="CA" style="display:none;">Inici del projecte</span><span class="ES" style="display:none;">Inicio del proyecto</span></h1>
-	</div>
+		<div class="col-12 d-none d-sm-block txtTitles text-center textWhite">
+			<h1><span class="CA" style="display:none;">Inici del projecte</span><span class="ES" style="display:none;">Inicio del proyecto</span></h1>
+		</div>
 	<div class="row">	
-		<div class="col-lg-6 offset-3 mt-5 text-center">
+		<div class="col-lg-6 offset-3 mt-5 text-center textWhite">
 			<p>
 				<span class="CA" style="display:none;">
 					Per començar el projecte, tots els components del grup ens vam reunir per fer una pluja d'idees o brainstorming. Dins d'aquesta primera part es plantegen les característiques de la pàgina web que volem crear, des de la seva finalitat (explicar la llegenda de Sant Jordi, la festivitat, etc.) fins a la quantitat d'informació que volem afegir (imatges, textos, etc). Més tard ens repartim els apartats establerts de la pàgina.
@@ -82,25 +103,25 @@
 			</p>
 		</div>
 	</div>
-	<div class="row">
-		<div class=" col-lg-3 offset-3 mt-5">
-			<img src="img/fotoTrabajandoSinRecortar.JPG" class="img-fluid borderRound">
+		<div class="row">
+			<div class=" col-lg-3 offset-3 mt-5">
+				<img src="img/fotoTrabajandoSinRecortar.JPG" class="img-fluid borderRound">
+			</div>
+			<div class="col-lg-3 mt-5">
+				<img src="img/fotoTrabajando.JPG" class="img-fluid borderRound">
+			</div>
 		</div>
-		<div class="col-lg-3 mt-5">
-			<img src="img/fotoTrabajando.JPG" class="img-fluid borderRound">
-		</div>
 	</div>
+</div>
+	
+<div id=myModal2 class="row mostraDiv modal">
+	<div class="col-12 ">
+		<img src="img/btnCloseDiv" class="img-fluid" onclick="tancaDiv(2)">
 	</div>
-
-</div>	
-<div id=desgWeb2 class="row mostraDiv">
-	<div class="col-12">
-			<a href="javascript:tancarDesglossament('desgWeb2');"><img src="img/cartells/proposta2TancarReduida.png" class="img-fluid"></a>
-	</div>
-	<div class="col-12 d-none d-sm-block txtTitles text-center ">
+	<div class="col-12 d-none d-sm-block txtTitles text-center textWhite">
 		<h1><span class="CA" style="display:none;">Creació de la estructura</span><span class="ES" style="display:none;">Creación de la estructura</span></h1>
 	</div>
-	<div class="col-lg-7 text-center offset-3 mt-5">
+	<div class="col-lg-7 text-center offset-3 mt-5 textWhite">
 		<p>
 			<span class="CA" style="display:none;">
 				A l'hora de fer un esquema de com volem que sigui la pàgina, fem servir el programa Mockingbot un dels programes més utilitzats pels programadors i dissenyadors. Aquest programa ens dóna eines que ens faciliten crear l'estructura o wireframe, on apareixeran tots els elements visuals de la web. Els elements poden anar des d'un menú a la capçalera amb opcions de navegació, a un peu de pàgina amb els logotips corporatius, entre altres. En altres paraules l'aplicació Mockingbot ens permet visualitzar gràficament com quedaria la pàgina web (l'estructura) en aquest cas la web de Sant Jordi.
@@ -119,15 +140,15 @@
 			</div>
 	</div>
 </div>
-<div id="desgWeb3" class="row mostraDiv">
+<div id="myModal3" class="row mostraDiv modal">
 	<div class="col-12 ">
-		<a href="javascript:tancarDesglossament('desgWeb3');"><img src="img/cartells/proposta2TancarReduida.png" class="img-fluid"></a>
+		<img src="img/btnCloseDiv" class="img-fluid" onclick="tancaDiv(3)">
 	</div>
-	<div class="col-12 d-none d-sm-block txtTitles text-center ">
+	<div class="col-12 d-none d-sm-block txtTitles text-center textWhite">
 		<h1><span class="CA" style="display:none;">Posada en comú</span>
 		<span class="ES" style="display:none;">Puesta en común</span></h1>
 	</div>
-	<div class="col-lg-6 text-center offset-3 mt-5">
+	<div class="col-lg-6 text-center offset-3 mt-5 textWhite">
 		<p>
 			<span class="CA" style="display:none;">
 				Per poder crear una pàgina web, és indispensable tenir un equip de disseny. En el nostre cas, dins del projecte Treballs als barris, col·laborem amb les especialitats de Disseny 2D/3D i amb Animació de productes audiovisuals 2D/3D. En conseqüència necessitem l'ajuda de tot l'equip digital i una eina idònia per comunicar-nos entre tots a través de l'aplicació gratuïta de Google hangouts(una aplicació web per fer videoconferències i xatejar), necessària per aclarir dubtes, conceptes i aspectes sobre la web i engegar les tasques que ha de dur a terme cada especialitat.
@@ -141,16 +162,16 @@
 		<img src="img/CapturaHangout2.JPG" class="img-fluid borderRound">
 	</div>
 </div>
-<div id="desgWeb4" class="row mostraDiv">
+<div id="myModal4" class="row mostraDiv modal">
 	<div class="col-lg-12 ">
-		<a href="javascript:tancarDesglossament('desgWeb4');"><img src="img/cartells/proposta2TancarReduida.png" class="img-fluid"></a>
+		<img src="img/btnCloseDiv" class="img-fluid" onclick="tancaDiv(4)">
 	</div>
-		<div class="col-12 d-none d-sm-block txtTitles text-center ">
+		<div class="col-12 d-none d-sm-block txtTitles text-center textWhite">
 			<h1><span class="CA" style="display:none;">Finalització del projecte</span>
 			<span class="ES" style="display:none;">Finalización del proyecto</span></h1>
 		</div>
 	<div class="row">	
-		<div id="textoFinal" class="col-lg-8 offset-2 text-center mt-5">
+		<div id="textoFinal" class="col-lg-8 offset-2 text-center mt-5 textWhite">
 			<div>
 				<p>
 					<span class="CA" style="display:none;">
@@ -174,7 +195,7 @@
 	</div>
 </div>	
 
-<diV class="row mx-0">
+<div class="row mx-0">
 	<div class="col-lg-10 offset-lg-1 mt-3 mb-3 px-5 py-2" id="nosaltres">
 		<div class="row">
 
@@ -283,7 +304,7 @@
 
 		</div>
 	</div>
-</diV>
+</div>
 
 
 <?php include("inc/footer.php");?>

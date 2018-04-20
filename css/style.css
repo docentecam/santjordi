@@ -138,8 +138,9 @@ a.noLink:link, a.noLink:visited,a.noLink:hover,a.noLink:active{
 	margin:0;
 	top:0%; 
 	bottom:0%;
-	z-index: 10; 
-	background-color: #00BFFF;
+	z-index: 10;
+	/*color:  #000000;*/
+	/*background-color: #000000;*/
 	/*opacity: 0.5;*/
 	/*background-color:  #f0cbd8;*/
 	/*background-color:#FDF4E3;*/
