@@ -30,10 +30,10 @@
 								<p>
 									<span class="CA textWhite">
 										Els llibres et transporten a un món de fantasia i imaginació al mateix temps que et permeten viure mil històries. 
-										El meu pòster de Sant Jordi representa una nena llegint.La nena es troba pujada a una escala tan llarga que arriba als núvols.Durant la lectura, un dels núvols es transforma en un drac. Els núvols estan fets amb plastilina i posteriorment fotografiats.
+										El meu pòster de Sant Jordi representa una nena llegint.La nena es troba pujada a una escala tan llarga que arriba als núvols. Durant la lectura, un dels núvols es transforma en un drac. Els núvols estan fets amb plastilina i posteriorment fotografiats.
 									</span>
 									<span class="ES textWhite">
-										Los libros te transportan a un mundo de fantasía e imaginación al mismo tiempo que te permiten vivir mil historias. Mi póster de Sant Jordi representa una niña leyendo.La niña se encuentra subida en una escalera tan larga que llega a las nubes.Durante la lectura, una de las nubes se transforma en un dragón. 
+										Los libros te transportan a un mundo de fantasía e imaginación al mismo tiempo que te permiten vivir mil historias. Mi póster de Sant Jordi representa una niña leyendo. La niña se encuentra subida en una escalera tan larga que llega a las nubes.Durante la lectura, una de las nubes se transforma en un dragón. 
 										Las nubes están hechas con plastilina y posteriormente fotografiadas.
 									</span>
 								</p>
@@ -59,10 +59,10 @@
 						<div class="col-12 col-lg-12 mt-lg-4 textWhite">
 							<p>
 								<span class="CA textWhite">
-									El drac petit, fet de plastilina, intenta acostar als nens als llibres i veure que els monstres poden ser adorables.La resta del cartell està realitzat amb Photoshop i Illustrator, donant l'efecte de plastilina per unificar-ho tot.
+									El drac petit, fet de plastilina, intenta acostar als nens als llibres i veure que els monstres poden ser adorables. La resta del cartell està realitzat amb Photoshop i Illustrator, donant l'efecte de plastilina per unificar-ho tot.
 								</span>
 								<span class="ES textWhite">
-									El dragón pequeño, hecho de plastilina, intenta acercar a los niños a los libros y ver que los monstruos pueden ser monos.El resto del cartel está realizado con Photoshop e Illustrator, dando efecto de plastilina para unificarlo todo.
+									El dragón pequeño, hecho de plastilina, intenta acercar a los niños a los libros y ver que los monstruos pueden ser monos. El resto del cartel está realizado con Photoshop e Illustrator, dando efecto de plastilina para unificarlo todo.
 								</span> 
 							</p>
 						</div>
@@ -123,10 +123,10 @@
 						<div class="col-12 col-lg-12 mt-lg-4 textWhite">
 							<p>
 								<span class="CA textWhite">
-									En el meu pòster volia recrear una rosa en el seu test. Per a això, utilitzant plastilina, he creat la rosa pètal a pètal, intentant que sembli el més realista possible.Després, vaig continuar amb les fulles buscant la textura perfecta mitjançant les llums i vaig canviar el test per un llibre fet en plastilina.Finalment utilitzant Illustrator vaig substituir la tija de la rosa per la frase "Sant Jordi 2018".
+									En el meu pòster volia recrear una rosa en el seu test. Per a això, utilitzant plastilina, he creat la rosa pètal a pètal, intentant que sembli el més realista possible. Després, vaig continuar amb les fulles buscant la textura perfecta mitjançant les llums i vaig canviar el test per un llibre fet en plastilina. Finalment utilitzant Illustrator vaig substituir la tija de la rosa per la frase "Sant Jordi 2018".
 								</span>
 								<span class="ES textWhite">
-									En mi póster quería recrear una rosa en su maceta.Para eso, utilizando plastilina, he creado la rosa pétalo a pétalo, intentado que parezca lo más realista posible.Luego, continué con las hojas buscando la textura perfecta con luces y cambié la maceta por un libro echo en plastilina.Por último usando Illustrator substituí el tallo de la rosa por la frase "Sant Jordi 2018".
+									En mi póster quería recrear una rosa en su maceta. Para eso, utilizando plastilina, he creado la rosa pétalo a pétalo, intentado que parezca lo más realista posible. Luego, continué con las hojas buscando la textura perfecta con luces y cambié la maceta por un libro echo en plastilina. Por último usando Illustrator substituí el tallo de la rosa por la frase "Sant Jordi 2018".
 								</span>
 							</p>
 						</div>
@@ -154,10 +154,10 @@
 						<div class="col-12 col-lg-12 mt-lg-4 textWhite">
 							<p>
 								<span class="CA textWhite">
-									El meu pòster representa una cua de drac que té com a funció ser un punt de llibre.Barrejant tècniques manuals i digitals, he treballat principalment amb tipografia. El llibre va ser creat amb plastilina, Illustrator i Photoshop.Amb aquest pòster vull expressar que, de vegades, en els petits detalls com podria ser un punt de llibre, s'amaguen grans coses. Feliç Sant Jordi!
+									El meu pòster representa una cua de drac que té com a funció ser un punt de llibre.Barrejant tècniques manuals i digitals, he treballat principalment amb tipografia. El llibre va ser creat amb plastilina, Illustrator i Photoshop. Amb aquest pòster vull expressar que, de vegades, en els petits detalls com podria ser un punt de llibre, s'amaguen grans coses. Feliç Sant Jordi!
 								</span>
 								<span class="ES textWhite">
-									Mi póster representa una cola de dragón que tiene como función ser un punto de libro. Mezclando técnicas manuales y digitales, he trabajado principalmente con tipografía. El libro fue creado con plastilina, Illustrator y Photoshop.Con este póster quiero expresar que, a veces, en los pequeños detalles como podría ser un punto de libro,se esconden grandes cosas. ¡Feliz Sant Jordi!
+									Mi póster representa una cola de dragón que tiene como función ser un punto de libro. Mezclando técnicas manuales y digitales, he trabajado principalmente con tipografía. El libro fue creado con plastilina, Illustrator y Photoshop. Con este póster quiero expresar que, a veces, en los pequeños detalles como podría ser un punto de libro,se esconden grandes cosas. ¡Feliz Sant Jordi!
 								</span>
 							</p>
 						</div>
