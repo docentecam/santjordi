@@ -121,6 +121,10 @@ nav a.iconoss{
 	height: 12px;
 	background-color: #404040;
 }
+
+div .espacioDivider{
+	padding-top: 10px;
+}
 a.noLink:link, a.noLink:visited,a.noLink:hover,a.noLink:active{
 	color: black; 
 	background-color: transparent; 

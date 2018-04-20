@@ -10,7 +10,7 @@
 
 						<span class="CA"><span class="firstcharacter">L</span>legendes de Sant Jordi n’hi ha moltes, i totes molt diferents, però a les nostres oïdes n’ha arribat una molt peculiar. Explica la llegenda que als afores d'un petit poble aguaitava un terrible drac que atemoria a tots els habitants. Amb els seus grans ullals era capaç de devorar a tot el que se li posés per davant. Al poble se li va ocórrer fer un sorteig diari entre tots els habitants i la persona que sortís seria la presa del drac, perquè així, a canvi de sacrificar a algú, deixés a tots tranquils. I així es va fer durant molt temps, fins que un dia la triada en el sorteig va ser la filla del rei. </span></p> 
 								
-								<div class="text-center"><img src="img/llegenda_divider_lg.png" class="col-sm-12 col-md-6 col-lg-6 img-fluid"></div><br>
+								<div class="text-center espacioDivider"><img src="img/llegenda_divider_lg.png" class="col-sm-12 col-md-6 col-lg-6 img-fluid"></div><br>
 					<p class="txtBorders">
 						<span class="ES">El rey, dolido, aprobó el sacrificio de su hija, y ésta se fue a las afueras para encontrarse con ese feroz dragón. De pronto, la princesa vio aparecer a un joven y apuesto caballero que estaba allí expresamente para matar al dragón y salvar a la princesa, y, tras una batalla entre el dragón y el caballero, finalmente el caballero hundió su espada en el cuerpo de la bestia. De la sangre que salió del animal, brotó un rosal, con las rosas más rojas jamás vistas. El caballero le regaló a la princesa una rosa y, tras llevarla al pueblo con el dragón a cargas como símbolo de victoria, desapareció misteriosamente y sin dejar rastro.</span>
 
