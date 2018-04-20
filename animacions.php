@@ -80,7 +80,7 @@
 					  			<iframe class="embed-responsive-item" src="img/animacions/animacioAlumne1.mp4" allowfullscreen></iframe>
 							</div>
 							<div class="col-1">
-							  	<a href="javascript:tancarDesglossament('desgAlumAni1');"><img  src="img/cartells/proposta2TancarReduida.png"></a>
+							  	<a href="javascript:tancarDesglossament('desgAlumAni1');"><img  src="img/btnCloseDiv.png"></a>
 							</div>
 						</div>
 					</div>
@@ -117,7 +117,7 @@
 				  				<iframe class="embed-responsive-item" src="img/animacions/animacioAlumne2.mp4" allowfullscreen></iframe>
 							</div>
 							<div class="col-1">
-								<a href="javascript:tancarDesglossament('desgAlumAni2');"><img src="img/cartells/proposta2TancarReduida.png"></a>
+								<a href="javascript:tancarDesglossament('desgAlumAni2');"><img src="img/btnCloseDiv.png"></a>
 							</div>
 						</div>
 					</div>
@@ -150,7 +150,7 @@
 				  				<iframe class="embed-responsive-item" src="img/animacions/animacioAlumne3.mp4" allowfullscreen></iframe>
 							</div>
 							<div class="col-1">
-								<a href="javascript:tancarDesglossament('desgAlumAni3');"><img src="img/cartells/proposta2TancarReduida.png"></a>
+								<a href="javascript:tancarDesglossament('desgAlumAni3');"><img src="img/btnCloseDiv.png"></a>
 							</div>
 						</div>
 					</div>
@@ -184,7 +184,7 @@
 				  				<iframe class="embed-responsive-item" src="img/animacions/animacioAlumne4.mp4" allowfullscreen></iframe>
 							</div>
 					  		<div class="col-1">
-								<a href="javascript:tancarDesglossament('desgAlumAni4');"><img src="img/cartells/proposta2TancarReduida.png"></a>
+								<a href="javascript:tancarDesglossament('desgAlumAni4');"><img src="img/btnCloseDiv.png"></a>
 							</div>
 						  	
 						</div>
@@ -219,7 +219,7 @@
 				  				<iframe class="embed-responsive-item" src="img/animacions/animacioAlumne5.mp4" allowfullscreen></iframe>
 							</div>
 							<div class="col-1">
-								<a href="javascript:tancarDesglossament('desgAlumAni5');"><img src="img/cartells/proposta2TancarReduida.png"></a>
+								<a href="javascript:tancarDesglossament('desgAlumAni5');"><img src="img/btnCloseDiv.png"></a>
 							</div>
 						</div>
 					</div>
@@ -258,7 +258,7 @@
 				  				<iframe class="embed-responsive-item" src="img/animacions/animacioAlumne6.mp4" allowfullscreen></iframe>
 							</div>
 					  		<div class="col-1">
-								<a href="javascript:tancarDesglossament('desgAlumAni6');"><img src="img/cartells/proposta2TancarReduida.png"></a>
+								<a href="javascript:tancarDesglossament('desgAlumAni6');"><img src="img/btnCloseDiv.png"></a>
 							</div>
 						</div>
 					</div>
@@ -295,7 +295,7 @@
 				  				<iframe class="embed-responsive-item" src="img/animacions/animacioAlumne7.mp4" allowfullscreen></iframe>
 							</div>
 							<div class="col-1">
-								<a href="javascript:tancarDesglossament('desgAlumAni7');"><img src="img/cartells/proposta2TancarReduida.png"></a>
+								<a href="javascript:tancarDesglossament('desgAlumAni7');"><img src="img/btnCloseDiv.png"></a>
 							</div>
 						</div>
 					</div>
@@ -333,7 +333,7 @@
 				  				<iframe class="embed-responsive-item" src="img/animacions/animacioAlumne8.mp4" allowfullscreen></iframe>
 							</div>
 					  		<div class="col-1">
-								<a href="javascript:tancarDesglossament('desgAlumAni8');"><img src="img/cartells/proposta2TancarReduida.png"></a>
+								<a href="javascript:tancarDesglossament('desgAlumAni8');"><img src="img/btnCloseDiv.png"></a>
 							</div>
 						  	
 						</div>
