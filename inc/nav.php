@@ -79,13 +79,13 @@
 				  		
 				  		</li>
 				  		
-				  		<li class="nav-item mt-lg-1 ml-lg-5 mr-lg-2 d-none d-lg-block">
+				  		<li class="nav-item mt-lg-1 ml-lg-5 mr-lg-2 d-none d-lg-block cursorPC">
 				   			
 				   			<a onclick="canviaIdioma('CA')"><img src="img/23px-Flag_of_Catalonia.png"></a>
 				  		
 				  		</li>
 						
-						<li class="nav-item mt-lg-1 d-none d-lg-block">
+						<li class="nav-item mt-lg-1 d-none d-lg-block cursorPC">
 				   			
 				   			<a onclick="canviaIdioma('ES')"><img src="img/23px-Flag_of_Spain.png"></a>
 				  		

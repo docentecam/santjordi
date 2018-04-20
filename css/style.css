@@ -102,8 +102,9 @@ nav a.iconoss{
 	padding-top: 0rem!important;
     padding-bottom: 0rem!important;
 }
-nav a{
+.cursorPC{
     cursor: pointer!important;
+    /*Para las banderas del nav y las imagenes de carteles*/
 }
 .carousel-indicators > li {
 	border-radius: 50%;
