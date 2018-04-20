@@ -387,6 +387,10 @@ a.noLink:link, a.noLink:visited,a.noLink:hover,a.noLink:active{
 	.cartellEspai{
 		margin-top:20px;
 	}
+
+	.txtPeq{
+		font-size:11pt;
+	}
 }
 @media (min-width: 1200px){
 	.txtWeb{
