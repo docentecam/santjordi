@@ -20,18 +20,18 @@
 				</span>
 			</h5>			
 		</div>
-		<div class="col-12 col-lg-4  mt-2 col-12 cursorPC">
-				<img src="img/Capturamockingboot2.JPG" class="img-fluid borderRound" onclick="agrandaDiv(2)">
+		<div class="col-12 col-lg-4  mt-2 col-12">
+				<img src="img/Capturamockingboot2.JPG" class="img-fluid borderRound cursorPC" onclick="agrandaDiv(2)">
 				<h5 class="text-center"><span class="CA" style="display:none;">2-Crear una estructura</span><span class="ES" style="display:none;">2-Crear una estructura</span></h5>		
 		</div>
 	</div>
 	<div class="row">
-		<div class="offset-lg-2 col-12 col-lg-4 mb-5 mt-1 cursorPC">
-			<img src="img/CapturaHangout.JPG" class="img-fluid borderRound" onclick="agrandaDiv(3)">
+		<div class="offset-lg-2 col-12 col-lg-4 mb-5 mt-1">
+			<img src="img/CapturaHangout.JPG" class="img-fluid borderRound cursorPC" onclick="agrandaDiv(3)">
 				<h5 class="text-center"><span class="CA" style="display:none;">3-Posar en comú</span><span class="ES" style="display:none;">3-Poner en común</span></h5>
 		</div>
-		<div class="col-12 col-lg-4  mt-2 col-12 cursorPC">
-			<img src="img/Capturafilezila4.JPG" class="img-fluid borderRound" onclick="agrandaDiv(4)">
+		<div class="col-12 col-lg-4  mt-2 col-12">
+			<img src="img/Capturafilezila4.JPG" class="img-fluid borderRound cursorPC" onclick="agrandaDiv(4)">
 				<h5 class="text-center"><span class="CA" style="display:none;">4-Finalitzar el projecte</span><span class="ES" style="display:none;">4-Finalizar el proyecto</span></h5>
 		</div>
 	</div>
