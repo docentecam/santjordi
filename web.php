@@ -6,10 +6,9 @@
 		<span class="ES" style="display:none;">Proceso de creación de la página</span></h1>
 	</div>
 </div>
-	<div class="col-lg-8 offset-lg-2 mb-5">
+	<div class="col-lg-8 offset-lg-2 mb-5 ">
 		<a href="#movimientoDiv"><img class="img-fluid borderRound" src="img/fotoGrupo.jpg"></a>
 		<p class="text-center ml-3 mr-3 mt-2"><span class="CA" style="display:none;">Hello world! Som <b>el Rafat, l’Andrea, el Raúl, la Raquel, l’Oscar, el Santi, la Clàudia i l'Alix</b>, els creadors d’aquesta pàgina web. Formem part de l'especialitat de desenvolupament d'app i web apps, dins del projecte de Treballs als barris de la Casa d’Oficis de Barcelona Activa.</span><span class="ES" style="display:none;">Hello world! Somos  <b>Rafat, Andrea, Raúl, Raquel, Oscar, Santi, Clàudia y Alix</b>, los creadores de esta página web. Formamos parte de la especialidad de desarrollo de app y web apps, dentro del proyecto de Treballs als barris de la Casa d’Oficis de Barcelona Activa.</span></p>
-
 	</div>
 	<div class="row">
 		<div  class="cursorPC offset-lg-2 col-12 col-lg-4 col-12  mb-3 mt-1">
@@ -38,10 +37,6 @@
 
 </div>
 					
-
-
-
-
 <div id="myModal1" class="row mostraDiv modal">
 	<div class="row mx-0">
 		<div class="close col-12 d-flex justify-content-end">
@@ -82,8 +77,8 @@
 		</div>
 	</div>
 </div>
-	
 <div id=myModal2 class="row mostraDiv modal mx-0">
+
 	<div class="close col-12 d-flex justify-content-end">
 		<img src="img/btnCloseDiv.png" class="img-fluid" onclick="tancaDiv(2)">
 	</div>
@@ -160,8 +155,6 @@
 			</div>
 	</div>
 </div>	
-
-
 <div class="row mx-0">
 	<div class="col-lg-10 offset-lg-1 mt-3 mb-3 px-5 py-2" id="nosaltres">
 
@@ -194,8 +187,6 @@
 					</p>
 				</div>
 			</div>
-
-
 			<div class="col-md-6 col-lg-3">
 				<div class="web_persona_arriba">
 					<img src="img/avatars/img_raq.png" class="img-fluid">
@@ -220,8 +211,6 @@
 					</p>
 				</div>
 			</div>
-
-
 			<div class="col-md-6 col-lg-3">
 				<div class="web_persona_arriba">
 					<img src="img/avatars/img_ali.png" class="img-fluid">
@@ -246,8 +235,6 @@
 					</p>
 				</div>
 			</div>
-
-
 			<div class="col-md-6 col-lg-3">
 				<div class="web_persona_arriba">
 					<img src="img/avatars/img_osc.png" class="img-fluid">
