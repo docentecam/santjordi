@@ -102,8 +102,9 @@ nav a.iconoss{
 	padding-top: 0rem!important;
     padding-bottom: 0rem!important;
 }
-nav a{
+.cursorPC{
     cursor: pointer!important;
+    /*Para las banderas del nav y las imagenes de carteles*/
 }
 .carousel-indicators > li {
 	border-radius: 50%;
@@ -119,6 +120,10 @@ nav a{
 	width: 12px;
 	height: 12px;
 	background-color: #404040;
+}
+
+div .espacioDivider{
+	padding-top: 10px;
 }
 a.noLink:link, a.noLink:visited,a.noLink:hover,a.noLink:active{
 	color: black; 
@@ -382,6 +387,10 @@ a.noLink:link, a.noLink:visited,a.noLink:hover,a.noLink:active{
 	}
 	.cartellEspai{
 		margin-top:20px;
+	}
+
+	.txtPeq{
+		font-size:11pt;
 	}
 }
 @media (min-width: 1200px){

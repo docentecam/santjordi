@@ -28,7 +28,7 @@
 					</p>
 				</div>
 
-				<div class="col-12 col-lg-6 pl-lg-5 order-lg-1 order-3 order-lg-1">
+				<div class="col-12 col-lg-6 order-lg-1 order-3 order-lg-1">
 					<h1 class="txtTitles">
 						<span class="CA">La festivitat al carrer</span>
 						<span class="ES">La festividad en la calle</span>
@@ -52,8 +52,8 @@
 				<br/><div class="col-12 col-lg-6 pr-lg-5 imgSize fill mb-2 order-1 d-lg-none"><img src="img/santJordiEscola_movil.jpg" class="imgfestivitats img-fluid"></div>
 				<div class="col-12 col-lg-6 pr-lg-5 imgSize fill mb-2 order-1 order-lg-4 d-none d-lg-block"><img src="img/santJordiEscola.jpg" class="imgfestivitats img-fluid"></div>
 				<br/>
-				<div class="col-12 col-lg-6 pl-lg-5 imgSize fill mb-2 order-4 d-lg-none"><img src="img/santJordiCarrer_movil.jpg" class="imgfestivitats img-fluid"></div>
-				<div class="col-12 col-lg-6 pl-lg-5 imgSize fill mb-2 order-4 order-lg-5 d-none d-lg-block"><img src="img/santJordiCarrer.jpg" class="imgfestivitats img-fluid"></div>
+				<div class="col-12 col-lg-6 imgSize fill mb-2 order-4 d-lg-none"><img src="img/santJordiCarrer_movil.jpg" class="imgfestivitats img-fluid"></div>
+				<div class="col-12 col-lg-6 imgSize fill mb-2 order-4 order-lg-5 d-none d-lg-block"><img src="img/santJordiCarrer.jpg" class="imgfestivitats img-fluid"></div>
 			</div>
 		</div>
 	</diV>		

@@ -1,16 +1,15 @@
 <?php include ("inc/head.php");?>
 
 <div class="row">
-	<div class="col-12 d-none d-sm-block txtTitles text-center mb-5">
+	<div class="col-12 d-none d-sm-block txtTitles text-center mb-3">
 		<h1><span class="CA" style="display:none;">Procés de creació de la pàgina</span>
 		<span class="ES" style="display:none;">Proceso de creación de la página</span></h1>
 	</div>
 </div>
+	<div class="col-lg-8 offset-lg-2 mb-5">
+		<a href="#movimientoDiv"><img class="img-fluid borderRound" src="img/fotoGrupo.jpg"></a>
+		<p class="text-center ml-3 mr-3 mt-2"><span class="CA" style="display:none;">Hello world! Som <b>el Rafat, l’Andrea, el Raúl, la Raquel, l’Oscar, el Santi, la Clàudia i la Alix</b>, els creadors d’aquesta pàgina web. Formem part de l'especialitat de desenvolupament d'app i web apps, dins del projecte de Treballs als barris de la Casa d’Oficis de Barcelona Activa.</span><span class="ES" style="display:none;">Hello world! Somos  <b>Rafat, Andrea, Raúl, Raquel, Oscar, Santi, Clàudia y Alix</b>, los creadores de esta página web. Formamos parte de la especialidad de desarrollo de app y web apps, dentro del proyecto de Treballs als barris de la Casa d’Oficis de Barcelona Activa.</span></p>
 
-<div class="row">
-	<div class="col-lg-8 offset-lg-2 mb-5 ">
-		<img class="img-fluid borderRound" src="img/fotoGrupo.jpg">
-		<h5 class="text-center ml-3 mr-3"><span class="CA" style="display:none;">Hello world! Som el Rafat, <b>l’Andrea, el Raúl, la Raquel, l’Oscar, el Santi i la Clàudia</b>, els creadors d’aquesta pàgina web. Formem part de l'especialitat de desenvolupament d'app i web apps, dins del projecte de Treballs als barris de la Casa d’Oficis de Barcelona Activa.</span><span class="ES" style="display:none;">Hello world! Somos  <b>Rafat, Andrea, Raúl, Raquel, Oscar, Santi y Clàudia</b>, los creadores de esta página web. Formamos parte de la especialidad de desarrollo de app y web apps, dentro del proyecto de Treballs als barris de la Casa d’Oficis de Barcelona Activa.</span></h5>
 	</div>
 	<div class="row">
 		<!-- offset-lg-4 col-12 id="myModal1"-->
@@ -39,32 +38,7 @@
 	</div>
 
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-		
-		
-			
-			
-	
-
-
-
-
-
-
-
+					
 
 
 
@@ -195,8 +169,13 @@
 	</div>
 </div>	
 
+
 <div class="row mx-0">
 	<div class="col-lg-10 offset-lg-1 mt-3 mb-3 px-5 py-2" id="nosaltres">
+
+<a name="movimientoDiv"><diV class="row mx-0"></a>
+	<div class="col-lg-10 offset-lg-1 mt-3 mb-3 px-5 py-2 txtPeq" id="nosaltres">
+
 		<div class="row">
 
 			<div class="col-md-6 col-lg-3">
@@ -207,8 +186,8 @@
 						</br>
 						<i>"El segurata"</i>
 						</br>
-						<span class="CA">Cap de projecte + index</span>
-						<span class="ES">Jefe de proyecto + index</span>
+						<span class="CA">Cap de projecte</span>
+						<span class="ES">Jefe de proyecto</span>
 					</p>
 				</div>
 				<div class="web_persona_abajo">
