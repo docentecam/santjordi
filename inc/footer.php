@@ -2,9 +2,9 @@
 	<div class="d-lg-none borderFooter mt-2">
 			<img src="img/footer_web.jpg" class="img-fluid p-0 col-9">
 			
-			<a onclick="canviaIdioma('CA')" class="col-1 p-0 ml-md-5"><img src="img/23px-Flag_of_Catalonia.png"></a>
+			<a onclick="canviaIdioma('CA')" class="col p-0 ml-md-5"><img src="img/23px-Flag_of_Catalonia.png"></a>
 			
-			<a onclick="canviaIdioma('ES')" class="col-1 p-0"><img src="img/23px-Flag_of_Spain.png"></a>
+			<a onclick="canviaIdioma('ES')" class="col offset-1 p-0"><img src="img/23px-Flag_of_Spain.png"></a>
 			
 	</div>
 	<div class="d-none d-lg-block borderFooter mt-2">
