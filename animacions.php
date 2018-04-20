@@ -1,13 +1,13 @@
 <?php include("inc/head.php");?>
 	<div class="row">
 
-		<div  class="col-12 d-none d-sm-block txtTitles text-center mb-3"><h1><span class="CA" style="display:none;">Les Animacions</span><span class="ES" style="display:none;">Las Animaciones</span></h1></div>
+		<div  class="col-12 d-none d-sm-block txtTitles text-center mb-4"><h1><span class="CA" style="display:none;">Les Animacions</span><span class="ES" style="display:none;">Las Animaciones</span></h1></div>
 	</div>
 
 		<div class="row mx-0"> 
 		    <div class="col-sm-12 col-md-4 col-lg-3">
 				<a class="noLink" href="javascript:mostrarDesglossament('desgAlumAni1');">
-			    	<img class=" col-12 img-fluid" src="img/animacions/animacio1_lg.jpg" alt="" title="">
+			    	<img class=" col-12 img-fluid" src="img/animacions/animacio1.png" alt="" title="">
 			    </a>
 				  	<div  class="col-12 text-center"><span class="CA" style="display:none;"><b>Odissea a Barcelona</b></span><span class="ES" style="display:none;"><b>Odisea en Barcelona</b></span></div>
 				    <div class="col-12 text-center mb-4">Adrià Morilla </div>
@@ -15,7 +15,7 @@
 		    </div>
 		    <div class="col-sm-12 col-md-4 col-lg-3">
 				<a class="noLink" href="javascript:mostrarDesglossament('desgAlumAni2');">
-			    	<img class=" col-12 img-fluid" src="img/animacions/animacio2_lg.jpg" alt="" title="">
+			    	<img class=" col-12 img-fluid" src="img/animacions/animacio2.png" alt="" title="">
 			    </a>
 				  	<div class="col-12 text-center"><span class="CA" style="display:none;"><b>Un Desconegut Inesperat</b></span><span class="ES" style="display:none;"><b>Un Desconocido Inesperado</b></span></div>
 				    <div class="col-12 text-center mb-4">Iván Ruiz </div>
@@ -23,7 +23,7 @@
 		    </div>
 		    <div class="col-sm-12 col-md-4 col-lg-3">
 				<a class="noLink" href="javascript:mostrarDesglossament('desgAlumAni3');">
-			    	<img class=" col-12 img-fluid" src="img/animacions/animacio3_lg.jpg" alt="" title="">
+			    	<img class=" col-12 img-fluid" src="img/animacions/animacio3.png" alt="" title="">
 			    </a>
 				  	<div class="col-12 text-center "><span class="CA" style="display:none;"><b>L’aventura del Petit Cavaller</b></span><span class="ES" style="display:none;"><b>La aventura del Pequeño Caballero</b></span></div>
 				    <div class="col-12 text-center mb-4">Eva Sopale  </div>
@@ -31,7 +31,7 @@
 		    </div>
 		    <div class="col-sm-12 col-md-4 col-lg-3">
 				<a class="noLink" href="javascript:mostrarDesglossament('desgAlumAni4');">
-			    	<img class=" col-12 img-fluid" src="img/animacions/animacio4_lg.jpg" alt="" title="">
+			    	<img class=" col-12 img-fluid" src="img/animacions/animacio4.png" alt="" title="">
 			    </a>
 				  	<div class="col-12 text-center"><span class="CA" style="display:none;"><b>Malson abans de Sant Jordi</b></span><span class="ES" style="display:none;"><b>Pesadilla antes de Sant Jordi</b></span></div>
 				    <div class="col-12 text-center mb-4">Nicolás Torres </div>
@@ -39,15 +39,15 @@
 		    </div>
 		    <div class="col-sm-12 col-md-4 col-lg-3">
 				<a class="noLink" href="javascript:mostrarDesglossament('desgAlumAni5');">
-			    	<img class=" col-12 img-fluid" src="img/animacions/animacio5_lg.jpg" alt="" title="">
+			    	<img class=" col-12 img-fluid" src="img/animacions/animacio5.png" alt="" title="">
 			    </a>
-				  	<div class="col-12 text-center"><span class="CA" style="display:none;"><b>Una Història Diferent</b></span><span class="ES" style="display:none;"><b>Una Historia Distinta</b></span></div>
+				  	<div class="col-12 text-center"><span class="CA" style="display:none;"><b>Una Història Distinta</b></span><span class="ES" style="display:none;"><b>Una Historia Distinta</b></span></div>
 				    <div class="col-12 text-center mb-4">Juan Reyes </div>
 				
 		    </div>
 		    <div class="col-sm-12 col-md-4 col-lg-3">
 				<a class="noLink" href="javascript:mostrarDesglossament('desgAlumAni6');">
-			    	<img class=" col-12 img-fluid" src="img/animacions/animacio6_lg.jpg" alt="" title="">
+			    	<img class=" col-12 img-fluid" src="img/animacions/animacio6.png" alt="" title="">
 			    </a>
 				  	<div class="col-12 text-center"><span class="CA" style="display:none;"><b>Un final inesperat</b></span><span class="ES" style="display:none;"><b>Un final inesperado</b></span></div>
 				    <div class="col-12 text-center mb-4">Jose Muñoz </div>
@@ -55,7 +55,7 @@
 		    </div>
 		    <div class="col-sm-12 col-md-4 col-lg-3">
 				<a class="noLink" href="javascript:mostrarDesglossament('desgAlumAni7');">
-			    	<img class=" col-12 img-fluid" src="img/animacions/animacio7_lg.jpg" alt="" title="">
+			    	<img class=" col-12 img-fluid" src="img/animacions/animacio7.png" alt="" title="">
 			    </a>
 				  	<div class="col-12 text-center"><span class="CA" style="display:none;"><b>La llegenda del misteriós llibre per Sant Jordi</b></span><span class="ES" style="display:none;"><b>La leyenda del misterioso libro para Sant Jordi</b></span></div>
 				    <div class="col-12 text-center mb-4">Jordi Pecellin </div>
@@ -77,7 +77,7 @@
 				  	<div class="col-12 col-md-6 offset-md-3">
 				  		<div class="row">
 							<div class="col-10 embed-responsive embed-responsive-16by9 mt-4">
-					  			<iframe class="embed-responsive-item" src="img/animacions/animacioAlumne1_lg.mp4" allowfullscreen></iframe>
+					  			<iframe class="embed-responsive-item" src="img/animacions/animacioAlumne1.mp4" allowfullscreen></iframe>
 							</div>
 							<div class="col-1">
 							  	<a href="javascript:tancarDesglossament('desgAlumAni1');"><img  src="img/cartells/proposta2TancarReduida.png"></a>
@@ -88,7 +88,7 @@
 				
 				<div class="row">
 					    <div class="col-4 col-md-2 offset-md-3">
-					    	<img class="img-fluid mt-3" src="img/animacions/retrat1_lg.jpg" alt="" title="">
+					    	<img class="img-fluid mt-3" src="img/animacions/retrat1.png" alt="" title="">
 					    </div>
 						<div class="col-8 col-md-3 mt-4 mt-md-2 mt-lg-4 mt-xl-4">
 								<h5><b>Adrià Morilla  </h5></b>
@@ -114,7 +114,7 @@
 				  	<div class="col-sm-12 col-md-6 offset-md-3">
 				  		<div class="row">
 						  	<div class="col-10 embed-responsive embed-responsive-16by9 mt-4">
-				  				<iframe class="embed-responsive-item" src="img/animacions/animacioAlumne2_lg.mp4" allowfullscreen></iframe>
+				  				<iframe class="embed-responsive-item" src="img/animacions/animacioAlumne2.mp4" allowfullscreen></iframe>
 							</div>
 							<div class="col-1">
 								<a href="javascript:tancarDesglossament('desgAlumAni2');"><img src="img/cartells/proposta2TancarReduida.png"></a>
@@ -125,7 +125,7 @@
 
 				<div class="row">
 					    <div class="col-4 col-md-2 offset-md-3">
-					    	<img  class="img-fluid mt-3" src="img/animacions/retrat2_lg.jpg" alt="" title="">
+					    	<img  class="img-fluid mt-3" src="img/animacions/retrat2.png" alt="" title="">
 					    </div>
 						<div class="col-8 col-md-3 mt-4 mt-md-2 mt-lg-4 mt-xl-4">
 								<h5><b>Iván Ruiz</h5></b> 
@@ -147,7 +147,7 @@
 				  	<div class="col-sm-12 col-md-6 offset-md-3">
 					  	<div class="row">
 						  	<div class="col-10 embed-responsive embed-responsive-16by9 mt-4">
-				  				<iframe class="embed-responsive-item" src="img/animacions/animacioAlumne3_lg.mp4" allowfullscreen></iframe>
+				  				<iframe class="embed-responsive-item" src="img/animacions/animacioAlumne3.mp4" allowfullscreen></iframe>
 							</div>
 							<div class="col-1">
 								<a href="javascript:tancarDesglossament('desgAlumAni3');"><img src="img/cartells/proposta2TancarReduida.png"></a>
@@ -158,7 +158,7 @@
 
 				<div class="row">
 					    <div class="col-4 col-md-2 offset-md-3">
-					    	<img  class="img-fluid mt-3" src="img/animacions/retrat3_lg.jpg" alt="" title="">
+					    	<img  class="img-fluid mt-3" src="img/animacions/retrat3.png" alt="" title="">
 					    </div>
 						<div class="col-8 col-md-3 mt-4 mt-md-2 mt-lg-4 mt-xl-4">
 								<h5><b>Eva Sopale</b></h5>
@@ -181,7 +181,7 @@
 				  	<div class="col-sm-12 col-md-6 offset-md-3">
 				  		<div class="row">
 				  			<div class=" col-10 embed-responsive embed-responsive-16by9 mt-4">
-				  				<iframe class="embed-responsive-item" src="img/animacions/animacioAlumne4_lg.mp4" allowfullscreen></iframe>
+				  				<iframe class="embed-responsive-item" src="img/animacions/animacioAlumne4.mp4" allowfullscreen></iframe>
 							</div>
 					  		<div class="col-1">
 								<a href="javascript:tancarDesglossament('desgAlumAni4');"><img src="img/cartells/proposta2TancarReduida.png"></a>
@@ -192,7 +192,7 @@
 				</div>
 				<div class="row">
 					    <div class="col-4 col-md-2 offset-md-3">
-					    	<img  class="img-fluid mt-3" src="img/animacions/retrat4_lg.jpg" alt="" title="">
+					    	<img  class="img-fluid mt-3" src="img/animacions/retrat4.png" alt="" title="">
 					    </div>
 						<div class="col-8 col-md-3  mt-4 mt-md-2 mt-lg-4 mt-xl-4">
 							<h5><b>Nicolás Torres</b></h5>
@@ -216,7 +216,7 @@
 				  	<div class="col-sm-12 col-md-6 offset-md-3">
 				  		<div class="row">
 						  	<div class="col-10 embed-responsive embed-responsive-16by9 mt-4">
-				  				<iframe class="embed-responsive-item" src="img/animacions/animacioAlumne5_lg.mp4" allowfullscreen></iframe>
+				  				<iframe class="embed-responsive-item" src="img/animacions/animacioAlumne5.mp4" allowfullscreen></iframe>
 							</div>
 							<div class="col-1">
 								<a href="javascript:tancarDesglossament('desgAlumAni5');"><img src="img/cartells/proposta2TancarReduida.png"></a>
@@ -227,7 +227,7 @@
 
 				<div class="row">
 					    <div class="col-4 col-md-2 offset-md-3">
-					    	<img  class="img-fluid mt-3" src="img/animacions/retrat5_lg.jpg" alt="" title="">
+					    	<img  class="img-fluid mt-3" src="img/animacions/retrat5.png" alt="" title="">
 					    </div>
 						<div class="col-8 col-md-3  mt-4 mt-md-2 mt-lg-4 mt-xl-4">
 								<h5><b>Juan Reyes </b></h5>
@@ -255,7 +255,7 @@
 				  	<div class="col-sm-12 col-md-6 offset-md-3">
 					  	<div class="row">
 					  		<div class=" col-10 embed-responsive embed-responsive-16by9 mt-4">
-				  				<iframe class="embed-responsive-item" src="img/animacions/animacioAlumne6_lg.mp4" allowfullscreen></iframe>
+				  				<iframe class="embed-responsive-item" src="img/animacions/animacioAlumne6.mp4" allowfullscreen></iframe>
 							</div>
 					  		<div class="col-1">
 								<a href="javascript:tancarDesglossament('desgAlumAni6');"><img src="img/cartells/proposta2TancarReduida.png"></a>
@@ -266,7 +266,7 @@
 
 				<div class="row">
 					    <div class="col-4 col-md-2 offset-md-3">
-					    	<img  class="img-fluid mt-3" src="img/animacions/retrat6_lg.jpg" alt="" title="">
+					    	<img  class="img-fluid mt-3" src="img/animacions/retrat6.png" alt="" title="">
 					    </div>
 						<div class="col-8 col-md-3 mt-4 mt-md-2 mt-lg-4 mt-xl-4">
 							 <h5><b>Jose Muñoz </b></h5>
@@ -292,7 +292,7 @@
 				  		<div class="row">
 					  		
 						  	<div class="col-10 embed-responsive embed-responsive-16by9 mt-4">
-				  				<iframe class="embed-responsive-item" src="img/animacions/animacioAlumne7_lg.mp4" allowfullscreen></iframe>
+				  				<iframe class="embed-responsive-item" src="img/animacions/animacioAlumne7.mp4" allowfullscreen></iframe>
 							</div>
 							<div class="col-1">
 								<a href="javascript:tancarDesglossament('desgAlumAni7');"><img src="img/cartells/proposta2TancarReduida.png"></a>
@@ -303,7 +303,7 @@
 
 				<div class="row">
 					    <div class="col-4 col-md-2 offset-md-3">
-					    	<img  class="img-fluid mt-3" src="img/animacions/retrat7_lg.jpg" alt="" title="">
+					    	<img  class="img-fluid mt-3" src="img/animacions/retrat7.png" alt="" title="">
 					    </div>
 						<div class="col-8 col-md-3  mt-4 mt-md-2 mt-lg-4 mt-xl-4">
 								<h5><b>Jordi Pecellin </b></h5>
@@ -330,7 +330,7 @@
 				  	<div class="col-12 col-md-6 offset-md-3"> 
 				  		<div class="row">
 				  			<div class="col-10 embed-responsive embed-responsive-16by9 mt-4">
-				  				<iframe class="embed-responsive-item" src="img/animacions/animacioAlumne8_lg.mp4" allowfullscreen></iframe>
+				  				<iframe class="embed-responsive-item" src="img/animacions/animacioAlumne8.mp4" allowfullscreen></iframe>
 							</div>
 					  		<div class="col-1">
 								<a href="javascript:tancarDesglossament('desgAlumAni8');"><img src="img/cartells/proposta2TancarReduida.png"></a>
@@ -363,4 +363,3 @@
 				
 
 <?php include("inc/footer.php");?>
-

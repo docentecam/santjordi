@@ -168,7 +168,7 @@
 				<img src="img/CapturaParaWeb.JPG" class="img-fluid borderRound">
 			</div>
 			<div class=" col-lg-4 mt-4">
-				<img src="img/Capturafilezila4.JPG" class="img-fluid borderRound mb-5">
+				<img src="img/CapturaFilezila4.JPG" class="img-fluid borderRound mb-5">
 			</div>
 		</div>
 	</div>
