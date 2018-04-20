@@ -1,11 +1,6 @@
 $( document ).ready(function() {
    	if(!getCookie('selIdi')){
    		setCookie('selIdi','CA',365);
-   		console.log("Creamos cookie y seleccionamos catalàn");
-   	}
-   	else
-   	{
-   		console.log("Hay cookie");
    	}
    	objetosCA=document.getElementsByClassName("CA");
 	objetosES=document.getElementsByClassName("ES");
@@ -71,18 +66,6 @@ function agrandaDiv(num){
 function tancaDiv(num)
 {
 	document.getElementById("myModal"+num).style.display = "none";
-}
-
-
-
-function mostrarDesglossament(idDiv) {
-	divMostrar = document.getElementById(idDiv);
-	divMostrar.style.display = 'block';
-	console.log("arriba");
-}
-function tancarDesglossament(idDiv) {
-	divOcultar = document.getElementById(idDiv);
-	divOcultar.style.display = 'none';
 }
 
 // Get the modal

@@ -4,7 +4,7 @@
 		<div  class="col-12 d-none d-sm-block txtTitles text-center mb-4"><h1><span class="CA" style="display:none;">Les Animacions</span><span class="ES" style="display:none;">Las Animaciones</span></h1></div>
 	</div>
 
-		<div class="row mx-0"> 
+		<div class="row mx-0 mt-4 mt-md-0"> 
 		    <div class="col-sm-12 col-md-4 col-lg-3">
 				<img class=" col-12 img-fluid" src="img/animacions/animacio1.png" alt="" title="" onclick="agrandaDiv(1);">
 			    <div  class="col-12 text-center"><span class="CA" style="display:none;"><b>Odissea a Barcelona</b></span><span class="ES" style="display:none;"><b>Odisea en Barcelona</b></span></div>
@@ -14,15 +14,15 @@
 				 	<div class="row">	
 					  	<div class="col-12 col-md-6 offset-md-3">
 					  		<div class="row">
-								<div class="col-10 embed-responsive embed-responsive-16by9 mt-4">
+								<div class="col-10 embed-responsive embed-responsive-16by9 mt-4 offset-1 offset-md-0">
 						  			<iframe class="embed-responsive-item" src="img/animacions/animacioAlumne1.mp4" allowfullscreen></iframe>
 								</div>
 							</div>
 						</div>
 					</div>
 					<div class="row">
-						<div class="col-4 col-md-2 offset-md-3"><img class="img-fluid mt-3" src="img/animacions/retrat1.png" alt="" title=""></div>
-						<div class="col-8 col-md-3 mt-4 mt-md-2 mt-lg-4 mt-xl-4 textWhite">
+						<div class="col-4 col-md-2 offset-1 offset-md-3"><img class="img-fluid mt-3" src="img/animacions/retrat1.png" alt="" title=""></div>
+						<div class="col-6 col-md-3 mt-4 mt-md-2 mt-lg-4 mt-xl-4 textWhite">
 							<h5><b>Adrià Morilla </b> </h5>
 							<p class="mt-sm-2 mt-md-3 mt-lg-4 ">
 								<span class="CA " style="display:none; ">
@@ -49,15 +49,15 @@
 				 	<div class="row">	
 					  	<div class="col-12 col-md-6 offset-md-3">
 					  		<div class="row">
-								<div class="col-10 embed-responsive embed-responsive-16by9 mt-4">
+								<div class="col-10 embed-responsive embed-responsive-16by9 mt-4 offset-1 offset-md-0">
 						  			<iframe class="embed-responsive-item" src="img/animacions/animacioAlumne2.mp4" allowfullscreen></iframe>
 								</div>
 							</div>
 						</div>
 					</div>
 					<div class="row">
-						<div class="col-4 col-md-2 offset-md-3"><img class="img-fluid mt-3" src="img/animacions/retrat2.png" alt="" title=""></div>
-						<div class="col-8 col-md-3 mt-4 mt-md-2 mt-lg-4 mt-xl-4 textWhite">
+						<div class="col-4 col-md-2 offset-1 offset-md-3"><img class="img-fluid mt-3" src="img/animacions/retrat2.png" alt="" title=""></div>
+						<div class="col-6 col-md-3 mt-4 mt-md-2 mt-lg-4 mt-xl-4 textWhite">
 							<h5><b>Iván Ruiz</b> </h5>
 							<p class="mt-sm-2 mt-md-3 mt-lg-4 ">
 								<span class="CA " style="display:none; ">
@@ -85,15 +85,15 @@
 							 	<div class="row">	
 								  	<div class="col-12 col-md-6 offset-md-3">
 								  		<div class="row">
-											<div class="col-10 embed-responsive embed-responsive-16by9 mt-4">
+											<div class="col-10 embed-responsive embed-responsive-16by9 mt-4 offset-1 offset-md-0">
 									  			<iframe class="embed-responsive-item" src="img/animacions/animacioAlumne3.mp4" allowfullscreen></iframe>
 											</div>
 										</div>
 									</div>
 								</div>
 								<div class="row">
-									<div class="col-4 col-md-2 offset-md-3"><img class="img-fluid mt-3" src="img/animacions/retrat3.png" alt="" title=""></div>
-									<div class="col-8 col-md-3 mt-4 mt-md-2 mt-lg-4 mt-xl-4 textWhite">
+									<div class="col-4 col-md-2 offset-1 offset-md-3"><img class="img-fluid mt-3" src="img/animacions/retrat3.png" alt="" title=""></div>
+									<div class="col-6 col-md-3 mt-4 mt-md-2 mt-lg-4 mt-xl-4 textWhite">
 										<h5><b>Eva Sopale </b> </h5>
 										<p class="mt-sm-2 mt-md-3 mt-lg-4 ">
 											<span class="CA " style="display:none; ">
@@ -122,15 +122,15 @@
 										 	<div class="row">	
 											  	<div class="col-12 col-md-6 offset-md-3">
 											  		<div class="row">
-														<div class="col-10 embed-responsive embed-responsive-16by9 mt-4">
+														<div class="col-10 embed-responsive embed-responsive-16by9 mt-4 offset-1 offset-md-0">
 												  			<iframe class="embed-responsive-item" src="img/animacions/animacioAlumne4.mp4" allowfullscreen></iframe>
 														</div>
 													</div>
 												</div>
 											</div>
 											<div class="row">
-												<div class="col-4 col-md-2 offset-md-3"><img class="img-fluid mt-3" src="img/animacions/retrat4.png" alt="" title=""></div>
-												<div class="col-8 col-md-3 mt-4 mt-md-2 mt-lg-4 mt-xl-4 textWhite">
+												<div class="col-4 col-md-2 offset-1 offset-md-3"><img class="img-fluid mt-3" src="img/animacions/retrat4.png" alt="" title=""></div>
+												<div class="col-6 col-md-3 mt-4 mt-md-2 mt-lg-4 mt-xl-4 textWhite">
 													<h5><b>Nicolás Torres </b> </h5>
 													<p class="mt-sm-2 mt-md-3 mt-lg-4 ">
 														<span class="CA " style="display:none; ">
@@ -156,15 +156,15 @@
 													 	<div class="row">	
 														  	<div class="col-12 col-md-6 offset-md-3">
 														  		<div class="row">
-																	<div class="col-10 embed-responsive embed-responsive-16by9 mt-4">
+																	<div class="col-10 embed-responsive embed-responsive-16by9 mt-4 offset-1 offset-md-0">
 															  			<iframe class="embed-responsive-item" src="img/animacions/animacioAlumne5.mp4" allowfullscreen></iframe>
 																	</div>
 																</div>
 															</div>
 														</div>
 														<div class="row">
-															<div class="col-4 col-md-2 offset-md-3"><img class="img-fluid mt-3" src="img/animacions/retrat5.png" alt="" title=""></div>
-															<div class="col-8 col-md-3 mt-4 mt-md-2 mt-lg-4 mt-xl-4 textWhite">
+															<div class="col-4 col-md-2 offset-1 offset-md-3"><img class="img-fluid mt-3" src="img/animacions/retrat5.png" alt="" title=""></div>
+															<div class="col-6 col-md-3 mt-4 mt-md-2 mt-lg-4 mt-xl-4 textWhite">
 																<h5><b>Juan Reyes</b> </h5>
 																<p class="mt-sm-2 mt-md-3 mt-lg-4 ">
 																	<span class="CA " style="display:none; ">
