@@ -15,7 +15,7 @@
 					  	<div class="col-12 col-md-6 offset-md-3">
 					  		<div class="row">
 								<div class="col-10 embed-responsive embed-responsive-16by9 mt-4 offset-1 offset-md-0">
-						  			<iframe class="embed-responsive-item" src="img/animacions/animacioAlumne1.mp4" allowfullscreen></iframe>
+						  			<iframe id="videoStJ1" class="embed-responsive-item" src="" allowfullscreen></iframe>
 								</div>
 							</div>
 						</div>
@@ -50,7 +50,7 @@
 					  	<div class="col-12 col-md-6 offset-md-3">
 					  		<div class="row">
 								<div class="col-10 embed-responsive embed-responsive-16by9 mt-4 offset-1 offset-md-0">
-						  			<iframe class="embed-responsive-item" src="img/animacions/animacioAlumne2.mp4" allowfullscreen></iframe>
+						  			<iframe id="videoStJ2" class="embed-responsive-item" src="" allowfullscreen></iframe>
 								</div>
 							</div>
 						</div>
@@ -86,7 +86,7 @@
 								  	<div class="col-12 col-md-6 offset-md-3">
 								  		<div class="row">
 											<div class="col-10 embed-responsive embed-responsive-16by9 mt-4 offset-1 offset-md-0">
-									  			<iframe class="embed-responsive-item" src="img/animacions/animacioAlumne3.mp4" allowfullscreen></iframe>
+									  			<iframe id="videoStJ3" class="embed-responsive-item" src="" allowfullscreen></iframe>
 											</div>
 										</div>
 									</div>
@@ -123,7 +123,7 @@
 											  	<div class="col-12 col-md-6 offset-md-3">
 											  		<div class="row">
 														<div class="col-10 embed-responsive embed-responsive-16by9 mt-4 offset-1 offset-md-0">
-												  			<iframe class="embed-responsive-item" src="img/animacions/animacioAlumne4.mp4" allowfullscreen></iframe>
+												  			<iframe id="videoStJ4" class="embed-responsive-item" src="" allowfullscreen></iframe>
 														</div>
 													</div>
 												</div>
@@ -157,7 +157,7 @@
 														  	<div class="col-12 col-md-6 offset-md-3">
 														  		<div class="row">
 																	<div class="col-10 embed-responsive embed-responsive-16by9 mt-4 offset-1 offset-md-0">
-															  			<iframe class="embed-responsive-item" src="img/animacions/animacioAlumne5.mp4" allowfullscreen></iframe>
+															  			<iframe id="videoStJ5" class="embed-responsive-item" src="" allowfullscreen></iframe>
 																	</div>
 																</div>
 															</div>
