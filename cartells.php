@@ -15,7 +15,7 @@
 	<div class="row mx-0 mt-4 mt-md-0">
 		<div class="col-12 col-md-4 col-lg-3">
 			<div class="col-md-8 text-center offset-md-2 cursorPC"> <img src="img/cartells/cartell1.png" class="img-fluid" onclick="agrandaDiv(1);"> </div>
-			<div class="col-10 text-center mx-2 mt-1 mb-3"> Marina Aguiló </div>
+			<div class="col-10 text-center mx-2 mt-1 mb-3"> <b>Marina Aguiló</b> </div>
 			<div id="myModal1" class="modal">
 			  	<div class="close col-12 d-flex justify-content-end">
 					<img src="img/btnCloseDiv.png" class="img-fluid" onclick="tancaDiv(1);">
@@ -46,7 +46,7 @@
 
 		<div class="col-12 col-md-4 col-lg-3">
 			<div class="col-md-8 text-center offset-md-2 cursorPC"> <img src="img/cartells/cartell2.png" class="img-fluid" onclick="agrandaDiv(2);"> </div>
-			<div class="col-10 text-center mx-2 mt-1 mb-3"> Rebeca Burgos </div>
+			<div class="col-10 text-center mx-2 mt-1 mb-3"> <b>Rebeca Burgos</b> </div>
 			<div id="myModal2" class="modal">
 			  	<div class="close col-12 d-flex justify-content-end">
 					<img src="img/btnCloseDiv.png" class="img-fluid" onclick="tancaDiv(2);">
@@ -73,7 +73,7 @@
 
 		<div class="col-12 col-md-4 col-lg-3">
 			<div class="col-md-8 text-center offset-md-2 cursorPC"> <img src="img/cartells/cartell3.png" class="img-fluid" onclick="agrandaDiv(3);"> </div>
-			<div class="col-10 text-center mx-2 mt-1 mb-3"> Mari Cazorla </div>
+			<div class="col-10 text-center mx-2 mt-1 mb-3"> <b>Mari Cazorla</b> </div>
 			<div id="myModal3" class="modal">
 			  	<div class="close col-12 d-flex justify-content-end">
 					<img src="img/btnCloseDiv.png" class="img-fluid" onclick="tancaDiv(3);">
@@ -106,7 +106,7 @@
 
 		<div class="col-12 col-md-4 col-lg-3">
 			<div class="col-md-8 text-center offset-md-2 cursorPC"> <img src="img/cartells/cartell4.png" class="img-fluid" onclick="agrandaDiv(4);"> </div>
-			<div class="col-10 text-center mx-2 mt-1 mb-3"> Ana Del Campo </div>
+			<div class="col-10 text-center mx-2 mt-1 mb-3"> <b>Ana Del Campo</b> </div>
 			<div id="myModal4" class="modal">
 			  	<div class="close col-12 d-flex justify-content-end">
 					<img src="img/btnCloseDiv.png" class="img-fluid" onclick="tancaDiv(4);">
@@ -137,7 +137,7 @@
 
 		<div class="col-12 col-md-4 col-lg-3">
 			<div class="col-md-8 text-center offset-md-2 cursorPC"> <img src="img/cartells/cartell5.png" class="img-fluid" onclick="agrandaDiv(5);"> </div>
-			<div class="col-10 text-center mx-2 mt-1 mb-3"> Sara Garcimartín</div>
+			<div class="col-10 text-center mx-2 mt-1 mb-3"> <b>Sara Garcimartín</b></div>
 			<div id="myModal5" class="modal">
 			  	<div class="close col-12 d-flex justify-content-end">
 					<img src="img/btnCloseDiv.png" class="img-fluid" onclick="tancaDiv(5);">
@@ -168,7 +168,7 @@
 
 		<div class="col-12 col-md-4 col-lg-3">
 			<div class="col-md-8 text-center offset-md-2 cursorPC"> <img src="img/cartells/cartell6.png" class="img-fluid" onclick="agrandaDiv(6);"> </div>
-			<div class="col-10 text-center mx-2 mt-1 mb-3"> Belén Garrido</div>
+			<div class="col-10 text-center mx-2 mt-1 mb-3"> <b>Belén Garrido</b></div>
 			<div id="myModal6" class="modal">
 			  	<div class="close col-12 d-flex justify-content-end">
 					<img src="img/btnCloseDiv.png" class="img-fluid" onclick="tancaDiv(6);">
@@ -200,7 +200,7 @@
 
 		<div class="col-12 col-md-4 col-lg-3">
 			<div class="col-md-8 text-center offset-md-2 cursorPC"> <img src="img/cartells/cartell7.png" class="img-fluid" onclick="agrandaDiv(7);"> </div>
-			<div class="col-10 text-center mx-2 mt-1 mb-3"> Rosa Gilibert</div>
+			<div class="col-10 text-center mx-2 mt-1 mb-3"> <b>Rosa Gilibert</b></div>
 			<div id="myModal7" class="modal">
 			  	<div class="close col-12 d-flex justify-content-end">
 					<img src="img/btnCloseDiv.png" class="img-fluid" onclick="tancaDiv(7);">
@@ -232,7 +232,7 @@
 
 		<div class="col-12 col-md-4 col-lg-3">
 			<div class="col-md-8 text-center offset-md-2 cursorPC"> <img src="img/cartells/cartell8.png" class="img-fluid" onclick="agrandaDiv(8);"> </div>
-			<div class="col-10 text-center mx-2 mt-1 mb-3"> Pol Viñas</div>
+			<div class="col-10 text-center mx-2 mt-1 mb-3"> <b>Pol Viñas</b></div>
 			<div id="myModal8" class="modal">
 			  	<div class="close col-12 d-flex justify-content-end">
 					<img src="img/btnCloseDiv.png" class="img-fluid" onclick="tancaDiv(8);">

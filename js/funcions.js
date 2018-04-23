@@ -59,22 +59,30 @@ function mostrarIdiomes()
 }
 
 
-function agrandaDiv(num){
-	if(num==1) document.getElementById("videoStJ1").src="img/animacions/animacioAlumne1.mp4";
-	else if(num==2) document.getElementById("videoStJ2").src="img/animacions/animacioAlumne2.mp4";
-	else if(num==3) document.getElementById("videoStJ3").src="img/animacions/animacioAlumne3.mp4";
-	else if(num==4) document.getElementById("videoStJ4").src="img/animacions/animacioAlumne4.mp4";
-	else if(num==5) document.getElementById("videoStJ5").src="img/animacions/animacioAlumne5.mp4";
+function agrandaDiv(num,tipus=""){
+	if(tipus!="")
+	{
+		if(num==1) document.getElementById("videoStJ1").src="img/animacions/animacioAlumne1.mp4";
+		else if(num==2) document.getElementById("videoStJ2").src="img/animacions/animacioAlumne2.mp4";
+		else if(num==3) document.getElementById("videoStJ3").src="img/animacions/animacioAlumne3.mp4";
+		else if(num==4) document.getElementById("videoStJ4").src="img/animacions/animacioAlumne4.mp4";
+		else if(num==5) document.getElementById("videoStJ5").src="img/animacions/animacioAlumne5.mp4";
+	}
+	
 	document.getElementById("myModal"+num).style.display = "block";
 	
 }
-function tancaDiv(num)
+function tancaDiv(num, tipus="")
 {
-	if(num==1) document.getElementById("videoStJ1").src="";
-	else if(num==2) document.getElementById("videoStJ2").src="";
-	else if(num==3) document.getElementById("videoStJ3").src="";
-	else if(num==4) document.getElementById("videoStJ4").src="";
-	else if(num==5) document.getElementById("videoStJ5").src="";
+	if(tipus!="")
+	{
+		if(num==1) document.getElementById("videoStJ1").src="";
+		else if(num==2) document.getElementById("videoStJ2").src="";
+		else if(num==3) document.getElementById("videoStJ3").src="";
+		else if(num==4) document.getElementById("videoStJ4").src="";
+		else if(num==5) document.getElementById("videoStJ5").src="";
+		
+	}
 	document.getElementById("myModal"+num).style.display = "none";
 }
 

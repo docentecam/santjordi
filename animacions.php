@@ -6,11 +6,11 @@
 
 		<div class="row mx-0 mt-4 mt-md-0"> 
 		    <div class="col-sm-12 col-md-4 col-lg-3">
-				<img class=" col-12 img-fluid cursorPC" src="img/animacions/animacio1.png" alt="" title="" onclick="agrandaDiv(1);">
+				<img class=" col-12 img-fluid cursorPC" src="img/animacions/animacio1.png" alt="" title="" onclick="agrandaDiv(1,'V');">
 			    <div  class="col-12 text-center"><span class="CA" style="display:none;"><b>Odissea a Barcelona</b></span><span class="ES" style="display:none;"><b>Odisea en Barcelona</b></span></div>
 				<div class="col-12 text-center mb-1">Adrià Morilla </div>
 				<div id="myModal1" class="modal">
-				  	<div class="close col-12 d-flex justify-content-end"><img src="img/btnCloseDiv.png" class="img-fluid" onclick="tancaDiv(1);"></div>
+				  	<div class="close col-12 d-flex justify-content-end"><img src="img/btnCloseDiv.png" class="img-fluid" onclick="tancaDiv(1,'V');"></div>
 				 	<div class="row">	
 					  	<div class="col-12 col-md-6 offset-md-3">
 					  		<div class="row">
@@ -41,11 +41,11 @@
 	    	</div>
 
 	    	<div class="col-sm-12 col-md-4 col-lg-3">
-				<img class=" col-12 img-fluid cursorPC" src="img/animacions/animacio2.png" alt="" title="" onclick="agrandaDiv(2);">
+				<img class=" col-12 img-fluid cursorPC" src="img/animacions/animacio2.png" alt="" title="" onclick="agrandaDiv(2,'V');">
 			    <div  class="col-12 text-center"><span class="CA" style="display:none;"><b>Un Desconegut Inesperat</b></span><span class="ES" style="display:none;"><b>Un Desconocido Inesperado</b></span></div>
 				<div class="col-12 text-center mb-4">Iván Ruiz </div>
 				<div id="myModal2" class="modal">
-				  	<div class="close col-12 d-flex justify-content-end"><img src="img/btnCloseDiv.png" class="img-fluid" onclick="tancaDiv(2);"></div>
+				  	<div class="close col-12 d-flex justify-content-end"><img src="img/btnCloseDiv.png" class="img-fluid" onclick="tancaDiv(2,'V');"></div>
 				 	<div class="row">	
 					  	<div class="col-12 col-md-6 offset-md-3">
 					  		<div class="row">
@@ -77,11 +77,11 @@
 	    	</div>
 
 			 <div class="col-sm-12 col-md-4 col-lg-3">
-							<img class=" col-12 img-fluid cursorPC" src="img/animacions/animacio3.png" alt="" title="" onclick="agrandaDiv(3);">
+							<img class=" col-12 img-fluid cursorPC" src="img/animacions/animacio3.png" alt="" title="" onclick="agrandaDiv(3,'V');">
 						    <div  class="col-12 text-center"><span class="CA" style="display:none;"><b>L’aventura del Petit Cavaller</b></span><span class="ES" style="display:none;"><b>La aventura del Pequeño Caballero</b></span></div>
 							<div class="col-12 text-center mb-4">Eva Sopale</div>
 							<div id="myModal3" class="modal">
-							  	<div class="close col-12 d-flex justify-content-end"><img src="img/btnCloseDiv.png" class="img-fluid" onclick="tancaDiv(3);"></div>
+							  	<div class="close col-12 d-flex justify-content-end"><img src="img/btnCloseDiv.png" class="img-fluid" onclick="tancaDiv(3,'V');"></div>
 							 	<div class="row">	
 								  	<div class="col-12 col-md-6 offset-md-3">
 								  		<div class="row">
@@ -114,11 +114,11 @@
 							</div>
 				    	</div>
 						<div class="col-sm-12 col-md-4 col-lg-3">
-										<img class=" col-12 img-fluid cursorPC" src="img/animacions/animacio4.png" alt="" title="" onclick="agrandaDiv(4);">
+										<img class=" col-12 img-fluid cursorPC" src="img/animacions/animacio4.png" alt="" title="" onclick="agrandaDiv(4,'V');">
 									    <div  class="col-12 text-center"><span class="CA" style="display:none;"><b>Malson abans de Sant Jordi</b></span><span class="ES" style="display:none;"><b>Pesadilla antes de Sant Jordi</b></span></div>
 										<div class="col-12 text-center mb-4">Nicolás Torres </div>
 										<div id="myModal4" class="modal">
-										  	<div class="close col-12 d-flex justify-content-end"><img src="img/btnCloseDiv.png" class="img-fluid" onclick="tancaDiv(4);"></div>
+										  	<div class="close col-12 d-flex justify-content-end"><img src="img/btnCloseDiv.png" class="img-fluid" onclick="tancaDiv(4,'V');"></div>
 										 	<div class="row">	
 											  	<div class="col-12 col-md-6 offset-md-3">
 											  		<div class="row">
@@ -148,11 +148,11 @@
 										</div>
 							    	</div>
 									<div class="col-sm-12 col-md-4 col-lg-3">
-													<img class=" col-12 img-fluid cursorPC" src="img/animacions/animacio5.png" alt="" title="" onclick="agrandaDiv(5);">
+													<img class=" col-12 img-fluid cursorPC" src="img/animacions/animacio5.png" alt="" title="" onclick="agrandaDiv(5,'V');">
 												    <div  class="col-12 text-center"><span class="CA" style="display:none;"><b>Una Història Distinta</b></span><span class="ES" style="display:none;"><b>Una Historia Distinta</b></span></div>
 													<div class="col-12 text-center mb-4">Juan Reyes</div>
 													<div id="myModal5" class="modal">
-													  	<div class="close col-12 d-flex justify-content-end"><img src="img/btnCloseDiv.png" class="img-fluid" onclick="tancaDiv(5);"></div>
+													  	<div class="close col-12 d-flex justify-content-end"><img src="img/btnCloseDiv.png" class="img-fluid" onclick="tancaDiv(5,'V');"></div>
 													 	<div class="row">	
 														  	<div class="col-12 col-md-6 offset-md-3">
 														  		<div class="row">
