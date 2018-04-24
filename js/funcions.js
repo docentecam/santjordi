@@ -67,6 +67,7 @@ function agrandaDiv(num,tipus=""){
 		else if(num==3) document.getElementById("videoStJ3").src="img/animacions/animacioAlumne3.mp4";
 		else if(num==4) document.getElementById("videoStJ4").src="img/animacions/animacioAlumne4.mp4";
 		else if(num==5) document.getElementById("videoStJ5").src="img/animacions/animacioAlumne5.mp4";
+		else if(num==6) document.getElementById("videoStJ6").src="img/animacions/animacioAlumne6.mp4";
 	}
 	
 	document.getElementById("myModal"+num).style.display = "block";
@@ -81,6 +82,7 @@ function tancaDiv(num, tipus="")
 		else if(num==3) document.getElementById("videoStJ3").src="";
 		else if(num==4) document.getElementById("videoStJ4").src="";
 		else if(num==5) document.getElementById("videoStJ5").src="";
+		else if(num==6) document.getElementById("videoStJ6").src="";
 		
 	}
 	document.getElementById("myModal"+num).style.display = "none";
