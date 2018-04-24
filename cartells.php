@@ -26,7 +26,7 @@
 					<div class="col-12 col-md mt-lg-4 ml-lg-3">
 						<div class="row">
 							<div class="col col-md-12 offset-1 offset-md-0 d-flex align-items-end my-3 "><img src="img/cartells/cartellFoto1.png" class="img-fluid " >&nbsp;&nbsp;&nbsp;<span class="textWhite"><b>Marina Aguiló</b></span></div>
-							<div class="col-12 col-lg-12 mt-lg-4 textWhite">
+							<div class="col-12 col-lg-6 mt-lg-4 textWhite">
 								<p>
 									<span class="CA textWhite">
 										Els llibres et transporten a un món de fantasia i imaginació al mateix temps que et permeten viure mil històries. 
@@ -56,7 +56,7 @@
 					<div class="col-12 col-md  offset-lg-1 mt-lg-4"><img src="img/cartells/cartellAlumne2.png" class="img-fluid"></div>
 					<div class="col-12 col-md mt-lg-4 ml-lg-3">
 						<div class="col col-md-12 offset-1 offset-md-0 my-3 d-flex align-items-end"><img src="img/cartells/cartellFoto2.png" class="img-fluid " >&nbsp;&nbsp;&nbsp;<span class="textWhite"><b>Rebeca Burgos</b></span></div>
-						<div class="col-12 col-lg-12 mt-lg-4 textWhite">
+						<div class="col-12 col-lg-6 mt-lg-4 textWhite">
 							<p>
 								<span class="CA textWhite">
 									El drac petit, fet de plastilina, intenta acostar als nens als llibres i veure que els monstres poden ser adorables. La resta del cartell està realitzat amb Photoshop i Illustrator, donant l'efecte de plastilina per unificar-ho tot.
@@ -87,7 +87,7 @@
 								<b>Mari Cazorla</b>
 							</span>
 						</div>
-						<div class="col-12 col-lg-12 mt-lg-4 textWhite">
+						<div class="col-12 col-lg-6 mt-lg-4 textWhite">
 							<p>
 								<span class="CA textWhite">
 									Amb aquest projecte artístic volia barrejar una tècnica digital juntament amb una tècnica molt més manual, 
@@ -120,7 +120,7 @@
 								<b>Ana Del Campo</b>
 							</span>
 						</div>
-						<div class="col-12 col-lg-12 mt-lg-4 textWhite">
+						<div class="col-12 col-lg-6 mt-lg-4 textWhite">
 							<p>
 								<span class="CA textWhite">
 									En el meu pòster volia recrear una rosa en el seu test. Per a això, utilitzant plastilina, he creat la rosa pètal a pètal, intentant que sembli el més realista possible. Després, vaig continuar amb les fulles buscant la textura perfecta mitjançant les llums i vaig canviar el test per un llibre fet en plastilina. Finalment utilitzant Illustrator vaig substituir la tija de la rosa per la frase "Sant Jordi 2018".
@@ -151,7 +151,7 @@
 								<b>Sara Garcimartín</b>
 							</span>
 						</div>
-						<div class="col-12 col-lg-12 mt-lg-4 textWhite">
+						<div class="col-12 col-lg-6 mt-lg-4 textWhite">
 							<p>
 								<span class="CA textWhite">
 									El meu pòster representa una cua de drac que té com a funció ser un punt de llibre.Barrejant tècniques manuals i digitals, he treballat principalment amb tipografia. El llibre va ser creat amb plastilina, Illustrator i Photoshop. Amb aquest pòster vull expressar que, de vegades, en els petits detalls com podria ser un punt de llibre, s'amaguen grans coses. Feliç Sant Jordi!
@@ -182,7 +182,7 @@
 								<b>Belén Garrido</b>
 							</span>
 						</div>
-						<div class="col-12 col-lg-12 mt-lg-4 textWhite">
+						<div class="col-12 col-lg-6 mt-lg-4 textWhite">
 							<p>
 								<span class="CA textWhite">
 									Qualsevol dona pot ser una guerrera, una Santa Jordina. És igual el color de pell que tinguis,
@@ -214,7 +214,7 @@
 								<b>Rosa Gilibert</b>
 							</span>
 						</div>
-						<div class="col-12 col-lg-12 mt-lg-4 textWhite">
+						<div class="col-12 col-lg-6 mt-lg-4 textWhite">
 							<p>
 								<span class="CA textWhite">
 									La meva intenció des d’un principi va ser sortir de la monotonia del que representa Sant Jordi i demostrar la estima que tinc a Barcelona. El mar està inspirat amb l’estil tant característic de Gaudí, el Trencadís. 
@@ -246,7 +246,7 @@
 								<b>Pol Viñas</b>
 							</span>
 						</div>
-						<div class="col-12 col-lg-12 mt-lg-4 textWhite">
+						<div class="col-12 col-lg-6 mt-lg-4 textWhite">
 							<p>
 								<span class="CA textWhite">
 									La meva idea és traslladar la llegenda de Sant Jordi a l'època actual, substituint el cavall de l'heroi per un cotxe, rescatant a la princesa i a l'última ovella del poble.
