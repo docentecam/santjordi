@@ -122,7 +122,7 @@
 			</span>
 		</p>
 	</div>
-	<div class="col-lg-3 offset-lg-3 mt-3 order-0 order-md-1 ">
+	<div class="col-lg-6 offset-lg-3 mt-3 order-0 order-md-1 ">
 		<img src="img/CapturaHangout2.JPG" class="img-fluid borderRound">
 	</div>
 </div>
