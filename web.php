@@ -118,7 +118,7 @@
 				Per poder crear una pàgina web, és indispensable tenir un equip de disseny. En el nostre cas, dins del projecte Treballs als barris, col·laborem amb les especialitats de Disseny 2D/3D i amb Animació de productes audiovisuals 2D/3D. En conseqüència necessitem l'ajuda de tot l'equip digital i una eina idònia per comunicar-nos entre tots a través de l'aplicació gratuïta de Google hangouts(una aplicació web per fer videoconferències i xatejar), necessària per aclarir dubtes, conceptes i aspectes sobre la web i engegar les tasques que ha de dur a terme cada especialitat.
 			</span>	
 			<span class="ES" style="display:none;">
-				Para poder crear una página web, es indispensable tener un equipo de diseño. En nuestro caso, dentro del proyecte Trabajos en los barrios, colaboramos con las especialidades de Diseño 2D/3D y con Animación de productos audiovisuales 2D/3D. Nos comunicamos entre todos a través de la aplicación de Google Hangouts, para aclarar conceptos de la web y las tareas que tiene que llevar a cabo cada especialidad.
+				Para poder crear una página web, es indispensable tener un equipo de diseño. En nuestro caso, dentro del projecte Treballs als barris, colaboramos con las especialidades de Diseño 2D/3D y con Animación de productos audiovisuales 2D/3D. Nos comunicamos entre todos a través de la aplicación de Google Hangouts, para aclarar conceptos de la web y las tareas que tiene que llevar a cabo cada especialidad.
 			</span>
 		</p>
 	</div>

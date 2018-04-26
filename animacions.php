@@ -134,13 +134,9 @@
 													<h5><b>Nicolás Torres </b> </h5>
 													<p class="mt-sm-2 mt-md-3 mt-lg-4 ">
 														<span class="CA " style="display:none; ">
-														  	He utilitzat un estil basat en el píxel art característic dels videojocs de les primeres
-															màquines recreatives. A més he introduït referències de pel·lícules de fantasia i ciència
-															ficció de les quals sóc fan.
+														  	He basat l'estil de la meva animació barrejant la perspectiva dels videojocs clàssics en 2D amb un estil de dibuix molt inspirat en l'anime. Tots els elements han estat dissenyats per mi.
 														</span><span class="ES" style="display:none;">
-															He utilizado un estilo basado en el pixel art característico de los videojuegos de las
-															primeras máquinas recreativas. Además he introducido referencias de películas de
-															fantasía y ciencia ficción de las cuales soy fan.
+															He basado el estilo de mi animación mezclando la perspectiva de los videojuegos clásicos en 2D con un estilo de dibujo muy inspirado en el anime. Todos los elementos han sido diseñados por mí.
 														</span>
 													</p>
 												</div>  
